@@ -1,0 +1,18 @@
+Indicador A2
+
+Porcentaje de gestantes que ingresan a educacion grupal presencial o remota en APS de tematicas de autocuidado, preparacion para el parto y apoyo a la crianza
+
+Numerador: 59335
+Denominador: 127896
+Porcentaje: 46.39
+Filas filtradas: 21347
+
+Detalle numerador:
+- Codigo: 27500110
+- Significado: Educación en grupo - Educación prenatal (Nutrición-lactancia-crianza-autocuidado-preparación parto y otros)
+- Columna: COL22 = Gestantes - APS
+
+Detalle denominador:
+- Codigo: 01080008
+- Significado: Gestantes Ingresadas
+- Columna: COL01 = TOTAL

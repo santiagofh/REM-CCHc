@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.streamlit/
+*.pdf
+ecxel de Indicadores*.xlsx
+.env

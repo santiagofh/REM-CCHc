@@ -1,0 +1,24 @@
+Indicador H2
+
+Porcentaje de mujeres con acompañamiento durante el preparto y parto
+
+Numerador: 79799
+Denominador: 95096
+Porcentaje: 83.91
+Filas filtradas: 5380
+
+Codigos del numerador (partos vaginales):
+- 29101728: Acompañamiento - Durante el trabajo de parto
+
+Codigos del numerador (cesareas):
+- 29101742: Acompañamiento durante la cesárea
+
+Codigos del denominador:
+- 01030100: Vaginal
+- 01030300: Cesárea Electiva
+- 24090700: Cesárea Urgencia
+- 29101714: Instrumental
+- 29101715: Parto prehospitalario (en establecimientos salud o ambulancias)
+- 29101716: Partos fuera de la red de salud
+- 29101717: Parto en domicilio - Con atención profesional
+- 29101718: Parto en domicilio - Sin atención profesional

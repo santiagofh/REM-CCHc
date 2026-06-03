@@ -1,0 +1,56 @@
+{
+  "indicador": {
+    "numero": "A2",
+    "nombre": "Porcentaje de gestantes que ingresan a educacion grupal presencial o remota en APS de tematicas de autocuidado, preparacion para el parto y apoyo a la crianza"
+  },
+  "formula": {
+    "numerador": "Numero de gestantes que ingresan a educacion grupal presencial o remota en APS",
+    "denominador": "Total de gestantes ingresadas a control prenatal",
+    "porcentaje": "(numerador / denominador) * 100"
+  },
+  "filtros_aplicados": {
+    "Ano": "2025",
+    "Mes": null,
+    "IdServicio": null,
+    "IdRegion": null,
+    "IdComuna": null,
+    "IdEstablecimiento": null
+  },
+  "resultado": {
+    "numerador": 59335,
+    "denominador": 127896,
+    "porcentaje": 46.39,
+    "filas_filtradas": 21347
+  },
+  "detalle_codigos": {
+    "numerador": {
+      "codigo": [
+        "27500110"
+      ],
+      "significado": {
+        "27500110": "Educación en grupo - Educación prenatal (Nutrición-lactancia-crianza-autocuidado-preparación parto y otros)"
+      },
+      "columna": {
+        "codigo_columna": "COL22",
+        "nombre_columna": "Gestantes - APS"
+      }
+    },
+    "denominador": {
+      "codigo": [
+        "01080008"
+      ],
+      "significado": {
+        "01080008": "Gestantes Ingresadas"
+      },
+      "columna": {
+        "codigo_columna": "COL01",
+        "nombre_columna": "TOTAL"
+      }
+    }
+  },
+  "supuestos": [
+    "El numerador usa el codigo 27500110 de REM A27 y la columna COL22, que corresponde a Gestantes - APS.",
+    "El denominador usa el codigo 01080008 de REM A05 y la columna COL01, que corresponde al total de gestantes ingresadas.",
+    "No se consideran Nivel Secundario ni Nivel Terciario para el numerador, porque el indicador especifica atencion primaria."
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "indicador": {
+    "numero": "A4",
+    "nombre": "Porcentaje de controles de salud entregados a diadas dentro de los 10 dias de vida del recien nacido o nacida"
+  },
+  "formula": {
+    "numerador": "Numero de diadas controladas dentro de los 10 dias de vida del recien nacido/a",
+    "denominador": "Numero de recien nacidos ingresados a control salud",
+    "porcentaje": "(numerador / denominador) * 100"
+  },
+  "filtros_aplicados": {
+    "Ano": "2025",
+    "Mes": null,
+    "IdServicio": null,
+    "IdRegion": null,
+    "IdComuna": null,
+    "IdEstablecimiento": null
+  },
+  "resultado": {
+    "numerador": 73901,
+    "denominador": 97280,
+    "porcentaje": 75.97,
+    "filas_filtradas": 25284
+  },
+  "detalle_codigos": {
+    "numerador": {
+      "01110106": "Puérpera con recién nacido hasta 10 días de vida - Médico/a",
+      "01110107": "Puérpera con recién nacido hasta 10 días de vida - Matrona/ón"
+    },
+    "denominador": {
+      "05225100": "Menor o igual a 28 días"
+    }
+  },
+  "supuestos": [
+    "El numerador usa los codigos de control de puerpera con recien nacido hasta 10 dias de vida, porque representan el control de la diada en REM A01.",
+    "El numerador suma Col01 de los codigos 01110106 y 01110107.",
+    "El denominador usa Col01 del codigo 05225100 de REM A05, seccion E.",
+    "SRDM se mantiene solo como medio de verificacion complementario y no se usa en el calculo porque no se indico una fuente de datos para ese sistema."
+  ]
+}

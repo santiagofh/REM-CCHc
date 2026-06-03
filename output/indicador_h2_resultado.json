@@ -1,0 +1,48 @@
+{
+  "indicador": {
+    "numero": "H2",
+    "nombre": "Porcentaje de mujeres con acompañamiento durante el preparto y parto"
+  },
+  "formula": {
+    "numerador": "Numero de partos con acompanamiento durante el preparto y parto",
+    "denominador": "Numero de partos de mujeres beneficiarias",
+    "porcentaje": "(numerador / denominador) * 100"
+  },
+  "filtros_aplicados": {
+    "Ano": "2025",
+    "Mes": null,
+    "IdServicio": null,
+    "IdRegion": null,
+    "IdComuna": null,
+    "IdEstablecimiento": null
+  },
+  "resultado": {
+    "numerador": 79799,
+    "denominador": 95096,
+    "porcentaje": 83.91,
+    "filas_filtradas": 5380
+  },
+  "detalle_codigos": {
+    "numerador_partos_vaginales": {
+      "29101728": "Acompañamiento - Durante el trabajo de parto"
+    },
+    "numerador_cesareas": {
+      "29101742": "Acompañamiento durante la cesárea"
+    },
+    "denominador": {
+      "01030100": "Vaginal",
+      "01030300": "Cesárea Electiva",
+      "24090700": "Cesárea Urgencia",
+      "29101714": "Instrumental",
+      "29101715": "Parto prehospitalario (en establecimientos salud o ambulancias)",
+      "29101716": "Partos fuera de la red de salud",
+      "29101717": "Parto en domicilio - Con atención profesional",
+      "29101718": "Parto en domicilio - Sin atención profesional"
+    }
+  },
+  "supuestos": [
+    "Para partos vaginales, el numerador considera solo el codigo de acompanamiento durante el trabajo de parto y excluye el acompanamiento solo en el expulsivo.",
+    "Para cesareas, el numerador suma Col01 (Programada) y Col02 (Urgencia) del codigo de acompanamiento durante la cesarea.",
+    "El denominador suma Col01 de los codigos de tipo de parto identificados en la seccion A de REM A024."
+  ]
+}

@@ -1,0 +1,1693 @@
+Region;Servicio de salud;Comuna;Establecimiento;CodigoEstablecimiento;Numerador;Denominador;PorcentajeCumplimiento
+Antofagasta;Servicio de Salud Antofagasta;Antofagasta;Centro Comunitario de Salud Familiar Antofagasta;103704;35;50;70.0
+Antofagasta;Servicio de Salud Antofagasta;Antofagasta;Centro Comunitario de Salud Familiar Coviefi;200621;31;34;91.18
+Antofagasta;Servicio de Salud Antofagasta;Antofagasta;Centro de Salud Familiar Antonio Rendic (Ex Cautín);103301;186;207;89.86
+Antofagasta;Servicio de Salud Antofagasta;Antofagasta;Centro de Salud Familiar Central Oriente de Antofagasta;103308;148;218;67.89
+Antofagasta;Servicio de Salud Antofagasta;Antofagasta;Centro de Salud Familiar Centro Sur de Antofagasta;103303;213;244;87.3
+Antofagasta;Servicio de Salud Antofagasta;Antofagasta;Centro de Salud Familiar Corvallis;103302;168;191;87.96
+Antofagasta;Servicio de Salud Antofagasta;Antofagasta;Centro de Salud Familiar Dra. Maria Cristina Rojas Neumann;200216;173;264;65.53
+Antofagasta;Servicio de Salud Antofagasta;Antofagasta;Centro de Salud Familiar Juan Pablo II de Antofagasta;103304;141;141;100.0
+Antofagasta;Servicio de Salud Antofagasta;Antofagasta;Centro de Salud Familiar Norte de Antofagasta;103300;160;228;70.18
+Antofagasta;Servicio de Salud Antofagasta;Antofagasta;Centro de Salud Familiar Valdivieso;200450;135;135;100.0
+Antofagasta;Servicio de Salud Antofagasta;Calama;Centro Comunitario de Salud Familiar Alemania;103707;42;46;91.3
+Antofagasta;Servicio de Salud Antofagasta;Calama;Centro Comunitario de Salud Familiar Oasis;200241;24;34;70.59
+Antofagasta;Servicio de Salud Antofagasta;Calama;Centro Comunitario de Salud Familiar Sur;103705;40;49;81.63
+Antofagasta;Servicio de Salud Antofagasta;Calama;Centro de Salud Familiar Alemania de Calama;103307;295;348;84.77
+Antofagasta;Servicio de Salud Antofagasta;Calama;Centro de Salud Familiar Central de Calama;103305;246;366;67.21
+Antofagasta;Servicio de Salud Antofagasta;Calama;Centro de Salud Familiar Montt;103306;132;224;58.93
+Antofagasta;Servicio de Salud Antofagasta;Calama;Centro de Salud Familiar Norponiente;103312;99;110;90.0
+Antofagasta;Servicio de Salud Antofagasta;Maria Elena;Centro de Salud Familiar María Elena;103309;9;26;34.62
+Antofagasta;Servicio de Salud Antofagasta;Mejillones;Hospital de Mejillones;103104;106;139;76.26
+Antofagasta;Servicio de Salud Antofagasta;San Pedro de Atacama;Centro de Salud Familiar San Pedro Atacama;103311;86;96;89.58
+Antofagasta;Servicio de Salud Antofagasta;San Pedro de Atacama;Posta de Salud Rural Toconao;103403;4;8;50.0
+Antofagasta;Servicio de Salud Antofagasta;Sierra Gorda;Posta de Salud Rural Baquedano;103400;4;12;33.33
+Antofagasta;Servicio de Salud Antofagasta;Sierra Gorda;Posta de Salud Rural Sierra Gorda;103401;1;3;33.33
+Antofagasta;Servicio de Salud Antofagasta;Taltal;Hospital 21 de Mayo (Taltal);103103;60;77;77.92
+Antofagasta;Servicio de Salud Antofagasta;Tocopilla;Hospital Dr. Marcos Macuada (Tocopilla);103102;66;134;49.25
+Arica Parinacota;Servicio de Salud Arica y Parinacota;Arica;Centro Comunitario de Salud Familiar Cerro La Cruz;101704;13;13;100.0
+Arica Parinacota;Servicio de Salud Arica y Parinacota;Arica;Centro Comunitario de Salud Familiar Dr. Miguel Massa Sassi;101702;4;34;11.76
+Arica Parinacota;Servicio de Salud Arica y Parinacota;Arica;Centro Comunitario de Salud Familiar Dr. René García Valenzuela;101703;40;71;56.34
+Arica Parinacota;Servicio de Salud Arica y Parinacota;Arica;Centro de Salud Familiar Dr. Amador Neghme de Arica;101302;161;206;78.16
+Arica Parinacota;Servicio de Salud Arica y Parinacota;Arica;Centro de Salud Familiar E.U. Iris Veliz Hume (Ex Oriente);101303;169;313;53.99
+Arica Parinacota;Servicio de Salud Arica y Parinacota;Arica;Centro de Salud Familiar Eugenio Petruccelli Astudillo (ex Punta Norte);101307;51;310;16.45
+Arica Parinacota;Servicio de Salud Arica y Parinacota;Arica;Centro de Salud Familiar Matrona Rosa Vascopé Zarzola;200866;165;206;80.1
+Arica Parinacota;Servicio de Salud Arica y Parinacota;Arica;Centro de Salud Familiar Remigio Sapunar Marín;101305;105;224;46.88
+Arica Parinacota;Servicio de Salud Arica y Parinacota;Arica;Centro de Salud Familiar Víctor Bertín Soto;101300;98;207;47.34
+Arica Parinacota;Servicio de Salud Arica y Parinacota;Arica;Posta de Salud Rural Poconchile;101401;4;17;23.53
+Arica Parinacota;Servicio de Salud Arica y Parinacota;Arica;Posta de Salud Rural San Miguel de Azapa;101400;45;125;36.0
+Arica Parinacota;Servicio de Salud Arica y Parinacota;Arica;Posta de Salud Rural Sobraya;101408;4;45;8.89
+Arica Parinacota;Servicio de Salud Arica y Parinacota;Camarones;Posta de Salud Rural Codpa;101406;1;2;50.0
+Arica Parinacota;Servicio de Salud Arica y Parinacota;General Lagos;Posta de Salud Rural Visviri;101404;3;5;60.0
+Arica Parinacota;Servicio de Salud Arica y Parinacota;Putre;Centro de Salud Familiar Putre;101304;5;13;38.46
+Atacama;Servicio de Salud Atacama;Alto del Carmen;Centro de Salud Familiar Alto del Carmen;104322;2;12;16.67
+Atacama;Servicio de Salud Atacama;Caldera;Centro Comunitario de Salud Familiar Orfelia Lavín;104701;17;25;68.0
+Atacama;Servicio de Salud Atacama;Caldera;Centro de Salud Familiar Rosario Corvalán;104301;51;94;54.26
+Atacama;Servicio de Salud Atacama;Chañaral;Centro de Salud Familiar Dr. Luis Herrera;104309;72;59;122.03
+Atacama;Servicio de Salud Atacama;Chañaral;Posta de Salud Rural El Salado de Chañaral;104401;0;2;0.0
+Atacama;Servicio de Salud Atacama;Copiapó;Centro de Salud Familiar Candelaria Rosario;104305;31;59;52.54
+Atacama;Servicio de Salud Atacama;Copiapó;Centro de Salud Familiar Dr. Bernardo Mellibovsky;104321;139;148;93.92
+Atacama;Servicio de Salud Atacama;Copiapó;Centro de Salud Familiar Juan Martínez;104302;61;103;59.22
+Atacama;Servicio de Salud Atacama;Copiapó;Centro de Salud Familiar Manuel Rodríguez;104306;89;96;92.71
+Atacama;Servicio de Salud Atacama;Copiapó;Centro de Salud Familiar Paipote;104307;81;147;55.1
+Atacama;Servicio de Salud Atacama;Copiapó;Centro de Salud Familiar Pedro León Gallo;104303;137;215;63.72
+Atacama;Servicio de Salud Atacama;Copiapó;Centro de Salud Familiar Rosario-Palomar;104304;24;120;20.0
+Atacama;Servicio de Salud Atacama;Copiapó;Centro de Salud Familiar Santa Elvira;104300;62;98;63.27
+Atacama;Servicio de Salud Atacama;Diego de Almagro;Centro de Salud Familiar El Salvador;104311;8;2;400.0
+Atacama;Servicio de Salud Atacama;Diego de Almagro;Hospital Dr. Florencio Vargas (Diego de Almagro);104102;39;55;70.91
+Atacama;Servicio de Salud Atacama;Freirina;Centro de Salud Familiar Freirina;104314;28;46;60.87
+Atacama;Servicio de Salud Atacama;Freirina;Posta de Salud Rural Carrizalillo (Freirina);104409;0;1;0.0
+Atacama;Servicio de Salud Atacama;Huasco;Centro de Salud Familiar Juan Verdaguer;104319;2;28;7.14
+Atacama;Servicio de Salud Atacama;Huasco;Hospital Dr. Manuel Magalhaes Medling (Huasco);104104;10;31;32.26
+Atacama;Servicio de Salud Atacama;Huasco;Posta de Salud Rural Jeremías Cortés;104416;0;5;0.0
+Atacama;Servicio de Salud Atacama;Huasco;Posta de Salud Rural Padre Mariano Avellana Lasierra;104415;1;1;100.0
+Atacama;Servicio de Salud Atacama;Huasco;Posta de Salud Rural Segundo Ponce;104413;1;0;
+Atacama;Servicio de Salud Atacama;Tierra Amarilla;Centro de Salud Familiar Dr. Salvador Allende Gossens;104308;51;64;79.69
+Atacama;Servicio de Salud Atacama;Tierra Amarilla;Posta de Salud Rural Los Loros;104400;10;12;83.33
+Atacama;Servicio de Salud Atacama;Vallenar;Centro de Salud Familiar Baquedano;104316;33;52;63.46
+Atacama;Servicio de Salud Atacama;Vallenar;Centro de Salud Familiar Estación;104313;64;98;65.31
+Atacama;Servicio de Salud Atacama;Vallenar;Centro de Salud Familiar Hermanos Carrera;104315;33;42;78.57
+Atacama;Servicio de Salud Atacama;Vallenar;Centro de Salud Familiar Joan Crawford Astudillo;104317;83;142;58.45
+Atacama;Servicio de Salud Atacama;Vallenar;Posta de Salud Rural Domeyko;104405;4;0;
+Aysén del General Carlos Ibañez del Campo;Servicio de Salud Aysén;Aisén;Centro Comunitario de Salud Familiar  Villa Mañihuales;125418;3;0;
+Aysén del General Carlos Ibañez del Campo;Servicio de Salud Aysén;Aisén;Centro Comunitario de Salud Familiar Puerto Chacabuco;125417;2;1;200.0
+Aysén del General Carlos Ibañez del Campo;Servicio de Salud Aysén;Aisén;Centro Comunitario de Salud Familiar Ribera Sur;125701;14;14;100.0
+Aysén del General Carlos Ibañez del Campo;Servicio de Salud Aysén;Aisén;Centro de Salud Familiar Puerto Aysen;200380;65;112;58.04
+Aysén del General Carlos Ibañez del Campo;Servicio de Salud Aysén;Chile Chico;Hospital Dr. Leopoldo Ortega Rodríguez (Chile Chico);125102;11;14;78.57
+Aysén del General Carlos Ibañez del Campo;Servicio de Salud Aysén;Cisnes;Hospital Dr. Jorge Ibar Bruce (Cisnes);125104;7;10;70.0
+Aysén del General Carlos Ibañez del Campo;Servicio de Salud Aysén;Cochrane;Hospital Lord Cochrane;125103;6;10;60.0
+Aysén del General Carlos Ibañez del Campo;Servicio de Salud Aysén;Coyhaique;CESFAM  Víctor Domingo Silva;125300;171;191;89.53
+Aysén del General Carlos Ibañez del Campo;Servicio de Salud Aysén;Coyhaique;Consultorio Alejandro Gutiérrez;125301;196;215;91.16
+Aysén del General Carlos Ibañez del Campo;Servicio de Salud Aysén;Coyhaique;Posta de Salud Rural Lago Atravesado;125423;0;1;0.0
+Aysén del General Carlos Ibañez del Campo;Servicio de Salud Aysén;Coyhaique;Posta de Salud Rural Valle Simpson;125414;0;1;0.0
+Aysén del General Carlos Ibañez del Campo;Servicio de Salud Aysén;Guaitecas;Posta de Salud Rural Melinka;125401;1;1;100.0
+Aysén del General Carlos Ibañez del Campo;Servicio de Salud Aysén;O'Higgins;Posta de Salud Rural Villa O'Higgins;125425;0;1;0.0
+Biobío;Servicio de Salud Arauco;Arauco;Centro de Salud Familiar Carampangue;128438;34;46;73.91
+Biobío;Servicio de Salud Arauco;Arauco;Centro de Salud Familiar Laraquete;128414;27;35;77.14
+Biobío;Servicio de Salud Arauco;Arauco;Centro de Salud Familiar Tubul;128729;15;20;75.0
+Biobío;Servicio de Salud Arauco;Arauco;Hospital San Vicente de Arauco;128113;83;114;72.81
+Biobío;Servicio de Salud Arauco;Arauco;Posta de Salud Rural Las Puentes;128440;0;1;0.0
+Biobío;Servicio de Salud Arauco;Arauco;Posta de Salud Rural Llico (Arauco);128444;2;1;200.0
+Biobío;Servicio de Salud Arauco;Arauco;Posta de Salud Rural Punta Lavapié;128413;4;5;80.0
+Biobío;Servicio de Salud Arauco;Arauco;Posta de Salud Rural Ramadillas;128412;6;5;120.0
+Biobío;Servicio de Salud Arauco;Cañete;Centro Comunitario de Salud Familiar Antiquina;128416;13;16;81.25
+Biobío;Servicio de Salud Arauco;Cañete;Hospital Intercultural Kallvu Llanka (Cañete);128111;138;189;73.02
+Biobío;Servicio de Salud Arauco;Cañete;Posta de Salud Rural Cayucupil;128415;12;12;100.0
+Biobío;Servicio de Salud Arauco;Cañete;Posta de Salud Rural Huentelolén;128418;21;24;87.5
+Biobío;Servicio de Salud Arauco;Cañete;Posta de Salud Rural Llenquehue;128423;5;7;71.43
+Biobío;Servicio de Salud Arauco;Cañete;Posta de Salud Rural Lloncao;128424;4;4;100.0
+Biobío;Servicio de Salud Arauco;Cañete;Posta de Salud Rural Pangueco (Cañete);128446;10;10;100.0
+Biobío;Servicio de Salud Arauco;Cañete;Posta de Salud Rural Pocuno;128425;4;5;80.0
+Biobío;Servicio de Salud Arauco;Contulmo;Centro Comunitario de Salud Familiar Elicura;128426;9;1;900.0
+Biobío;Servicio de Salud Arauco;Contulmo;Hospital de Contulmo;128112;37;42;88.1
+Biobío;Servicio de Salud Arauco;Curanilahue;Centro de Salud Familiar Eleuterio Ramírez;128327;61;93;65.59
+Biobío;Servicio de Salud Arauco;Curanilahue;Hospital Provincial Dr. Rafael Avaría (Curanilahue);128109;118;123;95.93
+Biobío;Servicio de Salud Arauco;Curanilahue;Posta de Salud Rural San José de Colico;128442;6;7;85.71
+Biobío;Servicio de Salud Arauco;Lebu;Centro de Salud Familiar Lebu Norte;128311;52;62;83.87
+Biobío;Servicio de Salud Arauco;Lebu;Hospital de Lebu;128110;61;100;61.0
+Biobío;Servicio de Salud Arauco;Lebu;Posta de Salud Rural Isla Mocha;128410;0;2;0.0
+Biobío;Servicio de Salud Arauco;Lebu;Posta de Salud Rural Pehuén;128406;4;10;40.0
+Biobío;Servicio de Salud Arauco;Lebu;Posta de Salud Rural Santa Rosa (Lebu);128443;2;6;33.33
+Biobío;Servicio de Salud Arauco;Los Álamos;Centro Comunitario de Salud Familiar Los Álamos;128728;40;40;100.0
+Biobío;Servicio de Salud Arauco;Los Álamos;Centro de Salud Familiar Los Álamos;128328;84;91;92.31
+Biobío;Servicio de Salud Arauco;Los Álamos;Posta de Salud Rural Antihuala;128417;17;17;100.0
+Biobío;Servicio de Salud Arauco;Los Álamos;Posta de Salud Rural Pangue;128408;7;7;100.0
+Biobío;Servicio de Salud Arauco;Los Álamos;Posta de Salud Rural Tres Pinos;128407;6;6;100.0
+Biobío;Servicio de Salud Arauco;Tirúa;Centro Comunitario de Salud Familiar Quidico;128730;25;25;100.0
+Biobío;Servicio de Salud Arauco;Tirúa;Centro de Salud Familiar Isabel Jiménez;128324;26;40;65.0
+Biobío;Servicio de Salud Arauco;Tirúa;Posta de Salud Rural Alto Quilantahue;128421;1;0;
+Biobío;Servicio de Salud Arauco;Tirúa;Posta de Salud Rural Casa de Piedra;128422;6;6;100.0
+Biobío;Servicio de Salud Arauco;Tirúa;Posta de Salud Rural Primer Agua;128447;7;7;100.0
+Biobío;Servicio de Salud Arauco;Tirúa;Posta de Salud Rural Ranquilhue;128420;7;9;77.78
+Biobío;Servicio de Salud Biobío;Alto Biobío;Centro de Salud Familiar Ralco;120312;20;27;74.07
+Biobío;Servicio de Salud Biobío;Alto Biobío;Posta de Salud Rural Butalelbum;120471;0;1;0.0
+Biobío;Servicio de Salud Biobío;Alto Biobío;Posta de Salud Rural Callaqui;120444;1;1;100.0
+Biobío;Servicio de Salud Biobío;Alto Biobío;Posta de Salud Rural Cauñicú;120464;1;3;33.33
+Biobío;Servicio de Salud Biobío;Alto Biobío;Posta de Salud Rural Malla Malla;120449;1;2;50.0
+Biobío;Servicio de Salud Biobío;Alto Biobío;Posta de Salud Rural Malla Palmucho;120450;0;1;0.0
+Biobío;Servicio de Salud Biobío;Alto Biobío;Posta de Salud Rural Pitril;120441;2;3;66.67
+Biobío;Servicio de Salud Biobío;Alto Biobío;Posta de Salud Rural Ralco Lepoy;120448;7;10;70.0
+Biobío;Servicio de Salud Biobío;Alto Biobío;Posta de Salud Rural Trapa Trapa;120445;2;6;33.33
+Biobío;Servicio de Salud Biobío;Antuco;Centro de Salud Familiar Antuco;120303;19;19;100.0
+Biobío;Servicio de Salud Biobío;Antuco;Posta de Salud Rural Los Canelos (Antuco);120415;2;1;200.0
+Biobío;Servicio de Salud Biobío;Cabrero;Centro Comunitario de Salud Familiar Cabrero;200243;7;8;87.5
+Biobío;Servicio de Salud Biobío;Cabrero;Centro de Salud Familiar Lautaro Cáceres Ramos;120305;102;146;69.86
+Biobío;Servicio de Salud Biobío;Cabrero;Centro de Salud Familiar Monteaguila;120304;55;61;90.16
+Biobío;Servicio de Salud Biobío;Cabrero;Posta de Salud Rural Charrúa;120456;1;1;100.0
+Biobío;Servicio de Salud Biobío;Cabrero;Posta de Salud Rural Chillancito;120455;2;3;66.67
+Biobío;Servicio de Salud Biobío;Cabrero;Posta de Salud Rural Colicheo;120457;1;1;100.0
+Biobío;Servicio de Salud Biobío;Laja;Centro Comunitario de Salud Familiar Laja;200267;23;27;85.19
+Biobío;Servicio de Salud Biobío;Laja;Consultorio General Rural del  Laja;201396;14;15;93.33
+Biobío;Servicio de Salud Biobío;Laja;Hospital Comunitario de Laja;120105;90;119;75.63
+Biobío;Servicio de Salud Biobío;Laja;Posta de Salud Rural Puente Perales;120421;8;8;100.0
+Biobío;Servicio de Salud Biobío;Laja;Posta de Salud Rural Santa Elena (Laja);120420;4;6;66.67
+Biobío;Servicio de Salud Biobío;Los Ángeles;CESFAM Sur Dr. Pablo Murúa Barbenza;120311;70;99;70.71
+Biobío;Servicio de Salud Biobío;Los Ángeles;Centro Comunitario de Salud Familiar El Peral;120407;32;32;100.0
+Biobío;Servicio de Salud Biobío;Los Ángeles;Centro Comunitario de Salud Familiar Galvarino;120701;28;34;82.35
+Biobío;Servicio de Salud Biobío;Los Ángeles;Centro Comunitario de Salud Familiar Las Azaleas;120781;5;6;83.33
+Biobío;Servicio de Salud Biobío;Los Ángeles;Centro Comunitario de Salud Familiar Los Carrera;120780;21;25;84.0
+Biobío;Servicio de Salud Biobío;Los Ángeles;Centro Comunitario de Salud Familiar Los Pioneros;120710;17;17;100.0
+Biobío;Servicio de Salud Biobío;Los Ángeles;Centro Comunitario de Salud Familiar Villa Los Ríos;120711;17;27;62.96
+Biobío;Servicio de Salud Biobío;Los Ángeles;Centro de Salud Familiar 2 Septiembre;120309;161;193;83.42
+Biobío;Servicio de Salud Biobío;Los Ángeles;Centro de Salud Familiar Entre Ríos;200312;157;201;78.11
+Biobío;Servicio de Salud Biobío;Los Ángeles;Centro de Salud Familiar Nororiente de Los Ángeles;120301;134;154;87.01
+Biobío;Servicio de Salud Biobío;Los Ángeles;Centro de Salud Familiar Norte de Los Ángeles;120310;138;190;72.63
+Biobío;Servicio de Salud Biobío;Los Ángeles;Centro de Salud Familiar Nuevo Horizonte;120315;160;172;93.02
+Biobío;Servicio de Salud Biobío;Los Ángeles;Centro de Salud Familiar Santa Fe;120302;39;44;88.64
+Biobío;Servicio de Salud Biobío;Los Ángeles;Posta de Salud Rural Alborada;120414;4;4;100.0
+Biobío;Servicio de Salud Biobío;Los Ángeles;Posta de Salud Rural Chacayal Norte;120402;1;7;14.29
+Biobío;Servicio de Salud Biobío;Los Ángeles;Posta de Salud Rural Chacayal Sur;120467;6;16;37.5
+Biobío;Servicio de Salud Biobío;Los Ángeles;Posta de Salud Rural Dicahue;120411;3;3;100.0
+Biobío;Servicio de Salud Biobío;Los Ángeles;Posta de Salud Rural El Durazno ( Los Ángeles);120403;3;3;100.0
+Biobío;Servicio de Salud Biobío;Los Ángeles;Posta de Salud Rural Llano Blanco;120405;7;7;100.0
+Biobío;Servicio de Salud Biobío;Los Ángeles;Posta de Salud Rural Los Molinos;120404;1;1;100.0
+Biobío;Servicio de Salud Biobío;Los Ángeles;Posta de Salud Rural Los Robles (Los Ángeles);120413;5;5;100.0
+Biobío;Servicio de Salud Biobío;Los Ángeles;Posta de Salud Rural Los Troncos;120406;4;4;100.0
+Biobío;Servicio de Salud Biobío;Los Ángeles;Posta de Salud Rural Mesamávida (Los Ángeles);120409;2;3;66.67
+Biobío;Servicio de Salud Biobío;Los Ángeles;Posta de Salud Rural Millantú;120401;15;16;93.75
+Biobío;Servicio de Salud Biobío;Los Ángeles;Posta de Salud Rural Salto del Laja;120412;3;9;33.33
+Biobío;Servicio de Salud Biobío;Los Ángeles;Posta de Salud Rural San Carlos;120408;9;11;81.82
+Biobío;Servicio de Salud Biobío;Los Ángeles;Posta de Salud Rural San Gerardo;120410;1;3;33.33
+Biobío;Servicio de Salud Biobío;Los Ángeles;Posta de Salud Rural Virquenco;120468;21;23;91.3
+Biobío;Servicio de Salud Biobío;Mulchén;Centro Comunitario de Salud Familiar Mulchén;120702;19;22;86.36
+Biobío;Servicio de Salud Biobío;Mulchén;Centro Comunitario de Salud Familiar Villa La Granja;200413;27;32;84.38
+Biobío;Servicio de Salud Biobío;Mulchén;Hospital de Mulchén;120102;102;121;84.3
+Biobío;Servicio de Salud Biobío;Mulchén;Posta de Salud Rural Alhuelemu;120470;3;3;100.0
+Biobío;Servicio de Salud Biobío;Mulchén;Posta de Salud Rural El Cisne;120416;2;2;100.0
+Biobío;Servicio de Salud Biobío;Mulchén;Posta de Salud Rural Mañihual;120465;2;2;100.0
+Biobío;Servicio de Salud Biobío;Mulchén;Posta de Salud Rural Rapelco;120466;2;2;100.0
+Biobío;Servicio de Salud Biobío;Mulchén;Posta de Salud Rural Santa Adriana;120418;1;1;100.0
+Biobío;Servicio de Salud Biobío;Mulchén;Posta de Salud Rural Tierras Libres;120417;1;2;50.0
+Biobío;Servicio de Salud Biobío;Nacimiento;Centro Comunitario de Salud Familiar Julio Hemmelmann;120703;44;49;89.8
+Biobío;Servicio de Salud Biobío;Nacimiento;Centro Comunitario de Salud Familiar Lautaro;120704;27;34;79.41
+Biobío;Servicio de Salud Biobío;Nacimiento;Hospital Comunitario y Familiar de Nacimiento;120103;63;70;90.0
+Biobío;Servicio de Salud Biobío;Nacimiento;Posta de Salud Rural Carrizal;120427;1;1;100.0
+Biobío;Servicio de Salud Biobío;Nacimiento;Posta de Salud Rural Culenco;120423;4;6;66.67
+Biobío;Servicio de Salud Biobío;Nacimiento;Posta de Salud Rural Dollinco (Nacimiento);120422;1;2;50.0
+Biobío;Servicio de Salud Biobío;Negrete;Centro de Salud Familiar Yanequén;120307;46;80;57.5
+Biobío;Servicio de Salud Biobío;Negrete;Posta de Salud Rural Coigue;120425;3;7;42.86
+Biobío;Servicio de Salud Biobío;Negrete;Posta de Salud Rural Rihue;120429;3;7;42.86
+Biobío;Servicio de Salud Biobío;Quilaco;Consultorio  Quilaco;120316;23;23;100.0
+Biobío;Servicio de Salud Biobío;Quilaco;Posta de Salud Rural Loncopangue;120432;5;5;100.0
+Biobío;Servicio de Salud Biobío;Quilaco;Posta de Salud Rural Piñiquihue;120438;2;2;100.0
+Biobío;Servicio de Salud Biobío;Quilaco;Posta de Salud Rural Rucalhue;120431;1;3;33.33
+Biobío;Servicio de Salud Biobío;Quilleco;Centro de Salud Familiar Canteras Villa Mercedes;120314;24;29;82.76
+Biobío;Servicio de Salud Biobío;Quilleco;Centro de Salud Familiar Quilleco;120306;24;26;92.31
+Biobío;Servicio de Salud Biobío;San Rosendo;Centro de Salud Familiar Dr. Carlos Echeverría Véjar;120308;26;28;92.86
+Biobío;Servicio de Salud Biobío;Santa Bárbara;Centro Comunitario de Salud Familiar Santa Bárbara;200259;15;20;75.0
+Biobío;Servicio de Salud Biobío;Santa Bárbara;Hospital Comunitario de Santa Bárbara;120106;57;68;83.82
+Biobío;Servicio de Salud Biobío;Santa Bárbara;Posta de Salud Rural El Huachi;120443;1;1;100.0
+Biobío;Servicio de Salud Biobío;Santa Bárbara;Posta de Salud Rural Los Boldos;120447;1;0;
+Biobío;Servicio de Salud Biobío;Santa Bárbara;Posta de Salud Rural Los Junquillos;120469;2;2;100.0
+Biobío;Servicio de Salud Biobío;Santa Bárbara;Posta de Salud Rural Villucura;120442;1;1;100.0
+Biobío;Servicio de Salud Biobío;Tucapel;Consultorio Tucapel;120458;28;31;90.32
+Biobío;Servicio de Salud Biobío;Tucapel;Hospital Comunitario Dr. Roberto Muñoz Urrutia de Huépil;120107;47;71;66.2
+Biobío;Servicio de Salud Biobío;Tucapel;Posta de Salud Rural Polcura;120460;5;6;83.33
+Biobío;Servicio de Salud Biobío;Tucapel;Posta de Salud Rural Trupán;120459;11;11;100.0
+Biobío;Servicio de Salud Biobío;Yumbel;Centro de Salud Familiar Yumbel Estación;120313;33;39;84.62
+Biobío;Servicio de Salud Biobío;Yumbel;Hospital Comunitario de Yumbel;120104;48;69;69.57
+Biobío;Servicio de Salud Biobío;Yumbel;Posta de Salud Rural Canchillas;120473;2;2;100.0
+Biobío;Servicio de Salud Biobío;Yumbel;Posta de Salud Rural La Aguada;120451;3;3;100.0
+Biobío;Servicio de Salud Biobío;Yumbel;Posta de Salud Rural Rere;120452;1;1;100.0
+Biobío;Servicio de Salud Biobío;Yumbel;Posta de Salud Rural Río Claro;120454;3;4;75.0
+Biobío;Servicio de Salud Biobío;Yumbel;Posta de Salud Rural Tomeco;120453;1;1;100.0
+Biobío;Servicio de Salud Concepción;Chiguayante;CESFAM  Pinares Dr. Eloisa Díaz Insunza;118301;53;83;63.86
+Biobío;Servicio de Salud Concepción;Chiguayante;CESFAM Dr. Virginio Gomez G.  Valle La Piedra;201233;33;46;71.74
+Biobío;Servicio de Salud Concepción;Chiguayante;Centro de Salud Familiar Chiguayante;118307;75;83;90.36
+Biobío;Servicio de Salud Concepción;Chiguayante;Centro de Salud Familiar La Leonera;118314;67;95;70.53
+Biobío;Servicio de Salud Concepción;Concepción;Centro Comunitario de Salud Familiar Chaimávida;200052;8;14;57.14
+Biobío;Servicio de Salud Concepción;Concepción;Centro de Salud Familiar Juan Soto Fernández;118310;53;69;76.81
+Biobío;Servicio de Salud Concepción;Concepción;Centro de Salud Familiar Lorenzo Arenas;118309;62;96;64.58
+Biobío;Servicio de Salud Concepción;Concepción;Centro de Salud Familiar O'Higgins;118304;123;174;70.69
+Biobío;Servicio de Salud Concepción;Concepción;Centro de Salud Familiar Pedro de Valdivia;118303;39;38;102.63
+Biobío;Servicio de Salud Concepción;Concepción;Centro de Salud Familiar Santa Sabina;118317;55;83;66.27
+Biobío;Servicio de Salud Concepción;Concepción;Centro de Salud Familiar Tucapel;118306;80;136;58.82
+Biobío;Servicio de Salud Concepción;Concepción;Centro de Salud Familiar Villa Nonguén (Organizaciones sin fines de lucro y ONG);118609;36;76;47.37
+Biobío;Servicio de Salud Concepción;Concepción;Centro de Salud Familiar Víctor Manuel Fernández;118305;156;197;79.19
+Biobío;Servicio de Salud Concepción;Coronel;Centro Comunitario de Salud Familiar Escuadrón;118713;21;32;65.62
+Biobío;Servicio de Salud Concepción;Coronel;Centro Comunitario de Salud Familiar Lagunillas;118712;4;7;57.14
+Biobío;Servicio de Salud Concepción;Coronel;Centro de Salud Familiar Carlos Pinto Fierro;118311;81;133;60.9
+Biobío;Servicio de Salud Concepción;Coronel;Centro de Salud Familiar Lagunillas;118312;52;113;46.02
+Biobío;Servicio de Salud Concepción;Coronel;Centro de Salud Familiar Yobilo;118313;91;153;59.48
+Biobío;Servicio de Salud Concepción;Coronel;Hospital San José (Coronel);118105;87;163;53.37
+Biobío;Servicio de Salud Concepción;Coronel;Posta de Salud Rural Patagual;118446;1;1;100.0
+Biobío;Servicio de Salud Concepción;Coronel;Posta de Salud Rural Puerto Norte Isla Sta. María;118403;0;1;0.0
+Biobío;Servicio de Salud Concepción;Florida;Centro Comunitario de Salud Familiar Copiulemu;118700;7;9;77.78
+Biobío;Servicio de Salud Concepción;Florida;Hospital San Agustín de Florida;118108;28;38;73.68
+Biobío;Servicio de Salud Concepción;Florida;Posta de Salud Rural Cancha Los Monteros;118441;0;1;0.0
+Biobío;Servicio de Salud Concepción;Florida;Posta de Salud Rural Granerillos;118439;2;2;100.0
+Biobío;Servicio de Salud Concepción;Florida;Posta de Salud Rural Roa;118445;1;1;100.0
+Biobío;Servicio de Salud Concepción;Hualqui;Centro Comunitario de Salud Familiar Hualqui;118726;25;29;86.21
+Biobío;Servicio de Salud Concepción;Hualqui;Centro de Salud Familiar Hualqui;118326;86;102;84.31
+Biobío;Servicio de Salud Concepción;Hualqui;Posta de Salud Rural Quilacoya;118431;4;5;80.0
+Biobío;Servicio de Salud Concepción;Hualqui;Posta de Salud Rural Talcamávida;118430;8;13;61.54
+Biobío;Servicio de Salud Concepción;Lota;Centro Comunitario de Salud Familiar Colcura;118704;4;12;33.33
+Biobío;Servicio de Salud Concepción;Lota;Centro de Salud Familiar Dr. Juan Cartes Arias;118325;67;84;79.76
+Biobío;Servicio de Salud Concepción;Lota;Centro de Salud Familiar Dr. Sergio Lagos Olave (ex Nº 4 Lota Bajo);118316;30;59;50.85
+Biobío;Servicio de Salud Concepción;Lota;Hospital de Lota;118106;105;117;89.74
+Biobío;Servicio de Salud Concepción;San Pedro de la Paz;Centro Comunitario de Salud Familiar Boca Sur;118708;11;15;73.33
+Biobío;Servicio de Salud Concepción;San Pedro de la Paz;Centro Comunitario de Salud Familiar Boca Sur Viejo;200369;11;24;45.83
+Biobío;Servicio de Salud Concepción;San Pedro de la Paz;Centro de Salud Familiar Boca Sur;118302;86;110;78.18
+Biobío;Servicio de Salud Concepción;San Pedro de la Paz;Centro de Salud Familiar Lomas Coloradas;118318;126;159;79.25
+Biobío;Servicio de Salud Concepción;San Pedro de la Paz;Centro de Salud Familiar San Pedro de La Costa;118319;79;127;62.2
+Biobío;Servicio de Salud Concepción;San Pedro de la Paz;Centro de Salud Familiar San Pedro de La Paz Candelaria;118308;74;102;72.55
+Biobío;Servicio de Salud Concepción;Santa Juana;Hospital Clorinda Avello (Santa Juana);118107;68;61;111.48
+Biobío;Servicio de Salud Concepción;Santa Juana;Posta de Salud Rural Chacay (Santa Juana);118435;3;2;150.0
+Biobío;Servicio de Salud Concepción;Santa Juana;Posta de Salud Rural La Generala;118432;1;1;100.0
+Biobío;Servicio de Salud Concepción;Santa Juana;Posta de Salud Rural Tanahuillín;118434;2;2;100.0
+Biobío;Servicio de Salud Concepción;Santa Juana;Posta de Salud Rural Torre Dorada;118436;1;1;100.0
+Biobío;Servicio de Salud Talcahuano;Hualpén;Centro Comunitario de Salud Familiar España;119701;10;10;100.0
+Biobío;Servicio de Salud Talcahuano;Hualpén;Centro Comunitario de Salud Familiar Leocán Portus Govinden;119709;21;30;70.0
+Biobío;Servicio de Salud Talcahuano;Hualpén;Centro Comunitario de Salud Familiar Llafkelen;119707;16;19;84.21
+Biobío;Servicio de Salud Talcahuano;Hualpén;Centro Comunitario de Salud Familiar Parque Central;200283;10;7;142.86
+Biobío;Servicio de Salud Talcahuano;Hualpén;Centro Comunitario de Salud Familiar Rene Schneider;119706;8;12;66.67
+Biobío;Servicio de Salud Talcahuano;Hualpén;Centro de Salud Familiar Hualpencillo;119301;116;119;97.48
+Biobío;Servicio de Salud Talcahuano;Hualpén;Centro de Salud Familiar La Floresta;119310;124;120;103.33
+Biobío;Servicio de Salud Talcahuano;Hualpén;Centro de Salud Familiar Talcahuano Sur;119309;63;93;67.74
+Biobío;Servicio de Salud Talcahuano;Penco;Centro Comunitario de Salud Familiar Cosmito;119703;9;13;69.23
+Biobío;Servicio de Salud Talcahuano;Penco;Centro Comunitario de Salud Familiar Los Forjadores;119704;7;10;70.0
+Biobío;Servicio de Salud Talcahuano;Penco;Centro Comunitario de Salud Familiar Ríos de Chile;200285;4;6;66.67
+Biobío;Servicio de Salud Talcahuano;Penco;Centro de Salud Familiar Lirquén;119311;80;103;77.67
+Biobío;Servicio de Salud Talcahuano;Penco;Centro de Salud Familiar Penco;119304;47;112;41.96
+Biobío;Servicio de Salud Talcahuano;Talcahuano;Centro Comunitario de Salud Familiar 8 de Mayo;119702;14;21;66.67
+Biobío;Servicio de Salud Talcahuano;Talcahuano;Centro Comunitario de Salud Familiar Esmeralda;119705;38;50;76.0
+Biobío;Servicio de Salud Talcahuano;Talcahuano;Centro Comunitario de Salud Familiar Libertad Gaete;119710;16;26;61.54
+Biobío;Servicio de Salud Talcahuano;Talcahuano;Centro Comunitario de Salud Familiar Los Lobos la Gloria;119711;6;19;31.58
+Biobío;Servicio de Salud Talcahuano;Talcahuano;Centro Comunitario de Salud Familiar Villa Centinela;200284;5;20;25.0
+Biobío;Servicio de Salud Talcahuano;Talcahuano;Centro de Salud Familiar Alcalde Leocán Portus;119303;105;123;85.37
+Biobío;Servicio de Salud Talcahuano;Talcahuano;Centro de Salud Familiar Los Cerros;119308;29;98;29.59
+Biobío;Servicio de Salud Talcahuano;Talcahuano;Centro de Salud Familiar Paulina Avendaño Pereda;119307;99;121;81.82
+Biobío;Servicio de Salud Talcahuano;Talcahuano;Centro de Salud Familiar San Vicente;119302;56;93;60.22
+Biobío;Servicio de Salud Talcahuano;Talcahuano;Posta de Salud Rural Tumbes;119400;12;13;92.31
+Biobío;Servicio de Salud Talcahuano;Tome;Centro Comunitario de Salud Familiar Cerro Estanque;200470;16;19;84.21
+Biobío;Servicio de Salud Talcahuano;Tome;Centro Comunitario de Salud Familiar El Santo Esfuerzo de Todos;119708;11;10;110.0
+Biobío;Servicio de Salud Talcahuano;Tome;Centro Comunitario de Salud Familiar Punta de Parra;200287;4;6;66.67
+Biobío;Servicio de Salud Talcahuano;Tome;Centro Comunitario de Salud Familiar Rafael;201126;12;13;92.31
+Biobío;Servicio de Salud Talcahuano;Tome;Centro de Salud Familiar Bellavista;119306;68;76;89.47
+Biobío;Servicio de Salud Talcahuano;Tome;Centro de Salud Familiar Dichato;119402;36;40;90.0
+Biobío;Servicio de Salud Talcahuano;Tome;Centro de Salud Familiar Dr. Alberto Reyes;119305;103;105;98.1
+Biobío;Servicio de Salud Talcahuano;Tome;Posta de Salud Rural Coliumo;119404;3;3;100.0
+Biobío;Servicio de Salud Talcahuano;Tome;Posta de Salud Rural Menque;119403;2;2;100.0
+Coquimbo;Servicio de Salud Coquimbo;Andacollo;Hospital Dr. José Arraño (Andacollo);105106;57;61;93.44
+Coquimbo;Servicio de Salud Coquimbo;Canela;Centro de Salud Familiar Canela;105309;36;61;59.02
+Coquimbo;Servicio de Salud Coquimbo;Canela;Posta de Salud Rural Los Rulos;105483;1;1;100.0
+Coquimbo;Servicio de Salud Coquimbo;Combarbalá;Centro Comunitario de Salud Familiar Cogotí 18;105460;4;5;80.0
+Coquimbo;Servicio de Salud Coquimbo;Combarbalá;Hospital San Juan de Dios (Combarbalá);105105;32;42;76.19
+Coquimbo;Servicio de Salud Coquimbo;Combarbalá;Posta de Salud Rural El Durazno(Combarbalá);105490;2;2;100.0
+Coquimbo;Servicio de Salud Coquimbo;Combarbalá;Posta de Salud Rural El Sauce (Combarbalá);105462;3;3;100.0
+Coquimbo;Servicio de Salud Coquimbo;Combarbalá;Posta de Salud Rural La Ligua;105464;1;1;100.0
+Coquimbo;Servicio de Salud Coquimbo;Combarbalá;Posta de Salud Rural Manquehua;105441;2;2;100.0
+Coquimbo;Servicio de Salud Coquimbo;Combarbalá;Posta de Salud Rural Quilitapia;105463;3;2;150.0
+Coquimbo;Servicio de Salud Coquimbo;Combarbalá;Posta de Salud Rural Ramadilla;105465;1;1;100.0
+Coquimbo;Servicio de Salud Coquimbo;Combarbalá;Posta de Salud Rural San Marcos (Combarbalá);105434;1;1;100.0
+Coquimbo;Servicio de Salud Coquimbo;Coquimbo;Centro Comunitario de Salud Familiar Punta Mira;200273;19;22;86.36
+Coquimbo;Servicio de Salud Coquimbo;Coquimbo;Centro de Salud Familiar Dr. Sergio Aguilar Delgado;105323;202;234;86.32
+Coquimbo;Servicio de Salud Coquimbo;Coquimbo;Centro de Salud Familiar El Sauce;200494;169;195;86.67
+Coquimbo;Servicio de Salud Coquimbo;Coquimbo;Centro de Salud Familiar Lila Cortés Godoy;200607;161;232;69.4
+Coquimbo;Servicio de Salud Coquimbo;Coquimbo;Centro de Salud Familiar Rural Pan de Azúcar;200499;123;129;95.35
+Coquimbo;Servicio de Salud Coquimbo;Coquimbo;Centro de Salud Familiar San Juan;105303;185;229;80.79
+Coquimbo;Servicio de Salud Coquimbo;Coquimbo;Centro de Salud Familiar Santa Cecilia;105304;161;185;87.03
+Coquimbo;Servicio de Salud Coquimbo;Coquimbo;Centro de Salud Familiar Tierras Blancas;105305;156;222;70.27
+Coquimbo;Servicio de Salud Coquimbo;Coquimbo;Centro de Salud Familiar Tongoy;105321;57;67;85.07
+Coquimbo;Servicio de Salud Coquimbo;Coquimbo;Posta de Salud Rural Guanaqueros;105405;16;16;100.0
+Coquimbo;Servicio de Salud Coquimbo;Illapel;Centro de Salud Familiar Urbano de Illapel;200366;37;68;54.41
+Coquimbo;Servicio de Salud Coquimbo;Illapel;Centro de Salud Familiar Villa San Rafael de Rozas;105326;35;40;87.5
+Coquimbo;Servicio de Salud Coquimbo;Illapel;Posta de Salud Rural Cañas Uno;105487;3;6;50.0
+Coquimbo;Servicio de Salud Coquimbo;Illapel;Posta de Salud Rural Cárcamo;105443;1;1;100.0
+Coquimbo;Servicio de Salud Coquimbo;Illapel;Posta de Salud Rural Huintil;105444;1;2;50.0
+Coquimbo;Servicio de Salud Coquimbo;Illapel;Posta de Salud Rural Limáhuida;105445;2;2;100.0
+Coquimbo;Servicio de Salud Coquimbo;Illapel;Posta de Salud Rural Peralillo Illapel;105447;1;3;33.33
+Coquimbo;Servicio de Salud Coquimbo;Illapel;Posta de Salud Rural Pintacura Sur;105496;2;3;66.67
+Coquimbo;Servicio de Salud Coquimbo;Illapel;Posta de Salud Rural Plan de Hornos;105485;0;1;0.0
+Coquimbo;Servicio de Salud Coquimbo;Illapel;Posta de Salud Rural Santa Virginia;105448;1;1;100.0
+Coquimbo;Servicio de Salud Coquimbo;Illapel;Posta de Salud Rural Socavón;105504;2;3;66.67
+Coquimbo;Servicio de Salud Coquimbo;Illapel;Posta de Salud Rural Tunga Norte;105449;1;1;100.0
+Coquimbo;Servicio de Salud Coquimbo;Illapel;Posta de Salud Rural Tunga Sur;105486;1;0;
+Coquimbo;Servicio de Salud Coquimbo;La Higuera;Centro de Salud Familiar La Higuera;105314;8;10;80.0
+Coquimbo;Servicio de Salud Coquimbo;La Higuera;Posta de Salud Rural Caleta Hornos;105500;11;11;100.0
+Coquimbo;Servicio de Salud Coquimbo;La Higuera;Posta de Salud Rural El Trapiche;105506;3;3;100.0
+Coquimbo;Servicio de Salud Coquimbo;La Higuera;Posta de Salud Rural Los Choros;105505;2;6;33.33
+Coquimbo;Servicio de Salud Coquimbo;La Serena;Centro Comunitario de Salud Familiar Arcos de Pinamar;200402;29;42;69.05
+Coquimbo;Servicio de Salud Coquimbo;La Serena;Centro Comunitario de Salud Familiar Lambert;105702;12;14;85.71
+Coquimbo;Servicio de Salud Coquimbo;La Serena;Centro Comunitario de Salud Familiar Villa Alemania;105701;12;15;80.0
+Coquimbo;Servicio de Salud Coquimbo;La Serena;Centro Comunitario de Salud Familiar Villa el Indio;105700;10;18;55.56
+Coquimbo;Servicio de Salud Coquimbo;La Serena;Centro de Salud Familiar Cardenal Caro;105300;74;187;39.57
+Coquimbo;Servicio de Salud Coquimbo;La Serena;Centro de Salud Familiar Cardenal Raúl Silva Henríquez de La Serena;105319;102;182;56.04
+Coquimbo;Servicio de Salud Coquimbo;La Serena;Centro de Salud Familiar Dr. Emilio Schaffhauser;105313;184;325;56.62
+Coquimbo;Servicio de Salud Coquimbo;La Serena;Centro de Salud Familiar Juan Pablo II (La Serena);105325;91;166;54.82
+Coquimbo;Servicio de Salud Coquimbo;La Serena;Centro de Salud Familiar Las Compañías;105301;52;130;40.0
+Coquimbo;Servicio de Salud Coquimbo;La Serena;Centro de Salud Familiar Pedro Aguirre Cerda;105302;130;229;56.77
+Coquimbo;Servicio de Salud Coquimbo;La Serena;Posta de Salud Rural Algarrobito;105400;8;7;114.29
+Coquimbo;Servicio de Salud Coquimbo;La Serena;Posta de Salud Rural El Romero;105402;12;11;109.09
+Coquimbo;Servicio de Salud Coquimbo;La Serena;Posta de Salud Rural Lambert;105499;6;5;120.0
+Coquimbo;Servicio de Salud Coquimbo;La Serena;Posta de Salud Rural Las Rojas;105401;11;11;100.0
+Coquimbo;Servicio de Salud Coquimbo;Los Vilos;Hospital San Pedro (Los Vilos);105108;74;123;60.16
+Coquimbo;Servicio de Salud Coquimbo;Los Vilos;Posta de Salud Rural Caimanes;105478;0;3;0.0
+Coquimbo;Servicio de Salud Coquimbo;Los Vilos;Posta de Salud Rural Guangualí;105479;1;1;100.0
+Coquimbo;Servicio de Salud Coquimbo;Los Vilos;Posta de Salud Rural Los Cóndores;105511;4;4;100.0
+Coquimbo;Servicio de Salud Coquimbo;Los Vilos;Posta de Salud Rural Quilimarí;105480;15;21;71.43
+Coquimbo;Servicio de Salud Coquimbo;Monte Patria;Centro de Salud Familiar Carén;105312;13;22;59.09
+Coquimbo;Servicio de Salud Coquimbo;Monte Patria;Centro de Salud Familiar Chañaral Alto;105311;18;21;85.71
+Coquimbo;Servicio de Salud Coquimbo;Monte Patria;Centro de Salud Familiar El Palqui;105318;38;56;67.86
+Coquimbo;Servicio de Salud Coquimbo;Monte Patria;Centro de Salud Familiar Monte Patria;105307;35;77;45.45
+Coquimbo;Servicio de Salud Coquimbo;Monte Patria;Posta de Salud Rural Chilecito;105425;4;5;80.0
+Coquimbo;Servicio de Salud Coquimbo;Monte Patria;Posta de Salud Rural Huatulame;105428;2;2;100.0
+Coquimbo;Servicio de Salud Coquimbo;Monte Patria;Posta de Salud Rural Pedregal;105431;2;2;100.0
+Coquimbo;Servicio de Salud Coquimbo;Monte Patria;Posta de Salud Rural Ramadas de Tulahuén;105489;1;2;50.0
+Coquimbo;Servicio de Salud Coquimbo;Monte Patria;Posta de Salud Rural Rapel (Monte Patria);105432;1;1;100.0
+Coquimbo;Servicio de Salud Coquimbo;Monte Patria;Posta de Salud Rural Tulahuén;105435;7;7;100.0
+Coquimbo;Servicio de Salud Coquimbo;Ovalle;Centro Comunitario de Salud Familiar Colonia Limarí;200367;11;12;91.67
+Coquimbo;Servicio de Salud Coquimbo;Ovalle;Centro Comunitario de Salud Familiar Limarí;105723;22;26;84.62
+Coquimbo;Servicio de Salud Coquimbo;Ovalle;Centro Comunitario de Salud Familiar Los Copihues;200258;18;19;94.74
+Coquimbo;Servicio de Salud Coquimbo;Ovalle;Centro Comunitario de Salud Familiar San José de la Dehesa;105722;33;40;82.5
+Coquimbo;Servicio de Salud Coquimbo;Ovalle;Centro de Salud Familiar Cerrillos de Tamaya;105315;35;55;63.64
+Coquimbo;Servicio de Salud Coquimbo;Ovalle;Centro de Salud Familiar Fray Jorge;200569;163;207;78.74
+Coquimbo;Servicio de Salud Coquimbo;Ovalle;Centro de Salud Familiar Jorge Jordán Domic;105317;99;183;54.1
+Coquimbo;Servicio de Salud Coquimbo;Ovalle;Centro de Salud Familiar Marcos Macuada;105322;104;128;81.25
+Coquimbo;Servicio de Salud Coquimbo;Ovalle;Centro de Salud Familiar Sotaquí;105324;37;50;74.0
+Coquimbo;Servicio de Salud Coquimbo;Ovalle;Posta de Salud Rural Alcones Bajo;105417;1;4;25.0
+Coquimbo;Servicio de Salud Coquimbo;Ovalle;Posta de Salud Rural Camarico (Ovalle);105416;2;5;40.0
+Coquimbo;Servicio de Salud Coquimbo;Ovalle;Posta de Salud Rural Cerro Blanco;105439;0;1;0.0
+Coquimbo;Servicio de Salud Coquimbo;Ovalle;Posta de Salud Rural Chalinga;105437;1;3;33.33
+Coquimbo;Servicio de Salud Coquimbo;Ovalle;Posta de Salud Rural Huamalata;105507;2;7;28.57
+Coquimbo;Servicio de Salud Coquimbo;Ovalle;Posta de Salud Rural Recoleta;105510;3;9;33.33
+Coquimbo;Servicio de Salud Coquimbo;Paiguano;Centro de Salud Familiar Jaime Thompson Rodríguez;105306;29;37;78.38
+Coquimbo;Servicio de Salud Coquimbo;Punitaqui;Centro de Salud Familiar Punitaqui;105308;73;71;102.82
+Coquimbo;Servicio de Salud Coquimbo;Río Hurtado;Centro de Salud Familiar Pichasca;105310;10;8;125.0
+Coquimbo;Servicio de Salud Coquimbo;Río Hurtado;Posta de Salud Rural Hurtado;105410;2;2;100.0
+Coquimbo;Servicio de Salud Coquimbo;Río Hurtado;Posta de Salud Rural Las Breas (Río Hurtado);105411;1;0;
+Coquimbo;Servicio de Salud Coquimbo;Río Hurtado;Posta de Salud Rural Samo Alto;105413;0;1;0.0
+Coquimbo;Servicio de Salud Coquimbo;Río Hurtado;Posta de Salud Rural Serón;105414;1;0;
+Coquimbo;Servicio de Salud Coquimbo;Salamanca;Centro de Salud Familiar  Valle Alto;105455;16;11;145.45
+Coquimbo;Servicio de Salud Coquimbo;Salamanca;Hospital de Salamanca;105104;76;134;56.72
+Coquimbo;Servicio de Salud Coquimbo;Salamanca;Posta de Salud Rural Arboleda Grande;105501;3;0;
+Coquimbo;Servicio de Salud Coquimbo;Salamanca;Posta de Salud Rural Camisa;105492;2;2;100.0
+Coquimbo;Servicio de Salud Coquimbo;Salamanca;Posta de Salud Rural Cuncumén(Salamanca);105452;1;1;100.0
+Coquimbo;Servicio de Salud Coquimbo;Salamanca;Posta de Salud Rural Cunlagua;105454;1;0;
+Coquimbo;Servicio de Salud Coquimbo;Salamanca;Posta de Salud Rural Quelén Bajo;105491;7;2;350.0
+Coquimbo;Servicio de Salud Coquimbo;Salamanca;Posta de Salud Rural Tahuinco;105458;4;4;100.0
+Coquimbo;Servicio de Salud Coquimbo;Salamanca;Posta de Salud Rural Tranquilla;105453;1;2;50.0
+Coquimbo;Servicio de Salud Coquimbo;Vicuña;Centro de Salud Familiar San Isidro Calingasta;200538;33;37;89.19
+Coquimbo;Servicio de Salud Coquimbo;Vicuña;Hospital San Juan de Dios (Vicuña);105107;93;103;90.29
+Coquimbo;Servicio de Salud Coquimbo;Vicuña;Posta de Salud Rural Chapilca;105474;2;2;100.0
+Coquimbo;Servicio de Salud Coquimbo;Vicuña;Posta de Salud Rural Diaguitas;105467;3;4;75.0
+Coquimbo;Servicio de Salud Coquimbo;Vicuña;Posta de Salud Rural El Molle;105468;4;6;66.67
+Coquimbo;Servicio de Salud Coquimbo;Vicuña;Posta de Salud Rural El Tambo (Vicuña);105469;10;10;100.0
+Coquimbo;Servicio de Salud Coquimbo;Vicuña;Posta de Salud Rural Gualliguaica;105509;1;1;100.0
+Coquimbo;Servicio de Salud Coquimbo;Vicuña;Posta de Salud Rural Peralillo Vicuña;105471;11;11;100.0
+Coquimbo;Servicio de Salud Coquimbo;Vicuña;Posta de Salud Rural Rivadavia;105472;2;3;66.67
+Coquimbo;Servicio de Salud Coquimbo;Vicuña;Posta de Salud Rural Talcuna;105473;4;6;66.67
+La Araucanía;Servicio de Salud Araucanía Norte;Angol;Centro Comunitario de Salud Familiar El Retiro;129703;20;23;86.96
+La Araucanía;Servicio de Salud Araucanía Norte;Angol;Centro de Salud Familiar Alemania de Angol;129303;178;170;104.71
+La Araucanía;Servicio de Salud Araucanía Norte;Angol;Centro de Salud Familiar Huequén;129301;73;90;81.11
+La Araucanía;Servicio de Salud Araucanía Norte;Angol;Centro de Salud Familiar Piedra del Águila;129304;131;132;99.24
+La Araucanía;Servicio de Salud Araucanía Norte;Angol;Posta de Salud Rural Colonia Manuel Rodríguez;129403;1;3;33.33
+La Araucanía;Servicio de Salud Araucanía Norte;Angol;Posta de Salud Rural Coyanco;129401;0;1;0.0
+La Araucanía;Servicio de Salud Araucanía Norte;Angol;Posta de Salud Rural Vegas Blancas;129400;0;1;0.0
+La Araucanía;Servicio de Salud Araucanía Norte;Collipulli;Centro Comunitario de Salud Familiar Santa Mónica;200270;9;7;128.57
+La Araucanía;Servicio de Salud Araucanía Norte;Collipulli;Hospital de Collipulli;129103;62;123;50.41
+La Araucanía;Servicio de Salud Araucanía Norte;Collipulli;Posta de Salud Rural Amargo;129413;0;1;0.0
+La Araucanía;Servicio de Salud Araucanía Norte;Collipulli;Posta de Salud Rural La Batalla;129412;2;1;200.0
+La Araucanía;Servicio de Salud Araucanía Norte;Collipulli;Posta de Salud Rural Maica;129410;8;6;133.33
+La Araucanía;Servicio de Salud Araucanía Norte;Collipulli;Posta de Salud Rural Mininco;129411;5;2;250.0
+La Araucanía;Servicio de Salud Araucanía Norte;Curacautín;Hospital Dr. Oscar Hernández E.(Curacautín);129107;77;86;89.53
+La Araucanía;Servicio de Salud Araucanía Norte;Curacautín;Posta de Salud Rural La Tepa;129443;2;2;100.0
+La Araucanía;Servicio de Salud Araucanía Norte;Curacautín;Posta de Salud Rural Malalcahuello;129441;3;2;150.0
+La Araucanía;Servicio de Salud Araucanía Norte;Curacautín;Posta de Salud Rural Rariruca;129446;2;1;200.0
+La Araucanía;Servicio de Salud Araucanía Norte;Curacautín;Posta de Salud Rural Río Blanco (Curacautín);129442;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Norte;Curacautín;Posta de Salud Rural Santa Ana;129444;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Norte;Curacautín;Posta de Salud Rural Santa Julia;129588;1;2;50.0
+La Araucanía;Servicio de Salud Araucanía Norte;Ercilla;Centro Comunitario de Salud Familiar Pailahueque;129432;6;6;100.0
+La Araucanía;Servicio de Salud Araucanía Norte;Ercilla;Consultorio  Ercilla;129302;30;27;111.11
+La Araucanía;Servicio de Salud Araucanía Norte;Ercilla;Posta de Salud Rural Temocuicui;129440;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Norte;Lonquimay;Hospital de Lonquimay;129108;46;70;65.71
+La Araucanía;Servicio de Salud Araucanía Norte;Lonquimay;Posta de Salud Rural  HUALLEN MAPU;201488;2;0;
+La Araucanía;Servicio de Salud Araucanía Norte;Lonquimay;Posta de Salud Rural Icalma;129451;3;3;100.0
+La Araucanía;Servicio de Salud Araucanía Norte;Lonquimay;Posta de Salud Rural Pedregoso (Lonquimay);129453;7;3;233.33
+La Araucanía;Servicio de Salud Araucanía Norte;Los Sauces;Consultorio  Los Sauces;129102;48;48;100.0
+La Araucanía;Servicio de Salud Araucanía Norte;Los Sauces;Posta de Salud Rural Trintre;129408;1;0;
+La Araucanía;Servicio de Salud Araucanía Norte;Lumaco;Centro Comunitario de Salud Familiar Capitán Pastene;129705;4;5;80.0
+La Araucanía;Servicio de Salud Araucanía Norte;Lumaco;Consultorio Lumaco;129105;24;18;133.33
+La Araucanía;Servicio de Salud Araucanía Norte;Lumaco;Posta de Salud Rural Chanco;129426;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Norte;Lumaco;Posta de Salud Rural Pichipellahuén;129423;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Norte;Purén;Centro Comunitario de Salud Familiar Caupolicán;200535;7;10;70.0
+La Araucanía;Servicio de Salud Araucanía Norte;Purén;Hospital de Purén;129101;55;77;71.43
+La Araucanía;Servicio de Salud Araucanía Norte;Purén;Posta de Salud Rural Coyancahuín;129405;0;1;0.0
+La Araucanía;Servicio de Salud Araucanía Norte;Purén;Posta de Salud Rural El Lingue;129406;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Norte;Purén;Posta de Salud Rural Huitranlebu;129437;1;0;
+La Araucanía;Servicio de Salud Araucanía Norte;Renaico;CECOSF Tijeral;201844;0;1;0.0
+La Araucanía;Servicio de Salud Araucanía Norte;Renaico;Centro de Salud Familiar Renaico;129300;33;46;71.74
+La Araucanía;Servicio de Salud Araucanía Norte;Renaico;Posta de Salud Rural Tijeral;129409;1;0;
+La Araucanía;Servicio de Salud Araucanía Norte;Traiguén;Hospital Dr. Dino Stagno M.(Traiguén);129104;101;120;84.17
+La Araucanía;Servicio de Salud Araucanía Norte;Traiguén;Posta de Salud Rural Didaico;129586;2;3;66.67
+La Araucanía;Servicio de Salud Araucanía Norte;Traiguén;Posta de Salud Rural Molco;129417;7;6;116.67
+La Araucanía;Servicio de Salud Araucanía Norte;Traiguén;Posta de Salud Rural Quechereguas;129418;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Norte;Traiguén;Posta de Salud Rural Quilquén;129421;2;2;100.0
+La Araucanía;Servicio de Salud Araucanía Norte;Traiguén;Posta de Salud Rural Temulemu;129420;5;6;83.33
+La Araucanía;Servicio de Salud Araucanía Norte;Victoria;CECOSF Selva Oscura;201841;8;8;100.0
+La Araucanía;Servicio de Salud Araucanía Norte;Victoria;Centro Comunitario de Salud Familiar Cons. Victoria;129718;29;36;80.56
+La Araucanía;Servicio de Salud Araucanía Norte;Victoria;Centro de Salud Familiar Victoria;129318;175;194;90.21
+La Araucanía;Servicio de Salud Araucanía Norte;Victoria;Posta de Salud Rural Púa;129430;5;1;500.0
+La Araucanía;Servicio de Salud Araucanía Norte;Victoria;Posta de Salud Rural Quino;129431;2;1;200.0
+La Araucanía;Servicio de Salud Araucanía Norte;Victoria;Posta de Salud Rural Reducción Pailahueque;129436;2;0;
+La Araucanía;Servicio de Salud Araucanía Norte;Victoria;Posta de Salud Rural Selva Oscura;129429;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Carahue;Centro Comunitario de Salud Familiar Carahue;200382;6;6;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Carahue;Centro de Salud Familiar Trovolhue;121328;20;21;95.24
+La Araucanía;Servicio de Salud Araucanía Sur;Carahue;Hospital Familiar y Comunitario Carahue;121115;102;97;105.15
+La Araucanía;Servicio de Salud Araucanía Sur;Carahue;Posta de Salud Rural Coi Coi;121512;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Carahue;Posta de Salud Rural Hueñalihuén;121518;2;1;200.0
+La Araucanía;Servicio de Salud Araucanía Sur;Carahue;Posta de Salud Rural Los Placeres;121511;3;3;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Carahue;Posta de Salud Rural Nehuentué;121520;4;4;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Carahue;Posta de Salud Rural Puyangue;121510;2;2;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Carahue;Posta de Salud Rural Santa Celia;121509;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Carahue;Posta de Salud Rural Tranapuente;121506;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Cholchol;Centro de Salud Familiar Chol Chol;121327;74;83;89.16
+La Araucanía;Servicio de Salud Araucanía Sur;Cunco;Centro Comunitario de Salud Familiar Las Villas;200383;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Cunco;Centro de Salud Familiar Andrés Sandoval Calderón;121326;26;29;89.66
+La Araucanía;Servicio de Salud Araucanía Sur;Cunco;Hospital Dr. Eduardo González Galeno (Cunco);121113;64;73;87.67
+La Araucanía;Servicio de Salud Araucanía Sur;Cunco;Posta de Salud Rural La Esperanza;121596;2;1;200.0
+La Araucanía;Servicio de Salud Araucanía Sur;Cunco;Posta de Salud Rural Las Hortensias;121491;2;0;
+La Araucanía;Servicio de Salud Araucanía Sur;Cunco;Posta de Salud Rural Quecheregue;121494;1;0;
+La Araucanía;Servicio de Salud Araucanía Sur;Curarrehue;Consultorio  Curarrehue;121313;39;46;84.78
+La Araucanía;Servicio de Salud Araucanía Sur;Curarrehue;Posta de Salud Rural Caren;121598;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Curarrehue;Posta de Salud Rural Catripulli ( Curarrehue );121581;5;2;250.0
+La Araucanía;Servicio de Salud Araucanía Sur;Curarrehue;Posta de Salud Rural Epeukura;121587;3;2;150.0
+La Araucanía;Servicio de Salud Araucanía Sur;Curarrehue;Posta de Salud Rural Quiñenahuín;121586;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Curarrehue;Posta de Salud Rural Reigolil;121583;2;2;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Freire;Centro Comunitario de Salud Familiar El Bosque;200381;10;9;111.11
+La Araucanía;Servicio de Salud Araucanía Sur;Freire;Centro de Salud Familiar Freire;121304;40;42;95.24
+La Araucanía;Servicio de Salud Araucanía Sur;Freire;Centro de Salud Familiar Quepe;121337;35;33;106.06
+La Araucanía;Servicio de Salud Araucanía Sur;Freire;Posta de Salud Rural Allipén;121563;1;0;
+La Araucanía;Servicio de Salud Araucanía Sur;Freire;Posta de Salud Rural Coipué (Freire);121565;0;1;0.0
+La Araucanía;Servicio de Salud Araucanía Sur;Freire;Posta de Salud Rural Huilío;121504;2;1;200.0
+La Araucanía;Servicio de Salud Araucanía Sur;Freire;Posta de Salud Rural Lliuco(Freire);121566;1;0;
+La Araucanía;Servicio de Salud Araucanía Sur;Freire;Posta de Salud Rural Quetroco;121564;1;0;
+La Araucanía;Servicio de Salud Araucanía Sur;Freire;Posta de Salud Rural Radal;121562;2;1;200.0
+La Araucanía;Servicio de Salud Araucanía Sur;Galvarino;Hospital de Galvarino;121111;53;59;89.83
+La Araucanía;Servicio de Salud Araucanía Sur;Galvarino;Posta de Salud Rural Ailinco;121480;1;2;50.0
+La Araucanía;Servicio de Salud Araucanía Sur;Galvarino;Posta de Salud Rural Fortín Ñielol;121482;2;3;66.67
+La Araucanía;Servicio de Salud Araucanía Sur;Galvarino;Posta de Salud Rural La Piedra;121416;5;7;71.43
+La Araucanía;Servicio de Salud Araucanía Sur;Galvarino;Posta de Salud Rural Nilpe;121479;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Galvarino;Posta de Salud Rural Pangueco (Galvarino);121561;3;3;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Galvarino;Posta de Salud Rural Rapa - Mañiuco;121478;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Galvarino;Posta de Salud Rural Repocura;121481;0;1;0.0
+La Araucanía;Servicio de Salud Araucanía Sur;Galvarino;Posta de Salud Rural Rucatraro;121484;3;5;60.0
+La Araucanía;Servicio de Salud Araucanía Sur;Galvarino;Posta de Salud Rural Santa Carolina;121483;2;0;
+La Araucanía;Servicio de Salud Araucanía Sur;Gorbea;Centro de Salud Rural Lastarria;121542;3;4;75.0
+La Araucanía;Servicio de Salud Araucanía Sur;Gorbea;Hospital de Gorbea;121119;48;49;97.96
+La Araucanía;Servicio de Salud Araucanía Sur;Gorbea;Posta de Salud Rural Liuco (Gorbea);121585;2;1;200.0
+La Araucanía;Servicio de Salud Araucanía Sur;Gorbea;Posta de Salud Rural Quitratúe;121543;15;15;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Lautaro;Centro Comunitario de Salud Familiar Dr. Maximino Beltran Mora;121789;29;19;152.63
+La Araucanía;Servicio de Salud Araucanía Sur;Lautaro;Centro Comunitario de Salud Familiar Guacolda;121787;19;22;86.36
+La Araucanía;Servicio de Salud Araucanía Sur;Lautaro;Centro Comunitario de Salud Familiar Pillanlelbún;121469;35;8;437.5
+La Araucanía;Servicio de Salud Araucanía Sur;Lautaro;Centro de Salud Familiar Lautaro;121346;110;71;154.93
+La Araucanía;Servicio de Salud Araucanía Sur;Lautaro;Posta de Salud Rural Blanco Lepín;121474;4;5;80.0
+La Araucanía;Servicio de Salud Araucanía Sur;Lautaro;Posta de Salud Rural Coihueco (Lautaro);121468;5;6;83.33
+La Araucanía;Servicio de Salud Araucanía Sur;Lautaro;Posta de Salud Rural Colonia Lautaro;121472;0;1;0.0
+La Araucanía;Servicio de Salud Araucanía Sur;Lautaro;Posta de Salud Rural Dollinco (Lautaro);121471;6;6;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Lautaro;Posta de Salud Rural El Escudo;121590;0;1;0.0
+La Araucanía;Servicio de Salud Araucanía Sur;Lautaro;Posta de Salud Rural Muco Chureo;121470;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Lautaro;Posta de Salud Rural Pumalal;121473;4;4;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Lautaro;Posta de Salud Rural Santa Rosa;121594;1;2;50.0
+La Araucanía;Servicio de Salud Araucanía Sur;Lautaro;Posta de Salud Rural Vega Larga;121591;4;4;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Lautaro;Posta de Salud Rural Ñereco;121475;8;8;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Loncoche;Consultorio Huiscapi;121547;7;7;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Loncoche;Hospital Familiar y Comunitario de Loncoche;121120;69;82;84.15
+La Araucanía;Servicio de Salud Araucanía Sur;Loncoche;Posta de Salud Rural La Paz;121548;10;12;83.33
+La Araucanía;Servicio de Salud Araucanía Sur;Loncoche;Posta de Salud Rural Pulmahue;121549;10;9;111.11
+La Araucanía;Servicio de Salud Araucanía Sur;Melipeuco;Centro de Salud Familiar Melipeuco;121311;35;32;109.38
+La Araucanía;Servicio de Salud Araucanía Sur;Melipeuco;Posta de Salud Rural Santa María Llaima;121570;4;2;200.0
+La Araucanía;Servicio de Salud Araucanía Sur;Nueva Imperial;Centro Comunitario de Salud Familiar El Alto;200290;32;34;94.12
+La Araucanía;Servicio de Salud Araucanía Sur;Nueva Imperial;Centro de Salud Familiar Nueva Imperial;121341;148;192;77.08
+La Araucanía;Servicio de Salud Araucanía Sur;Nueva Imperial;Centro de Salud Intercultural Boroa Filulawen (D);121339;8;12;66.67
+La Araucanía;Servicio de Salud Araucanía Sur;Nueva Imperial;Posta de Salud Rural Alto Boroa;121502;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Nueva Imperial;Posta de Salud Rural Chivilcoyan;121499;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Nueva Imperial;Posta de Salud Rural Mañío Ducañán;121498;1;2;50.0
+La Araucanía;Servicio de Salud Araucanía Sur;Nueva Imperial;Posta de Salud Rural Miramar;121515;2;3;66.67
+La Araucanía;Servicio de Salud Araucanía Sur;Nueva Imperial;Posta de Salud Rural Queupue;121501;0;1;0.0
+La Araucanía;Servicio de Salud Araucanía Sur;Nueva Imperial;Posta de Salud Rural Rulo;121503;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Padre Las Casas;Centro de Salud Familiar Conun Huenu;200207;139;148;93.92
+La Araucanía;Servicio de Salud Araucanía Sur;Padre Las Casas;Centro de Salud Familiar Las Colinas;121336;55;59;93.22
+La Araucanía;Servicio de Salud Araucanía Sur;Padre Las Casas;Centro de Salud Familiar Padre Las Casas;121308;116;133;87.22
+La Araucanía;Servicio de Salud Araucanía Sur;Padre Las Casas;Centro de Salud Familiar Pulmahue;121342;89;97;91.75
+La Araucanía;Servicio de Salud Araucanía Sur;Padre Las Casas;Hospital Intercultural Makewe;121201;43;45;95.56
+La Araucanía;Servicio de Salud Araucanía Sur;Padre Las Casas;Posta de Salud Rural Codopille;121592;17;18;94.44
+La Araucanía;Servicio de Salud Araucanía Sur;Padre Las Casas;Posta de Salud Rural Laurel Huacho;121459;7;9;77.78
+La Araucanía;Servicio de Salud Araucanía Sur;Padre Las Casas;Posta de Salud Rural Metrenco;121593;10;8;125.0
+La Araucanía;Servicio de Salud Araucanía Sur;Padre Las Casas;Posta de Salud Rural Roble Huacho;121458;25;28;89.29
+La Araucanía;Servicio de Salud Araucanía Sur;Padre Las Casas;Posta de Salud Rural San Ramón;121567;6;5;120.0
+La Araucanía;Servicio de Salud Araucanía Sur;Padre Las Casas;Posta de Salud Rural Truf Truf;121461;6;6;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Perquenco;Centro de Salud Familiar  Perquenco;121323;36;36;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Perquenco;Posta de Salud Rural Pitraco;121467;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Perquenco;Posta de Salud Rural Quillem;121465;1;0;
+La Araucanía;Servicio de Salud Araucanía Sur;Pitrufquén;Centro Comunitario de Salud Familiar Ultraestación;121786;17;19;89.47
+La Araucanía;Servicio de Salud Araucanía Sur;Pitrufquén;Centro de Salud Familiar Pitrufquén;121353;109;71;153.52
+La Araucanía;Servicio de Salud Araucanía Sur;Pitrufquén;Posta de Salud Rural Comuy;121531;3;3;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Pitrufquén;Posta de Salud Rural Mahuidanche;121535;1;0;
+La Araucanía;Servicio de Salud Araucanía Sur;Pitrufquén;Posta de Salud Rural Millahuín;121533;2;2;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Pitrufquén;Posta de Salud Rural Puraquina;121534;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Pucón;"CECOSF CABURGA ""KUME FELEN""";201472;16;11;145.45
+La Araucanía;Servicio de Salud Araucanía Sur;Pucón;Centro Comunitario de Salud Familiar Pucón Oriente;200509;17;18;94.44
+La Araucanía;Servicio de Salud Araucanía Sur;Pucón;Centro de Salud Familiar Rural Pucón;121355;174;198;87.88
+La Araucanía;Servicio de Salud Araucanía Sur;Pucón;Posta de Salud Rural Paillaco;121559;3;3;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Pucón;Posta de Salud Rural San Pedro de Pucón;121573;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Saavedra;Hospital Dr. Arturo Hillerns Larrañaga (Saavedra);121116;48;31;154.84
+La Araucanía;Servicio de Salud Araucanía Sur;Saavedra;Posta de Salud Rural Cheucán;121529;2;2;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Saavedra;Posta de Salud Rural Deume;121527;2;2;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Saavedra;Posta de Salud Rural El Temo;121464;3;2;150.0
+La Araucanía;Servicio de Salud Araucanía Sur;Saavedra;Posta de Salud Rural Huapi;121528;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Saavedra;Posta de Salud Rural Perquiñán;121524;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Saavedra;Posta de Salud Rural Piedra Alta;121526;3;3;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Saavedra;Posta de Salud Rural Pto. Domínguez;121505;6;5;120.0
+La Araucanía;Servicio de Salud Araucanía Sur;Saavedra;Posta de Salud Rural Puaucho(Saavedra);121521;0;1;0.0
+La Araucanía;Servicio de Salud Araucanía Sur;Saavedra;Posta de Salud Rural Quifo;121522;3;3;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Saavedra;Posta de Salud Rural Ranco;121523;3;4;75.0
+La Araucanía;Servicio de Salud Araucanía Sur;Saavedra;Posta de Salud Rural Romopulli;121525;2;2;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Temuco;Centro Comunitario de Salud Familiar Arquenco;121782;27;30;90.0
+La Araucanía;Servicio de Salud Araucanía Sur;Temuco;Centro Comunitario de Salud Familiar Las Quilas;121788;20;29;68.97
+La Araucanía;Servicio de Salud Araucanía Sur;Temuco;Centro Comunitario de Salud Familiar Villa el Salar;121780;18;21;85.71
+La Araucanía;Servicio de Salud Araucanía Sur;Temuco;Centro de Salud Docente Asistencial Monseñor Sergio Valech;121352;58;61;95.08
+La Araucanía;Servicio de Salud Araucanía Sur;Temuco;Centro de Salud Familiar Amanecer;121307;241;260;92.69
+La Araucanía;Servicio de Salud Araucanía Sur;Temuco;Centro de Salud Familiar El Carmen;200183;152;184;82.61
+La Araucanía;Servicio de Salud Araucanía Sur;Temuco;Centro de Salud Familiar Labranza;121350;142;261;54.41
+La Araucanía;Servicio de Salud Araucanía Sur;Temuco;Centro de Salud Familiar Metodista (D);121657;103;31;332.26
+La Araucanía;Servicio de Salud Araucanía Sur;Temuco;Centro de Salud Familiar Miraflores (Temuco);121303;193;201;96.02
+La Araucanía;Servicio de Salud Araucanía Sur;Temuco;Centro de Salud Familiar Pedro de Valdivia;121347;153;165;92.73
+La Araucanía;Servicio de Salud Araucanía Sur;Temuco;Centro de Salud Familiar Pueblo Nuevo;121309;116;152;76.32
+La Araucanía;Servicio de Salud Araucanía Sur;Temuco;Centro de Salud Familiar Santa Rosa;121306;134;171;78.36
+La Araucanía;Servicio de Salud Araucanía Sur;Temuco;Centro de Salud Familiar Villa Alegre;121305;120;123;97.56
+La Araucanía;Servicio de Salud Araucanía Sur;Teodoro Schmidt;Centro Comunitario de Salud Familiar Barros Arana;121575;6;7;85.71
+La Araucanía;Servicio de Salud Araucanía Sur;Teodoro Schmidt;Centro de Salud Familiar Hualpín;121349;19;17;111.76
+La Araucanía;Servicio de Salud Araucanía Sur;Teodoro Schmidt;Centro de Salud Familiar Teodoro Schmidt;121312;32;42;76.19
+La Araucanía;Servicio de Salud Araucanía Sur;Teodoro Schmidt;Posta de Salud Rural Porma;121539;1;2;50.0
+La Araucanía;Servicio de Salud Araucanía Sur;Teodoro Schmidt;Posta de Salud Rural Yenehue;121577;4;5;80.0
+La Araucanía;Servicio de Salud Araucanía Sur;Toltén;Hospital de Toltén;121118;37;48;77.08
+La Araucanía;Servicio de Salud Araucanía Sur;Toltén;Posta de Salud Rural Pocoyan;121540;4;3;133.33
+La Araucanía;Servicio de Salud Araucanía Sur;Toltén;Posta de Salud Rural Puralaco;121597;2;2;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Toltén;Posta de Salud Rural Queule;121536;13;12;108.33
+La Araucanía;Servicio de Salud Araucanía Sur;Toltén;Posta de Salud Rural Villa Boldos;121537;3;2;150.0
+La Araucanía;Servicio de Salud Araucanía Sur;Vilcún;Centro Comunitario de Salud Familiar Cherquenco;121485;9;12;75.0
+La Araucanía;Servicio de Salud Araucanía Sur;Vilcún;Centro de Salud Familiar de Cajón;121456;60;85;70.59
+La Araucanía;Servicio de Salud Araucanía Sur;Vilcún;Hospital de Vilcún;121112;54;55;98.18
+La Araucanía;Servicio de Salud Araucanía Sur;Vilcún;Posta de Salud Rural Codinhue;121488;3;3;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Vilcún;Posta de Salud Rural General López;121487;9;10;90.0
+La Araucanía;Servicio de Salud Araucanía Sur;Vilcún;Posta de Salud Rural Quintrilpe;121489;6;6;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Vilcún;Posta de Salud Rural San Patricio;121486;9;10;90.0
+La Araucanía;Servicio de Salud Araucanía Sur;Vilcún;Posta de Salud Rural Vega Redonda;121476;6;8;75.0
+La Araucanía;Servicio de Salud Araucanía Sur;Villarrica;Centro Comunitario de Salud Familiar 21 de Mayo;121781;18;22;81.82
+La Araucanía;Servicio de Salud Araucanía Sur;Villarrica;Centro Comunitario de Salud Familiar Todos los Santos;121783;19;20;95.0
+La Araucanía;Servicio de Salud Araucanía Sur;Villarrica;Centro Comunitario de Salud Familiar Ñancul;200478;8;8;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Villarrica;Centro de Salud Familiar Lican Ray;121348;40;39;102.56
+La Araucanía;Servicio de Salud Araucanía Sur;Villarrica;Centro de Salud Familiar Los Volcanes;121354;184;188;97.87
+La Araucanía;Servicio de Salud Araucanía Sur;Villarrica;Centro de Salud Familiar Villarrica;121334;161;167;96.41
+La Araucanía;Servicio de Salud Araucanía Sur;Villarrica;Hospital de Villarrica;121121;1;0;
+La Araucanía;Servicio de Salud Araucanía Sur;Villarrica;Posta de Salud Rural Añilco;121599;4;4;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Villarrica;Posta de Salud Rural Liumalla;121555;5;5;100.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Chepica;Centro de Salud Familiar Chépica;115315;68;78;87.18
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Chimbarongo;Hospital Mercedes de Chimbarongo;115108;54;78;69.23
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Chimbarongo;Posta de Salud Rural Codegua;115439;44;47;93.62
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Chimbarongo;Posta de Salud Rural Peor Es Nada;115482;10;11;90.91
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Chimbarongo;Posta de Salud Rural San Juan de La Sierra;115440;12;13;92.31
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Chimbarongo;Posta de Salud Rural Tinguiririca;115437;24;27;88.89
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Codegua;Centro Comunitario de Salud Familiar Tuncahue;200379;17;18;94.44
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Codegua;Centro de Salud Familiar Codegua;115307;79;89;88.76
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Coinco;Hospital de Coínco;115102;21;32;65.62
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Coltauco;Centro Comunitario de Salud Familiar Loreto;200931;7;19;36.84
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Coltauco;Centro de Salud Familiar Francisco Labrin de Coltauco;115309;64;87;73.56
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Coltauco;Posta de Salud Rural Idahue;115405;2;1;200.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Coltauco;Posta de Salud Rural Lo de Cuevas;115407;1;2;50.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Coltauco;Posta de Salud Rural Rinconada de Parral;115406;2;3;66.67
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Doñihue;Centro de Salud Familiar Doñihue;115308;43;61;70.49
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Doñihue;Centro de Salud Familiar Lo Miranda;115321;41;61;67.21
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Graneros;Hospital Santa Filomena de Graneros;115101;187;214;87.38
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;La Estrella;Centro de Salud Familiar La Estrella;115314;17;17;100.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Las Cabras;Centro de Salud Familiar Las Cabras;115311;55;76;72.37
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Las Cabras;Posta de Salud Rural Cocalan;115483;8;10;80.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Las Cabras;Posta de Salud Rural El Carmen ( Las Cabras);115404;11;10;110.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Las Cabras;Posta de Salud Rural El Durazno (Las Cabras);115433;6;15;40.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Las Cabras;Posta de Salud Rural El Manzano;115415;27;41;65.85
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Las Cabras;Posta de Salud Rural La Cebada;115413;5;5;100.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Las Cabras;Posta de Salud Rural La Panchina;115412;2;2;100.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Las Cabras;Posta de Salud Rural Llallauquén;115416;3;3;100.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Las Cabras;Posta de Salud Rural Santa Inés;115414;10;32;31.25
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Litueche;Hospital de Litueche;115114;43;49;87.76
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Litueche;Posta de Salud Rural Pulin;115479;2;1;200.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Litueche;Posta de Salud Rural Quelentaro;115463;1;2;50.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Lolol;Hospital de Lolol;115113;25;38;65.79
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Lolol;Posta de Salud Rural El Membrillo;115459;7;7;100.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Lolol;Posta de Salud Rural La Cabaña;115480;2;3;66.67
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Machalí;Centro Comunitario de Salud Familiar Santa Teresa;200264;14;22;63.64
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Machalí;Centro de Salud Familiar Dr. Osvaldo Ruz Orrego de Machalí;115305;92;158;58.23
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Machalí;Posta de Salud Rural Coya;115400;5;7;71.43
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Malloa;Centro de Salud Familiar de Malloa;115325;31;46;67.39
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Malloa;Centro de Salud Familiar de Pelequen;115326;36;46;78.26
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Malloa;Posta de Salud Rural Corcolén;115419;9;15;60.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Marchihue;Hospital de Marchigüe;115111;19;24;79.17
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Marchihue;Posta de Salud Rural Pailimo;115457;5;7;71.43
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Marchihue;Posta de Salud Rural Rinconada de Alcones;115469;8;11;72.73
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Mostazal;Centro de Salud Familiar San Francisco Mostazal;115306;83;73;113.7
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Mostazal;Posta de Salud Rural La Punta;115401;40;34;117.65
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Nancagua;Centro de Salud Familiar Cunaco;115328;26;37;70.27
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Nancagua;Hospital de Nancagua;115109;108;113;95.58
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Nancagua;Posta de Salud Rural Puquillay Alto;115471;2;2;100.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Nancagua;Posta de Salud Rural Puquillay Bajo;115442;3;3;100.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Nancagua;Posta de Salud Rural Yáquil;115441;4;4;100.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Olivar;Centro de Salud Familiar Gultro;115330;21;33;63.64
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Olivar;Centro de Salud Familiar Olivar Alto;115327;18;21;85.71
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Olivar;Posta de Salud Rural Olivar Bajo;115481;6;7;85.71
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Palmilla;Centro de Salud Familiar de Palmilla;115445;20;21;95.24
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Palmilla;Posta de Salud Rural Pupilla;115446;3;4;75.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Palmilla;Posta de Salud Rural San José del Carmen;115447;33;28;117.86
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Palmilla;Posta de Salud Rural Santa Irene;115448;4;5;80.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Paredones;Centro de Salud Familiar Paredones;115316;27;24;112.5
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Paredones;Posta de Salud Rural Bucalemu (Paredones);115467;1;2;50.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Paredones;Posta de Salud Rural San Pedro de Alcántara;115468;4;5;80.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Peralillo;Centro de Salud Familiar Peralillo;115313;60;62;96.77
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Peralillo;Posta de Salud Rural Calleuque;115456;1;0;
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Peralillo;Posta de Salud Rural Los Cardos;115454;4;4;100.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Peralillo;Posta de Salud Rural Población;115453;1;3;33.33
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Peumo;Centro de Salud Familiar La Esperanza;115331;21;24;87.5
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Peumo;Hospital Del Salvador de Peumo;115103;58;60;96.67
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Pichidegua;Hospital de Pichidegua;115106;61;69;88.41
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Pichidegua;Posta de Salud Rural Larmahue;115428;18;18;100.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Pichidegua;Posta de Salud Rural Patagua Cerro;115431;20;23;86.96
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Pichidegua;Posta de Salud Rural Patagua Orilla;115430;8;9;88.89
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Pichidegua;Posta de Salud Rural San José de Marchigue;115477;11;11;100.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Pichidegua;Posta de Salud Rural San Roberto;115476;14;14;100.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Pichidegua;Posta de Salud Rural Santa Amelia;115429;16;17;94.12
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Pichilemu;Hospital de Pichilemu;115112;80;109;73.39
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Pichilemu;Posta de Salud Rural Alto Ramírez;115461;3;3;100.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Pichilemu;Posta de Salud Rural Cahuil;115458;3;3;100.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Pichilemu;Posta de Salud Rural Cardonal de Panilonco;115474;3;3;100.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Placilla;CESFAM  Placilla;115318;57;75;76.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Placilla;Posta de Salud Rural La Dehesa;115435;1;1;100.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Placilla;Posta de Salud Rural Lo Moscoso;115478;2;0;
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Pumanque;Posta de Salud Rural Pumanque;115452;20;23;86.96
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Quinta de Tilcoco;Centro Comunitario de Salud Familiar Guacarhue;115712;24;26;92.31
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Quinta de Tilcoco;Centro de Salud Familiar Quinta de Tilcoco;115312;68;79;86.08
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Rancagua;Centro Comunitario de Salud Familiar Ciudad de Paju;115703;23;43;53.49
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Rancagua;Centro Comunitario de Salud Familiar Dr. Eduardo de Geyter;115701;12;24;50.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Rancagua;Centro Comunitario de Salud Familiar San Rafael;115700;18;29;62.07
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Rancagua;Centro de Salud Familiar N° 1 Dr. Enrique Dintrans;115300;180;297;60.61
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Rancagua;Centro de Salud Familiar N° 2 Dr. Eduardo Geyter;115301;116;178;65.17
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Rancagua;Centro de Salud Familiar N° 3 Dr. Abel Zapata;115302;63;105;60.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Rancagua;Centro de Salud Familiar N° 5 Dr. Juan Chiorrini;115304;135;170;79.41
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Rancagua;Centro de Salud Familiar N° 6 Ignacio Caroca;115324;125;180;69.44
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Rancagua;Centro de Salud Familiar N° 8 Dr. Nicolás Díaz Sánchez;201143;79;122;64.75
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Rancagua;Centro de Salud Familiar Nº 4 Dra. María Latife;115303;73;87;83.91
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Rengo;Centro de Salud Familiar Rengo;115329;143;207;69.08
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Rengo;Centro de Salud Familiar Rengo Consejal Gavino Martinez Maturana;200632;164;184;89.13
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Rengo;Centro de Salud Familiar Rosario;115322;45;56;80.36
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Rengo;Posta de Salud Rural Cerrillos (Rengo);115418;4;9;44.44
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Rengo;Posta de Salud Rural Esmeralda;200225;13;14;92.86
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Rengo;Posta de Salud Rural Lo Cartagena;115472;5;9;55.56
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Rengo;Posta de Salud Rural Lo de Lobos;115420;5;8;62.5
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Rengo;Posta de Salud Rural Popeta;115417;5;7;71.43
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Requínoa;Centro Comunitario de Salud Familiar Chumaquito;200485;16;17;94.12
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Requínoa;Centro de Salud Familiar Requínoa;115310;97;126;76.98
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Requínoa;Posta de Salud Rural El Abra;115409;18;21;85.71
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Requínoa;Posta de Salud Rural Los Lirios;115411;25;26;96.15
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Requínoa;Posta de Salud Rural Totihue;115410;3;4;75.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;San Fernando;Centro Comunitario de Salud Familiar Angostura;200491;4;7;57.14
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;San Fernando;Centro Comunitario de Salud Familiar Consultorio Chacabuco;115717;21;25;84.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;San Fernando;Centro de Salud Familiar Chacabuco;115317;194;292;66.44
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;San Fernando;Centro de Salud Familiar Oriente de San Fernando;115323;87;109;79.82
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;San Fernando;Posta de Salud Rural Agua Buena;115436;6;7;85.71
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;San Fernando;Posta de Salud Rural Puente Negro;115434;12;14;85.71
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;San Fernando;Posta de Salud Rural Roma;115432;9;11;81.82
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;San Vicente;Centro de Salud Familiar San Vicente de Tagua Tagua;200075;141;208;67.79
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;San Vicente;Posta de Salud Rural El Tambo;115427;5;16;31.25
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;San Vicente;Posta de Salud Rural Idahue;115484;0;2;0.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;San Vicente;Posta de Salud Rural Pencahue;115425;5;4;125.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;San Vicente;Posta de Salud Rural Rinconada;115426;5;9;55.56
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;San Vicente;Posta de Salud Rural Zúñiga;115424;17;23;73.91
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Santa Cruz;Centro Comunitario de Salud Familiar Paniahue;200288;9;9;100.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Santa Cruz;Centro de Salud Familiar Santa Cruz;115319;204;244;83.61
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Santa Cruz;Posta de Salud Rural Apalta;115449;3;3;100.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Santa Cruz;Posta de Salud Rural Guindo Alto;115450;5;4;125.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Santa Cruz;Posta de Salud Rural Isla de Yáquil;115444;6;8;75.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Santa Cruz;Posta de Salud Rural Quinahue;115443;10;10;100.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Valparaíso San Antonio;Navidad;Centro de Salud Familiar Valle Mar Navidad;115320;29;30;96.67
+Libertador Gral. B. O'Higgins;Servicio de Salud Valparaíso San Antonio;Navidad;Posta de Salud Rural Pupuya;115460;2;3;66.67
+Libertador Gral. B. O'Higgins;Servicio de Salud Valparaíso San Antonio;Navidad;Posta de Salud Rural Rapel (Navidad);115462;2;1;200.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Valparaíso San Antonio;Navidad;Posta de Salud Rural San Vicente de Pucalán;115464;1;1;100.0
+Los Lagos;Servicio de Salud Chiloé;Ancud;Centro Comunitario de Salud Familiar Bellavista;133725;8;10;80.0
+Los Lagos;Servicio de Salud Chiloé;Ancud;Centro Comunitario de Salud Familiar Puntra Degañ;200449;3;2;150.0
+Los Lagos;Servicio de Salud Chiloé;Ancud;Centro Comunitario de Salud Familiar Quetalmahue;133487;2;0;
+Los Lagos;Servicio de Salud Chiloé;Ancud;Centro de Salud Familiar Dr. Manuel Ferreira Guzman;133390;80;93;86.02
+Los Lagos;Servicio de Salud Chiloé;Ancud;Centro de Salud Familiar Pudeto Bajo;133325;58;56;103.57
+Los Lagos;Servicio de Salud Chiloé;Ancud;Posta de Salud Rural Chacao;133486;4;4;100.0
+Los Lagos;Servicio de Salud Chiloé;Ancud;Posta de Salud Rural Coipomo;133557;1;0;
+Los Lagos;Servicio de Salud Chiloé;Castro;Centro Comunitario de Salud Familiar Gamboa;200442;31;32;96.88
+Los Lagos;Servicio de Salud Chiloé;Castro;Centro Comunitario de Salud Familiar Kintunien;133776;24;30;80.0
+Los Lagos;Servicio de Salud Chiloé;Castro;Centro Comunitario de Salud Familiar Llau Llao;133775;11;16;68.75
+Los Lagos;Servicio de Salud Chiloé;Castro;Centro Comunitario de Salud Familiar Rilán;133468;3;3;100.0
+Los Lagos;Servicio de Salud Chiloé;Castro;Centro de Salud Familiar Dr. René Tapia Salgado;133375;53;64;82.81
+Los Lagos;Servicio de Salud Chiloé;Castro;Centro de Salud Familiar Quillahue;200009;115;126;91.27
+Los Lagos;Servicio de Salud Chiloé;Castro;Posta de Salud Rural Curahue;133466;4;4;100.0
+Los Lagos;Servicio de Salud Chiloé;Castro;Posta de Salud Rural Pid - Pid;133547;1;1;100.0
+Los Lagos;Servicio de Salud Chiloé;Castro;Posta de Salud Rural Puyán;133467;1;1;100.0
+Los Lagos;Servicio de Salud Chiloé;Castro;Posta de Salud Rural Quehui;133469;3;3;100.0
+Los Lagos;Servicio de Salud Chiloé;Castro;Posta de Salud Rural Yutuy;133471;1;1;100.0
+Los Lagos;Servicio de Salud Chiloé;Chonchi;Centro Comunitario de Salud Familiar Huillinco;133745;5;4;125.0
+Los Lagos;Servicio de Salud Chiloé;Chonchi;Centro de Salud Familiar Chonchi;133345;93;95;97.89
+Los Lagos;Servicio de Salud Chiloé;Chonchi;Posta de Salud Rural Curaco de Vilupulli;133554;0;1;0.0
+Los Lagos;Servicio de Salud Chiloé;Chonchi;Posta de Salud Rural Natri;133553;1;1;100.0
+Los Lagos;Servicio de Salud Chiloé;Chonchi;Posta de Salud Rural Petanes Bajos;133483;2;1;200.0
+Los Lagos;Servicio de Salud Chiloé;Curaco de Vélez;Centro de Salud Familiar Curaco de Vélez;133360;18;18;100.0
+Los Lagos;Servicio de Salud Chiloé;Curaco de Vélez;Posta de Salud Rural Palqui;133513;1;0;
+Los Lagos;Servicio de Salud Chiloé;Dalcahue;Centro de Salud Familiar Dalcahue;133350;73;97;75.26
+Los Lagos;Servicio de Salud Chiloé;Dalcahue;Posta de Salud Rural Butalcura;133559;6;7;85.71
+Los Lagos;Servicio de Salud Chiloé;Dalcahue;Posta de Salud Rural Calén;133474;1;1;100.0
+Los Lagos;Servicio de Salud Chiloé;Dalcahue;Posta de Salud Rural Mocopulli;133472;6;5;120.0
+Los Lagos;Servicio de Salud Chiloé;Dalcahue;Posta de Salud Rural Quetalco;133473;1;1;100.0
+Los Lagos;Servicio de Salud Chiloé;Dalcahue;Posta de Salud Rural Tenaún;133496;2;2;100.0
+Los Lagos;Servicio de Salud Chiloé;Puqueldón;Centro de Salud Familiar Puqueldón;133355;9;15;60.0
+Los Lagos;Servicio de Salud Chiloé;Queilén;Hospital Comunitario de Queilén;133170;21;17;123.53
+Los Lagos;Servicio de Salud Chiloé;Queilén;Posta de Salud Rural Agoni Alto;133498;1;1;100.0
+Los Lagos;Servicio de Salud Chiloé;Queilén;Posta de Salud Rural Apeche;133500;2;2;100.0
+Los Lagos;Servicio de Salud Chiloé;Queilén;Posta de Salud Rural de CONTUY;133534;1;1;100.0
+Los Lagos;Servicio de Salud Chiloé;Quellón;Centro Comunitario de Salud Familiar Rukalaf;133796;1;12;8.33
+Los Lagos;Servicio de Salud Chiloé;Quellón;Centro Comunitario de Salud Familiar Villa Aytue;200493;7;26;26.92
+Los Lagos;Servicio de Salud Chiloé;Quellón;Centro Comunitario de Salud Familiar Vista Hermosa;133797;11;45;24.44
+Los Lagos;Servicio de Salud Chiloé;Quellón;Centro de Salud Familiar Quellón;133396;23;72;31.94
+Los Lagos;Servicio de Salud Chiloé;Quellón;Posta de Salud Rural Auchac;133550;4;4;100.0
+Los Lagos;Servicio de Salud Chiloé;Quellón;Posta de Salud Rural Candelaria (Quellón);133523;9;15;60.0
+Los Lagos;Servicio de Salud Chiloé;Quellón;Posta de Salud Rural Chadmo Central;133549;1;3;33.33
+Los Lagos;Servicio de Salud Chiloé;Quellón;Posta de Salud Rural Coinco;133548;5;6;83.33
+Los Lagos;Servicio de Salud Chiloé;Quellón;Posta de Salud Rural Compu;133524;0;6;0.0
+Los Lagos;Servicio de Salud Chiloé;Quellón;Posta de Salud Rural Curanue;133522;2;4;50.0
+Los Lagos;Servicio de Salud Chiloé;Quellón;Posta de Salud Rural Punta Liles o Laitec;133527;1;3;33.33
+Los Lagos;Servicio de Salud Chiloé;Quellón;Posta de Salud Rural Yaldad;133551;2;7;28.57
+Los Lagos;Servicio de Salud Chiloé;Quemchi;Centro de Salud Familiar Quemchi;133340;32;34;94.12
+Los Lagos;Servicio de Salud Chiloé;Quemchi;Posta de Salud Rural Lliuco (Quemchi);133492;1;1;100.0
+Los Lagos;Servicio de Salud Chiloé;Quemchi;Posta de Salud Rural Montemar;133495;4;4;100.0
+Los Lagos;Servicio de Salud Chiloé;Quinchao;Centro Comunitario de Salud Familiar Carlina Paillacar;133703;1;1;100.0
+Los Lagos;Servicio de Salud Chiloé;Quinchao;Hospital Comunitario de Achao;133160;25;26;96.15
+Los Lagos;Servicio de Salud Chiloé;Quinchao;Posta de Salud Rural Quinchao;133503;2;3;66.67
+Los Lagos;Servicio de Salud Del Reloncaví;Calbuco;Centro Comunitario de Salud Familiar Texas;124450;21;39;53.85
+Los Lagos;Servicio de Salud Del Reloncaví;Calbuco;Centro de Salud Familiar Calbuco;124396;43;146;29.45
+Los Lagos;Servicio de Salud Del Reloncaví;Calbuco;Posta de Salud Rural Aguantao;124451;1;2;50.0
+Los Lagos;Servicio de Salud Del Reloncaví;Calbuco;Posta de Salud Rural Avellanal;124453;3;4;75.0
+Los Lagos;Servicio de Salud Del Reloncaví;Calbuco;Posta de Salud Rural Chauquear;124456;2;3;66.67
+Los Lagos;Servicio de Salud Del Reloncaví;Calbuco;Posta de Salud Rural Chayahue;124457;2;3;66.67
+Los Lagos;Servicio de Salud Del Reloncaví;Calbuco;Posta de Salud Rural Chope;124537;0;1;0.0
+Los Lagos;Servicio de Salud Del Reloncaví;Calbuco;Posta de Salud Rural Huayún;124554;1;0;
+Los Lagos;Servicio de Salud Del Reloncaví;Calbuco;Posta de Salud Rural Pargua;124448;10;14;71.43
+Los Lagos;Servicio de Salud Del Reloncaví;Calbuco;Posta de Salud Rural Pergue;124458;1;2;50.0
+Los Lagos;Servicio de Salud Del Reloncaví;Calbuco;Posta de Salud Rural Peñasmo;124452;3;4;75.0
+Los Lagos;Servicio de Salud Del Reloncaví;Calbuco;Posta de Salud Rural Putenio;124449;0;1;0.0
+Los Lagos;Servicio de Salud Del Reloncaví;Calbuco;Posta de Salud Rural San Agustín (Calbuco);124461;0;1;0.0
+Los Lagos;Servicio de Salud Del Reloncaví;Calbuco;Posta de Salud Rural San Antonio (Calbuco);124460;1;2;50.0
+Los Lagos;Servicio de Salud Del Reloncaví;Chaitén;Centro Comunitario de Salud Familiar de Ayacara;124731;4;6;66.67
+Los Lagos;Servicio de Salud Del Reloncaví;Chaitén;Hospital de Chaitén;200076;5;12;41.67
+Los Lagos;Servicio de Salud Del Reloncaví;Cochamó;Centro de Salud Familiar Cochamó;124412;3;3;100.0
+Los Lagos;Servicio de Salud Del Reloncaví;Cochamó;Posta de Salud Rural Cochamó;124411;1;0;
+Los Lagos;Servicio de Salud Del Reloncaví;Cochamó;Posta de Salud Rural Pocoihuén;124539;0;1;0.0
+Los Lagos;Servicio de Salud Del Reloncaví;Cochamó;Posta de Salud Rural Sotomó;124413;0;1;0.0
+Los Lagos;Servicio de Salud Del Reloncaví;Fresia;Consultorio General Rural Tegualda;124434;2;3;66.67
+Los Lagos;Servicio de Salud Del Reloncaví;Fresia;Hospital de Fresia;124120;41;47;87.23
+Los Lagos;Servicio de Salud Del Reloncaví;Fresia;Posta de Salud Rural El Mirador;124438;1;1;100.0
+Los Lagos;Servicio de Salud Del Reloncaví;Fresia;Posta de Salud Rural Traiguén (Fresia);124439;1;1;100.0
+Los Lagos;Servicio de Salud Del Reloncaví;Frutillar;Centro Comunitario de Salud Familiar Pantanosa;124765;25;38;65.79
+Los Lagos;Servicio de Salud Del Reloncaví;Frutillar;Centro de Salud Familiar Frutillar Alto;124365;45;106;42.45
+Los Lagos;Servicio de Salud Del Reloncaví;Frutillar;Posta de Salud Rural Casma;124430;6;4;150.0
+Los Lagos;Servicio de Salud Del Reloncaví;Frutillar;Posta de Salud Rural Centinela;124432;1;1;100.0
+Los Lagos;Servicio de Salud Del Reloncaví;Futaleufú;Hospital de Futaleufú;124145;12;17;70.59
+Los Lagos;Servicio de Salud Del Reloncaví;Hualaihué;Centro de Salud Familiar Río Negro Hornopirén;124380;28;23;121.74
+Los Lagos;Servicio de Salud Del Reloncaví;Hualaihué;Posta de Salud Rural Aulén;124417;0;1;0.0
+Los Lagos;Servicio de Salud Del Reloncaví;Hualaihué;Posta de Salud Rural Contao;124419;9;6;150.0
+Los Lagos;Servicio de Salud Del Reloncaví;Llanquihue;Centro de Salud Familiar Los Volcanes;124370;82;102;80.39
+Los Lagos;Servicio de Salud Del Reloncaví;Llanquihue;Posta de Salud Rural Colegual;124429;2;2;100.0
+Los Lagos;Servicio de Salud Del Reloncaví;Llanquihue;Posta de Salud Rural Loncotoro;124427;2;2;100.0
+Los Lagos;Servicio de Salud Del Reloncaví;Llanquihue;Posta de Salud Rural Pellines (Llanquihue);124428;2;2;100.0
+Los Lagos;Servicio de Salud Del Reloncaví;Los Muermos;Centro de Salud Familiar Los Muermos;124330;77;114;67.54
+Los Lagos;Servicio de Salud Del Reloncaví;Los Muermos;Posta de Salud Rural Los Piques;124463;1;3;33.33
+Los Lagos;Servicio de Salud Del Reloncaví;Maullín;Centro de Salud Familiar Carelmapu;124325;29;26;111.54
+Los Lagos;Servicio de Salud Del Reloncaví;Maullín;Hospital de Maullín;124125;32;53;60.38
+Los Lagos;Servicio de Salud Del Reloncaví;Maullín;Posta de Salud Rural La Pasada;124446;1;2;50.0
+Los Lagos;Servicio de Salud Del Reloncaví;Maullín;Posta de Salud Rural Quenuir;124447;2;4;50.0
+Los Lagos;Servicio de Salud Del Reloncaví;Palena;Hospital de Palena;124140;4;4;100.0
+Los Lagos;Servicio de Salud Del Reloncaví;Puerto Montt;Centro Comunitario de Salud Familiar Alerce Norte;200440;25;31;80.65
+Los Lagos;Servicio de Salud Del Reloncaví;Puerto Montt;Centro Comunitario de Salud Familiar Anahuac;124705;7;9;77.78
+Los Lagos;Servicio de Salud Del Reloncaví;Puerto Montt;Centro Comunitario de Salud Familiar Chamiza;124715;16;19;84.21
+Los Lagos;Servicio de Salud Del Reloncaví;Puerto Montt;Centro Comunitario de Salud Familiar Licarayen;124710;29;37;78.38
+Los Lagos;Servicio de Salud Del Reloncaví;Puerto Montt;Centro Comunitario de Salud Familiar Puerta Sur;200292;45;47;95.74
+Los Lagos;Servicio de Salud Del Reloncaví;Puerto Montt;Centro de Salud Familiar Alerce;124395;200;264;75.76
+Los Lagos;Servicio de Salud Del Reloncaví;Puerto Montt;Centro de Salud Familiar Angelmó;124305;173;241;71.78
+Los Lagos;Servicio de Salud Del Reloncaví;Puerto Montt;Centro de Salud Familiar Antonio Varas;124310;228;270;84.44
+Los Lagos;Servicio de Salud Del Reloncaví;Puerto Montt;Centro de Salud Familiar Carmela Carvajal;124315;77;164;46.95
+Los Lagos;Servicio de Salud Del Reloncaví;Puerto Montt;Centro de Salud Familiar Padre Hurtado;124381;199;254;78.35
+Los Lagos;Servicio de Salud Del Reloncaví;Puerto Montt;Centro de Salud Familiar San Pablo Mirasol (ONG);124385;63;74;85.14
+Los Lagos;Servicio de Salud Del Reloncaví;Puerto Montt;Centro de Salud Familiar Techo para todos (ONG);124320;60;70;85.71
+Los Lagos;Servicio de Salud Del Reloncaví;Puerto Montt;Posta de Salud Rural Chaicas;124403;0;1;0.0
+Los Lagos;Servicio de Salud Del Reloncaví;Puerto Montt;Posta de Salud Rural Correntoso;124402;3;3;100.0
+Los Lagos;Servicio de Salud Del Reloncaví;Puerto Montt;Posta de Salud Rural Huelmo;124541;1;1;100.0
+Los Lagos;Servicio de Salud Del Reloncaví;Puerto Montt;Posta de Salud Rural Lago Chapo;124401;1;1;100.0
+Los Lagos;Servicio de Salud Del Reloncaví;Puerto Montt;Posta de Salud Rural Las Quemas (Puerto Montt);124405;10;13;76.92
+Los Lagos;Servicio de Salud Del Reloncaví;Puerto Montt;Posta de Salud Rural Lenca;124404;2;3;66.67
+Los Lagos;Servicio de Salud Del Reloncaví;Puerto Montt;Posta de Salud Rural Maillén;124406;0;1;0.0
+Los Lagos;Servicio de Salud Del Reloncaví;Puerto Montt;Posta de Salud Rural Panitao;124410;17;17;100.0
+Los Lagos;Servicio de Salud Del Reloncaví;Puerto Montt;Posta de Salud Rural Piedra Azul;124544;3;2;150.0
+Los Lagos;Servicio de Salud Del Reloncaví;Puerto Montt;Posta de Salud Rural Salto Chico;124408;1;1;100.0
+Los Lagos;Servicio de Salud Del Reloncaví;Puerto Montt;Posta de Salud Rural Salto Grande;124407;1;2;50.0
+Los Lagos;Servicio de Salud Del Reloncaví;Puerto Montt;Posta de Salud Rural Trapén;124409;7;9;77.78
+Los Lagos;Servicio de Salud Del Reloncaví;Puerto Varas;Centro Comunitario de Salud Familiar DECHER;201696;10;12;83.33
+Los Lagos;Servicio de Salud Del Reloncaví;Puerto Varas;Centro de Salud Familiar Nº 1 Puerto Varas;124335;185;229;80.79
+Los Lagos;Servicio de Salud Del Reloncaví;Puerto Varas;Posta de Salud Rural Colonia Río Sur;124425;3;7;42.86
+Los Lagos;Servicio de Salud Del Reloncaví;Puerto Varas;Posta de Salud Rural Ensenada;124421;7;13;53.85
+Los Lagos;Servicio de Salud Del Reloncaví;Puerto Varas;Posta de Salud Rural Nueva Braunau;124423;16;22;72.73
+Los Lagos;Servicio de Salud Del Reloncaví;Puerto Varas;Posta de Salud Rural Ralún;124426;3;2;150.0
+Los Lagos;Servicio de Salud Osorno;Osorno;Centro Comunitario de Salud Familiar Manuel Rodríguez;123701;20;22;90.91
+Los Lagos;Servicio de Salud Osorno;Osorno;Centro Comunitario de Salud Familiar Murrinumo;123700;12;9;133.33
+Los Lagos;Servicio de Salud Osorno;Osorno;Centro de Salud Familiar Dr. Marcelo Lopetegui Adams;123301;185;224;82.59
+Los Lagos;Servicio de Salud Osorno;Osorno;Centro de Salud Familiar Dr. Pedro Jáuregui;123300;129;146;88.36
+Los Lagos;Servicio de Salud Osorno;Osorno;Centro de Salud Familiar Ovejería;123302;74;98;75.51
+Los Lagos;Servicio de Salud Osorno;Osorno;Centro de Salud Familiar Pampa Alegre;123306;105;117;89.74
+Los Lagos;Servicio de Salud Osorno;Osorno;Centro de Salud Familiar Quinto Centenario;123310;152;169;89.94
+Los Lagos;Servicio de Salud Osorno;Osorno;Centro de Salud Familiar Rahue Alto;123303;88;127;69.29
+Los Lagos;Servicio de Salud Osorno;Osorno;Posta de Salud Rural Cancura;123425;3;4;75.0
+Los Lagos;Servicio de Salud Osorno;Puerto Octay;Centro Comunitario de Salud Familiar Las Cascadas;201483;2;2;100.0
+Los Lagos;Servicio de Salud Osorno;Puerto Octay;Hospital de Puerto Octay;123103;30;36;83.33
+Los Lagos;Servicio de Salud Osorno;Puerto Octay;Posta de Salud Rural Coihueco (Puerto Octay);123428;2;2;100.0
+Los Lagos;Servicio de Salud Osorno;Puerto Octay;Posta de Salud Rural Pellinada;123426;1;1;100.0
+Los Lagos;Servicio de Salud Osorno;Puerto Octay;Posta de Salud Rural Rupanco;123422;2;2;100.0
+Los Lagos;Servicio de Salud Osorno;Purranque;Centro Comunitario de Salud Familiar Barrio Estación;200455;0;1;0.0
+Los Lagos;Servicio de Salud Osorno;Purranque;Centro Comunitario de Salud Familiar Corte Alto;123411;6;8;75.0
+Los Lagos;Servicio de Salud Osorno;Purranque;Centro de Salud Familiar Purranque;123307;102;117;87.18
+Los Lagos;Servicio de Salud Osorno;Purranque;Posta de Salud Rural Coligual;123413;1;1;100.0
+Los Lagos;Servicio de Salud Osorno;Puyehue;Centro de Salud Familiar Entre Lagos;123304;70;97;72.16
+Los Lagos;Servicio de Salud Osorno;Puyehue;Posta de Salud Rural Desagüe Rupanco;123407;2;2;100.0
+Los Lagos;Servicio de Salud Osorno;Río Negro;Centro Comunitario de Salud Familiar Riachuelo;123709;7;7;100.0
+Los Lagos;Servicio de Salud Osorno;Río Negro;Centro de Salud Familiar Practicante Pablo Araya (Ex Río Negro);123309;66;74;89.19
+Los Lagos;Servicio de Salud Osorno;Río Negro;Posta de Salud Rural Huilma;123434;1;1;100.0
+Los Lagos;Servicio de Salud Osorno;Río Negro;Posta de Salud Rural Tres Esteros;123410;1;1;100.0
+Los Lagos;Servicio de Salud Osorno;San Juan de la Costa;Centro de Salud Familiar Bahía Mansa;123311;14;16;87.5
+Los Lagos;Servicio de Salud Osorno;San Juan de la Costa;Centro de Salud Familiar Puaucho;123312;21;22;95.45
+Los Lagos;Servicio de Salud Osorno;San Juan de la Costa;Hospital Futa Sruka Lawenche Kunko Mapu Mo;123104;5;6;83.33
+Los Lagos;Servicio de Salud Osorno;San Juan de la Costa;Posta de Salud Rural Aleucapi;123431;1;1;100.0
+Los Lagos;Servicio de Salud Osorno;San Juan de la Costa;Posta de Salud Rural Purrehuín;123430;2;2;100.0
+Los Lagos;Servicio de Salud Osorno;San Pablo;Centro de Salud Familiar San Pablo;123305;53;56;94.64
+Los Lagos;Servicio de Salud Osorno;San Pablo;Hospital Pu Mulen Quilacahuín;123105;8;9;88.89
+Los Lagos;Servicio de Salud Osorno;San Pablo;Posta de Salud Rural La Poza;123432;2;2;100.0
+Los Ríos;Servicio de Salud Los Rios;Corral;Hospital de Corral;122101;27;17;158.82
+Los Ríos;Servicio de Salud Los Rios;Futrono;Centro Comunitario de Salud Familiar Nontuela (Enrique Strange);122463;1;8;12.5
+Los Ríos;Servicio de Salud Los Rios;Futrono;Centro de Salud Familiar Belarmina Paredes;122305;48;69;69.57
+Los Ríos;Servicio de Salud Los Rios;Futrono;Posta de Salud Rural Llifén;122447;1;3;33.33
+Los Ríos;Servicio de Salud Los Rios;La Unión;Centro Comunitario de Salud Familiar Dr. Alberto Daiber;200299;23;27;85.19
+Los Ríos;Servicio de Salud Los Rios;La Unión;Centro Comunitario de Salud Familiar Los Lagos;122710;16;17;94.12
+Los Ríos;Servicio de Salud Los Rios;La Unión;Centro de Salud Familiar Dr. Alfredo Gantz Mann;122310;124;174;71.26
+Los Ríos;Servicio de Salud Los Rios;La Unión;Posta de Salud Rural Choroico (La Unión);122430;1;3;33.33
+Los Ríos;Servicio de Salud Los Rios;La Unión;Posta de Salud Rural Los Esteros;122462;2;3;66.67
+Los Ríos;Servicio de Salud Los Rios;La Unión;Posta de Salud Rural Mashue;122454;1;1;100.0
+Los Ríos;Servicio de Salud Los Rios;La Unión;Posta de Salud Rural Pilpilcahuín;122431;0;2;0.0
+Los Ríos;Servicio de Salud Los Rios;La Unión;Posta de Salud Rural Puerto Nuevo;122429;1;3;33.33
+Los Ríos;Servicio de Salud Los Rios;La Unión;Posta de Salud Rural Traiguén ( La Unión);122432;0;1;0.0
+Los Ríos;Servicio de Salud Los Rios;Lago Ranco;CESFAM Lago Ranco;122306;48;41;117.07
+Los Ríos;Servicio de Salud Los Rios;Lago Ranco;Centro Comunitario de Salud Familiar Riñinahue;122450;6;3;200.0
+Los Ríos;Servicio de Salud Los Rios;Lago Ranco;Posta de Salud Rural  Rupumeica Bajo;122461;2;1;200.0
+Los Ríos;Servicio de Salud Los Rios;Lago Ranco;Posta de Salud Rural Calcurrupe;122458;2;2;100.0
+Los Ríos;Servicio de Salud Los Rios;Lago Ranco;Posta de Salud Rural Illahuape;122449;3;3;100.0
+Los Ríos;Servicio de Salud Los Rios;Lago Ranco;Posta de Salud Rural Pitriuco;122448;2;3;66.67
+Los Ríos;Servicio de Salud Los Rios;Lago Ranco;Posta de Salud Rural Pocura;122460;2;3;66.67
+Los Ríos;Servicio de Salud Los Rios;Lanco;Centro de Salud Familiar Malalhue;122311;27;40;67.5
+Los Ríos;Servicio de Salud Los Rios;Lanco;Hospital de Lanco;122103;66;78;84.62
+Los Ríos;Servicio de Salud Los Rios;Los Lagos;Centro Comunitario de Salud Familiar Erodita Arriagada Oliva;122408;3;8;37.5
+Los Ríos;Servicio de Salud Los Rios;Los Lagos;Centro Comunitario de Salud Familiar Folilco;200303;7;7;100.0
+Los Ríos;Servicio de Salud Los Rios;Los Lagos;Centro Comunitario de Salud Familiar Manuel Miranda;122716;20;18;111.11
+Los Ríos;Servicio de Salud Los Rios;Los Lagos;Centro de Salud Familiar Los Lagos;122316;61;65;93.85
+Los Ríos;Servicio de Salud Los Rios;Los Lagos;Posta de Salud Rural El Salto;122406;3;4;75.0
+Los Ríos;Servicio de Salud Los Rios;Los Lagos;Posta de Salud Rural Las Huellas;122407;2;2;100.0
+Los Ríos;Servicio de Salud Los Rios;Los Lagos;Posta de Salud Rural Malihue;122411;1;1;100.0
+Los Ríos;Servicio de Salud Los Rios;Los Lagos;Posta de Salud Rural Pellinada;122465;2;1;200.0
+Los Ríos;Servicio de Salud Los Rios;Los Lagos;Posta de Salud Rural Riñihue;122409;3;1;300.0
+Los Ríos;Servicio de Salud Los Rios;Mariquina;Centro Comunitario de Salud Familiar Dr. Silva de La Paz (San Francisco);122723;15;23;65.22
+Los Ríos;Servicio de Salud Los Rios;Mariquina;Centro Comunitario de Salud Familiar Mehuín;122703;8;13;61.54
+Los Ríos;Servicio de Salud Los Rios;Mariquina;Centro de Salud Familiar San José de la Mariquina;122303;44;70;62.86
+Los Ríos;Servicio de Salud Los Rios;Mariquina;Posta de Salud Rural Alepué;122419;0;1;0.0
+Los Ríos;Servicio de Salud Los Rios;Mariquina;Posta de Salud Rural Chan Chan;122414;0;1;0.0
+Los Ríos;Servicio de Salud Los Rios;Mariquina;Posta de Salud Rural Ciruelos;122418;5;12;41.67
+Los Ríos;Servicio de Salud Los Rios;Mariquina;Posta de Salud Rural Mississippi;122416;3;3;100.0
+Los Ríos;Servicio de Salud Los Rios;Mariquina;Posta de Salud Rural Pelchuquín;122417;1;10;10.0
+Los Ríos;Servicio de Salud Los Rios;Máfil;Centro Comunitario de Salud Familiar Máfil;200250;20;24;83.33
+Los Ríos;Servicio de Salud Los Rios;Máfil;Centro de Salud Familiar Máfil;122307;36;37;97.3
+Los Ríos;Servicio de Salud Los Rios;Máfil;Posta de Salud Rural Huichaco;122459;1;1;100.0
+Los Ríos;Servicio de Salud Los Rios;Paillaco;Centro de Salud Familiar Lautaro Caro Ríos;122315;74;96;77.08
+Los Ríos;Servicio de Salud Los Rios;Paillaco;Posta de Salud Rural Aguas Negras;122442;1;2;50.0
+Los Ríos;Servicio de Salud Los Rios;Paillaco;Posta de Salud Rural Itropulli;202039;1;1;100.0
+Los Ríos;Servicio de Salud Los Rios;Paillaco;Posta de Salud Rural Pichirropulli;122441;3;4;75.0
+Los Ríos;Servicio de Salud Los Rios;Paillaco;Posta de Salud Rural Reumén;122440;5;2;250.0
+Los Ríos;Servicio de Salud Los Rios;Paillaco;Posta de Salud Rural Santa Filomena (Paillaco);122457;1;2;50.0
+Los Ríos;Servicio de Salud Los Rios;Paillaco;Posta de Salud Rural Santa Rosa (Paillaco);122456;1;1;100.0
+Los Ríos;Servicio de Salud Los Rios;Panguipulli;Centro Comunitario de Salud Familiar Liquiñe;122425;4;9;44.44
+Los Ríos;Servicio de Salud Los Rios;Panguipulli;Centro Comunitario de Salud Familiar Neltume;122709;9;10;90.0
+Los Ríos;Servicio de Salud Los Rios;Panguipulli;Centro de Salud Familiar Choshuenco;122309;6;8;75.0
+Los Ríos;Servicio de Salud Los Rios;Panguipulli;Centro de Salud Familiar Coñaripe;122308;27;32;84.38
+Los Ríos;Servicio de Salud Los Rios;Panguipulli;Centro de Salud Familiar Panguipulli;122304;72;142;50.7
+Los Ríos;Servicio de Salud Los Rios;Panguipulli;Posta de Salud Rural Bocatoma;122452;0;1;0.0
+Los Ríos;Servicio de Salud Los Rios;Panguipulli;Posta de Salud Rural Lago Neltume;122464;7;7;100.0
+Los Ríos;Servicio de Salud Los Rios;Panguipulli;Posta de Salud Rural Melefquén;122413;1;2;50.0
+Los Ríos;Servicio de Salud Los Rios;Río Bueno;Centro de Salud Familiar Río Bueno;122312;91;139;65.47
+Los Ríos;Servicio de Salud Los Rios;Río Bueno;Posta de Salud Rural Cayurruca;122438;1;4;25.0
+Los Ríos;Servicio de Salud Los Rios;Río Bueno;Posta de Salud Rural Crucero (Río Bueno);122434;8;13;61.54
+Los Ríos;Servicio de Salud Los Rios;Río Bueno;Posta de Salud Rural Futahuente;122439;1;4;25.0
+Los Ríos;Servicio de Salud Los Rios;Río Bueno;Posta de Salud Rural Mantilhue;122455;1;2;50.0
+Los Ríos;Servicio de Salud Los Rios;Río Bueno;Posta de Salud Rural Trapi;122437;1;3;33.33
+Los Ríos;Servicio de Salud Los Rios;Río Bueno;Posta de Salud Rural Vivanco;122435;0;1;0.0
+Los Ríos;Servicio de Salud Los Rios;Valdivia;Centro Comunitario de Salud Familiar Barrios Bajos;122700;29;35;82.86
+Los Ríos;Servicio de Salud Los Rios;Valdivia;Centro Comunitario de Salud Familiar Collico;122702;23;26;88.46
+Los Ríos;Servicio de Salud Los Rios;Valdivia;Centro Comunitario de Salud Familiar Guacamayo;200235;21;21;100.0
+Los Ríos;Servicio de Salud Los Rios;Valdivia;Centro Comunitario de Salud Familiar Los Alerces;122714;9;12;75.0
+Los Ríos;Servicio de Salud Los Rios;Valdivia;Centro Comunitario de Salud Familiar Mulato;201234;14;18;77.78
+Los Ríos;Servicio de Salud Los Rios;Valdivia;Centro Comunitario de Salud Familiar Pablo Neruda;122720;9;11;81.82
+Los Ríos;Servicio de Salud Los Rios;Valdivia;Centro de Salud Familiar Angachilla;122314;107;136;78.68
+Los Ríos;Servicio de Salud Los Rios;Valdivia;Centro de Salud Familiar Dr. Jorge Sabat Gozalo (Ex Gil de Castro);122302;146;197;74.11
+Los Ríos;Servicio de Salud Los Rios;Valdivia;Centro de Salud Familiar Externo Valdivia;122300;71;101;70.3
+Los Ríos;Servicio de Salud Los Rios;Valdivia;Centro de Salud Familiar Las Ánimas;122301;99;110;90.0
+Los Ríos;Servicio de Salud Los Rios;Valdivia;Centro de Salud Familiar Niebla;122313;52;71;73.24
+Los Ríos;Servicio de Salud Los Rios;Valdivia;Posta de Salud Rural Cayumapu;200093;0;1;0.0
+Los Ríos;Servicio de Salud Los Rios;Valdivia;Posta de Salud Rural Curiñanco;122402;7;10;70.0
+Los Ríos;Servicio de Salud Los Rios;Valdivia;Posta de Salud Rural Huellelhue;122401;1;2;50.0
+Los Ríos;Servicio de Salud Los Rios;Valdivia;Posta de Salud Rural Punucapa;122400;1;0;
+Magallanes y de la Antártica Chilena;Servicio de Salud Magallanes;Natales;Centro de Salud Familiar Natales;126305;167;174;95.98
+Magallanes y de la Antártica Chilena;Servicio de Salud Magallanes;Porvenir;Hospital Dr. Marco Antonio Chamorro ( Porvenir);126102;37;41;90.24
+Magallanes y de la Antártica Chilena;Servicio de Salud Magallanes;Punta Arenas;Centro Comunitario de Salud Familiar Dr. Juan Damianovic;200311;15;21;71.43
+Magallanes y de la Antártica Chilena;Servicio de Salud Magallanes;Punta Arenas;Centro Comunitario de Salud Familiar Dr. Mateo Bencur;126700;24;31;77.42
+Magallanes y de la Antártica Chilena;Servicio de Salud Magallanes;Punta Arenas;Centro Comunitario de Salud Familiar Río Seco;126701;8;11;72.73
+Magallanes y de la Antártica Chilena;Servicio de Salud Magallanes;Punta Arenas;Centro de Salud Familiar 18 Septiembre;126302;100;109;91.74
+Magallanes y de la Antártica Chilena;Servicio de Salud Magallanes;Punta Arenas;Centro de Salud Familiar Carlos Ibáñez;126304;79;88;89.77
+Magallanes y de la Antártica Chilena;Servicio de Salud Magallanes;Punta Arenas;Centro de Salud Familiar Dr. Juan Damianovic;126301;160;181;88.4
+Magallanes y de la Antártica Chilena;Servicio de Salud Magallanes;Punta Arenas;Centro de Salud Familiar Dr. Mateo Bencur;126300;136;157;86.62
+Magallanes y de la Antártica Chilena;Servicio de Salud Magallanes;Punta Arenas;Centro de Salud Familiar Dr. Thomas Fenton;126303;132;153;86.27
+Maule;Servicio de Salud Del Maule;Cauquenes;Centro Comunitario de Salud Familiar Población Fernández;116729;25;30;83.33
+Maule;Servicio de Salud Del Maule;Cauquenes;Centro Comunitario de Salud Familiar Rosita O'Higgins;116741;5;7;71.43
+Maule;Servicio de Salud Del Maule;Cauquenes;Centro de Salud Familiar Armando Williams;116329;55;75;73.33
+Maule;Servicio de Salud Del Maule;Cauquenes;Centro de Salud Familiar Dr. Ricardo Valdés Hurtado;116341;103;120;85.83
+Maule;Servicio de Salud Del Maule;Cauquenes;Posta de Salud Rural Quella;116501;2;2;100.0
+Maule;Servicio de Salud Del Maule;Cauquenes;Posta de Salud Rural Santa Sofía;116555;0;1;0.0
+Maule;Servicio de Salud Del Maule;Cauquenes;Posta de Salud Rural Tres Esquinas (Cauquenes);116502;1;1;100.0
+Maule;Servicio de Salud Del Maule;Chanco;Hospital Dr. Benjamín Pedreros (Chanco);116112;37;40;92.5
+Maule;Servicio de Salud Del Maule;Chanco;Posta de Salud Rural El Cardonal;116539;1;1;100.0
+Maule;Servicio de Salud Del Maule;Chanco;Posta de Salud Rural El Colo;116430;2;2;100.0
+Maule;Servicio de Salud Del Maule;Chanco;Posta de Salud Rural La Vega (Chanco);116548;1;1;100.0
+Maule;Servicio de Salud Del Maule;Chanco;Posta de Salud Rural Lagunillas (Chanco);116558;2;2;100.0
+Maule;Servicio de Salud Del Maule;Chanco;Posta de Salud Rural Pahuil;116509;4;4;100.0
+Maule;Servicio de Salud Del Maule;Colbún;Centro de Salud Familiar Alcalde Francisco Sepúlveda Salgado;116317;88;93;94.62
+Maule;Servicio de Salud Del Maule;Colbún;Centro de Salud Familiar Panimávida;116319;62;70;88.57
+Maule;Servicio de Salud Del Maule;Colbún;Posta de Salud Rural Floresta;116559;2;2;100.0
+Maule;Servicio de Salud Del Maule;Colbún;Posta de Salud Rural Lomas de Putagán;116505;0;1;0.0
+Maule;Servicio de Salud Del Maule;Colbún;Posta de Salud Rural Maule Sur;116472;10;10;100.0
+Maule;Servicio de Salud Del Maule;Constitución;Centro Comunitario de Salud Familiar Chacarillas;200340;28;36;77.78
+Maule;Servicio de Salud Del Maule;Constitución;Centro de Salud Familiar Cerro Alto;116332;38;44;86.36
+Maule;Servicio de Salud Del Maule;Constitución;Centro de Salud Familiar Constitución;200496;170;206;82.52
+Maule;Servicio de Salud Del Maule;Constitución;Posta de Salud Rural Las Cañas;116479;11;12;91.67
+Maule;Servicio de Salud Del Maule;Constitución;Posta de Salud Rural Putú;116457;12;18;66.67
+Maule;Servicio de Salud Del Maule;Constitución;Posta de Salud Rural Santa Olga;116512;11;13;84.62
+Maule;Servicio de Salud Del Maule;Curepto;Hospital de Curepto;116106;33;42;78.57
+Maule;Servicio de Salud Del Maule;Curepto;Posta de Salud Rural Gualleco;116455;1;1;100.0
+Maule;Servicio de Salud Del Maule;Curepto;Posta de Salud Rural Huaquén (Curepto);116411;2;2;100.0
+Maule;Servicio de Salud Del Maule;Curepto;Posta de Salud Rural Las Lomas (Curepto);116521;3;3;100.0
+Maule;Servicio de Salud Del Maule;Curicó;Centro Comunitario de Salud Familiar Doña Carmen de Sarmiento;116761;19;19;100.0
+Maule;Servicio de Salud Del Maule;Curicó;Centro Comunitario de Salud Familiar Prosperidad;116703;18;27;66.67
+Maule;Servicio de Salud Del Maule;Curicó;Centro De Salud Familiar A.S. Betty Muñoz Arce (Ex Sol de Septiembre);116300;177;241;73.44
+Maule;Servicio de Salud Del Maule;Curicó;Centro de Salud Familiar Colón;116302;123;161;76.4
+Maule;Servicio de Salud Del Maule;Curicó;Centro de Salud Familiar Curicó Centro;116303;136;208;65.38
+Maule;Servicio de Salud Del Maule;Curicó;Centro de Salud Familiar Los Niches;116338;56;61;91.8
+Maule;Servicio de Salud Del Maule;Curicó;Centro de Salud Familiar Miguel Ángel Arenas López;116301;119;181;65.75
+Maule;Servicio de Salud Del Maule;Curicó;Centro de Salud Familiar Sarmiento;116330;59;68;86.76
+Maule;Servicio de Salud Del Maule;Curicó;Posta de Salud Rural El Porvenir;116544;1;2;50.0
+Maule;Servicio de Salud Del Maule;Curicó;Posta de Salud Rural La Obra (Curicó);116557;4;4;100.0
+Maule;Servicio de Salud Del Maule;Curicó;Posta de Salud Rural Potrero Grande;116417;3;3;100.0
+Maule;Servicio de Salud Del Maule;Empedrado;Centro de Salud Familiar Empedrado;116334;21;22;95.45
+Maule;Servicio de Salud Del Maule;Hualañé;Hospital de Hualañé;116103;32;36;88.89
+Maule;Servicio de Salud Del Maule;Hualañé;Posta de Salud Rural Barba Rubia;116529;3;2;150.0
+Maule;Servicio de Salud Del Maule;Hualañé;Posta de Salud Rural Espinalillo;116530;1;1;100.0
+Maule;Servicio de Salud Del Maule;Hualañé;Posta de Salud Rural La Huerta;116424;10;10;100.0
+Maule;Servicio de Salud Del Maule;Licantén;Hospital de Licantén;116104;16;18;88.89
+Maule;Servicio de Salud Del Maule;Licantén;Posta de Salud Rural Duao de Licantén;116426;1;1;100.0
+Maule;Servicio de Salud Del Maule;Licantén;Posta de Salud Rural Iloca;116427;5;4;125.0
+Maule;Servicio de Salud Del Maule;Licantén;Posta de Salud Rural Lora;116425;4;4;100.0
+Maule;Servicio de Salud Del Maule;Linares;Centro Comunitario de Salud Familiar Yerbas Buenas;200351;12;16;75.0
+Maule;Servicio de Salud Del Maule;Linares;Centro de Salud Familiar Luis Navarrete Carvacho;116709;96;124;77.42
+Maule;Servicio de Salud Del Maule;Linares;Centro de Salud Familiar Oscar Bonilla;116323;115;131;87.79
+Maule;Servicio de Salud Del Maule;Linares;Centro de Salud Familiar San Juan Dios;116309;72;131;54.96
+Maule;Servicio de Salud Del Maule;Linares;Centro de Salud Familiar Valentín Letelier;116308;79;103;76.7
+Maule;Servicio de Salud Del Maule;Linares;Posta de Salud Rural Embalse Ancoa;116474;1;2;50.0
+Maule;Servicio de Salud Del Maule;Linares;Posta de Salud Rural Las Toscas;116562;2;7;28.57
+Maule;Servicio de Salud Del Maule;Linares;Posta de Salud Rural Llancanao;116537;4;8;50.0
+Maule;Servicio de Salud Del Maule;Linares;Posta de Salud Rural Palmilla (Linares);116473;1;4;25.0
+Maule;Servicio de Salud Del Maule;Linares;Posta de Salud Rural Pejerrey;116412;1;2;50.0
+Maule;Servicio de Salud Del Maule;Linares;Posta de Salud Rural San Víctor Álamos;116531;3;6;50.0
+Maule;Servicio de Salud Del Maule;Linares;Posta de Salud Rural Vara Gruesa;116515;23;27;85.19
+Maule;Servicio de Salud Del Maule;Linares;Posta de Salud Rural Vega de Salas;116476;1;2;50.0
+Maule;Servicio de Salud Del Maule;Longaví;Centro Comunitario de Salud Familiar Los Cristales;116762;18;22;81.82
+Maule;Servicio de Salud Del Maule;Longaví;Centro Comunitario de Salud Familiar Villa Longaví;200349;24;28;85.71
+Maule;Servicio de Salud Del Maule;Longaví;Centro de Salud Familiar Amanda Benavente;116320;79;89;88.76
+Maule;Servicio de Salud Del Maule;Longaví;Posta de Salud Rural El Carmen( Longaví);116516;6;6;100.0
+Maule;Servicio de Salud Del Maule;Longaví;Posta de Salud Rural Huimeo;116481;12;13;92.31
+Maule;Servicio de Salud Del Maule;Longaví;Posta de Salud Rural La Quinta;116483;12;14;85.71
+Maule;Servicio de Salud Del Maule;Longaví;Posta de Salud Rural Lomas de la Tercera;116532;3;3;100.0
+Maule;Servicio de Salud Del Maule;Longaví;Posta de Salud Rural Mesamávida (Longaví);116482;8;16;50.0
+Maule;Servicio de Salud Del Maule;Longaví;Posta de Salud Rural Miraflores;116480;15;17;88.24
+Maule;Servicio de Salud Del Maule;Longaví;Posta de Salud Rural San José (Longaví);116484;14;15;93.33
+Maule;Servicio de Salud Del Maule;Maule;Centro Comunitario de Salud Familiar Villa Francia;200233;45;50;90.0
+Maule;Servicio de Salud Del Maule;Maule;Centro de Salud Familiar Practicante Julio Camilo Zamorano Sánchez;116314;133;140;95.0
+Maule;Servicio de Salud Del Maule;Maule;Posta de Salud Rural Colín;116440;13;13;100.0
+Maule;Servicio de Salud Del Maule;Maule;Posta de Salud Rural Duao de Maule;116441;12;14;85.71
+Maule;Servicio de Salud Del Maule;Maule;Posta de Salud Rural Linares de Perales;116542;1;1;100.0
+Maule;Servicio de Salud Del Maule;Maule;Posta de Salud Rural Quiñipeumo;116442;17;18;94.44
+Maule;Servicio de Salud Del Maule;Molina;Centro de Salud Familiar Lontué;116304;73;85;85.88
+Maule;Servicio de Salud Del Maule;Molina;Centro de Salud Familiar de Molina;201287;165;217;76.04
+Maule;Servicio de Salud Del Maule;Molina;Hospital de Molina;116102;6;7;85.71
+Maule;Servicio de Salud Del Maule;Molina;Posta de Salud Rural Itahue;116420;11;6;183.33
+Maule;Servicio de Salud Del Maule;Molina;Posta de Salud Rural Pichingal;116419;3;6;50.0
+Maule;Servicio de Salud Del Maule;Molina;Posta de Salud Rural Tres Esquinas (Molina);116525;15;14;107.14
+Maule;Servicio de Salud Del Maule;Parral;Centro Comunitario de Salud Familiar Buenos Aires;200266;39;55;70.91
+Maule;Servicio de Salud Del Maule;Parral;Centro Comunitario de Salud Familiar Los Olivos;116711;41;42;97.62
+Maule;Servicio de Salud Del Maule;Parral;Centro de Salud Familiar Arrau Méndez;116311;81;84;96.43
+Maule;Servicio de Salud Del Maule;Parral;Posta de Salud Rural Bajos de Huenutil;116550;2;3;66.67
+Maule;Servicio de Salud Del Maule;Parral;Posta de Salud Rural Catillo;116496;1;1;100.0
+Maule;Servicio de Salud Del Maule;Parral;Posta de Salud Rural Los Carros;116522;9;9;100.0
+Maule;Servicio de Salud Del Maule;Parral;Posta de Salud Rural Monte Flor;116523;1;1;100.0
+Maule;Servicio de Salud Del Maule;Parral;Posta de Salud Rural San Alejo;200728;1;1;100.0
+Maule;Servicio de Salud Del Maule;Parral;Posta de Salud Rural Talquita;116551;0;1;0.0
+Maule;Servicio de Salud Del Maule;Pelarco;Centro de Salud Familiar Pelarco;116315;64;82;78.05
+Maule;Servicio de Salud Del Maule;Pelarco;Posta de Salud Rural Huencuecho;116534;4;8;50.0
+Maule;Servicio de Salud Del Maule;Pelarco;Posta de Salud Rural Santa Rita;116571;6;7;85.71
+Maule;Servicio de Salud Del Maule;Pelluhue;Centro Comunitario de Salud Familiar Pelluhue;116506;17;17;100.0
+Maule;Servicio de Salud Del Maule;Pelluhue;Centro de Salud Familiar Dr. Pedro Rivas Pinochet;116322;16;24;66.67
+Maule;Servicio de Salud Del Maule;Pelluhue;Posta de Salud Rural Chovellén;116508;6;5;120.0
+Maule;Servicio de Salud Del Maule;Pencahue;Centro Comunitario de Salud Familiar Lo Figueroa;116731;8;8;100.0
+Maule;Servicio de Salud Del Maule;Pencahue;Centro de Salud Familiar Pencahue;116312;48;50;96.0
+Maule;Servicio de Salud Del Maule;Pencahue;Posta de Salud Rural Botalcura;116437;2;2;100.0
+Maule;Servicio de Salud Del Maule;Rauco;Centro de Salud Familiar Rauco;116333;57;62;91.94
+Maule;Servicio de Salud Del Maule;Rauco;Posta de Salud Rural El Plumero;116569;5;5;100.0
+Maule;Servicio de Salud Del Maule;Rauco;Posta de Salud Rural Palquibudi;116405;4;5;80.0
+Maule;Servicio de Salud Del Maule;Retiro;Centro Comunitario de Salud Familiar Camelias;116490;22;23;95.65
+Maule;Servicio de Salud Del Maule;Retiro;Centro Comunitario de Salud Familiar Los Robles;116765;6;11;54.55
+Maule;Servicio de Salud Del Maule;Retiro;Centro de Salud Familiar Marta Estévez;116321;57;77;74.03
+Maule;Servicio de Salud Del Maule;Retiro;Posta de Salud Rural Copihue;116492;7;10;70.0
+Maule;Servicio de Salud Del Maule;Retiro;Posta de Salud Rural Piguchén (Retiro);116487;1;1;100.0
+Maule;Servicio de Salud Del Maule;Retiro;Posta de Salud Rural San Marcos (Retiro);116491;15;16;93.75
+Maule;Servicio de Salud Del Maule;Retiro;Posta de Salud Rural San Ramón (Retiro);116527;2;2;100.0
+Maule;Servicio de Salud Del Maule;Retiro;Posta de Salud Rural Santa Delfina;116526;6;6;100.0
+Maule;Servicio de Salud Del Maule;Retiro;Posta de Salud Rural Talhuenes;116489;0;1;0.0
+Maule;Servicio de Salud Del Maule;Retiro;Posta de Salud Rural Villaseca;116488;4;4;100.0
+Maule;Servicio de Salud Del Maule;Romeral;Centro de Salud Familiar EU Nancy González Díaz de Romeral;116328;91;105;86.67
+Maule;Servicio de Salud Del Maule;Romeral;Posta de Salud Rural Los Queñes;116410;1;0;
+Maule;Servicio de Salud Del Maule;Río Claro;Centro de Salud Familiar Cumpeo;116316;55;71;77.46
+Maule;Servicio de Salud Del Maule;Río Claro;Posta de Salud Rural Camarico (Río Claro);116432;3;3;100.0
+Maule;Servicio de Salud Del Maule;Río Claro;Posta de Salud Rural El Bolsico;116517;7;7;100.0
+Maule;Servicio de Salud Del Maule;Río Claro;Posta de Salud Rural Los Robles (Río Claro);116540;2;4;50.0
+Maule;Servicio de Salud Del Maule;Río Claro;Posta de Salud Rural Peñaflor;116434;2;2;100.0
+Maule;Servicio de Salud Del Maule;Río Claro;Posta de Salud Rural Porvenir;116433;1;5;20.0
+Maule;Servicio de Salud Del Maule;Sagrada Familia;Centro de Salud Familiar Sagrada Familia;116325;76;92;82.61
+Maule;Servicio de Salud Del Maule;Sagrada Familia;Centro de Salud Familiar Villa Prat;116326;22;26;84.62
+Maule;Servicio de Salud Del Maule;Sagrada Familia;Posta de Salud Rural Los Quillayes (Sagrada Familia);116514;5;6;83.33
+Maule;Servicio de Salud Del Maule;Sagrada Familia;Posta de Salud Rural Santa Rosa (Sagrada Familia);116533;5;7;71.43
+Maule;Servicio de Salud Del Maule;San Clemente;Centro Comunitario de Salud Familiar Aurora;116780;11;13;84.62
+Maule;Servicio de Salud Del Maule;San Clemente;Centro Comunitario de Salud Familiar Chile Nuevo;116713;14;19;73.68
+Maule;Servicio de Salud Del Maule;San Clemente;Centro Comunitario de Salud Familiar San Máximo;200232;17;40;42.5
+Maule;Servicio de Salud Del Maule;San Clemente;Centro de Salud Familiar Dr. Juan Carlos Baeza;116313;88;166;53.01
+Maule;Servicio de Salud Del Maule;San Clemente;Posta de Salud Rural Buenos Aires;116458;0;3;0.0
+Maule;Servicio de Salud Del Maule;San Clemente;Posta de Salud Rural Chequén;116546;7;6;116.67
+Maule;Servicio de Salud Del Maule;San Clemente;Posta de Salud Rural Corralones;116449;4;1;400.0
+Maule;Servicio de Salud Del Maule;San Clemente;Posta de Salud Rural El Colorado;116451;11;12;91.67
+Maule;Servicio de Salud Del Maule;San Clemente;Posta de Salud Rural La Placeta;116444;0;1;0.0
+Maule;Servicio de Salud Del Maule;San Clemente;Posta de Salud Rural La Suiza;116452;0;2;0.0
+Maule;Servicio de Salud Del Maule;San Clemente;Posta de Salud Rural Los Montes;116450;5;4;125.0
+Maule;Servicio de Salud Del Maule;San Clemente;Posta de Salud Rural Maitenes;116453;4;8;50.0
+Maule;Servicio de Salud Del Maule;San Clemente;Posta de Salud Rural Mariposas;116447;12;10;120.0
+Maule;Servicio de Salud Del Maule;San Clemente;Posta de Salud Rural Peumo Negro;116443;5;5;100.0
+Maule;Servicio de Salud Del Maule;San Clemente;Posta de Salud Rural Punta de Diamante;116445;2;4;50.0
+Maule;Servicio de Salud Del Maule;San Clemente;Posta de Salud Rural Santa Elena (San Clemente);116520;2;2;100.0
+Maule;Servicio de Salud Del Maule;San Clemente;Posta de Salud Rural Vilches;116448;1;1;100.0
+Maule;Servicio de Salud Del Maule;San Javier;Centro Comunitario de Salud Familiar San Pablo;116763;16;20;80.0
+Maule;Servicio de Salud Del Maule;San Javier;Centro de Salud Familiar Dr. Carlos Díaz Gidi;116342;260;277;93.86
+Maule;Servicio de Salud Del Maule;San Javier;Posta de Salud Rural Alquihue;200038;1;1;100.0
+Maule;Servicio de Salud Del Maule;San Javier;Posta de Salud Rural Caliboro;116464;1;1;100.0
+Maule;Servicio de Salud Del Maule;San Javier;Posta de Salud Rural El Aromo;116518;7;9;77.78
+Maule;Servicio de Salud Del Maule;San Javier;Posta de Salud Rural El Sauce de San Javier;116465;4;4;100.0
+Maule;Servicio de Salud Del Maule;San Javier;Posta de Salud Rural Huerta;116462;1;1;100.0
+Maule;Servicio de Salud Del Maule;San Javier;Posta de Salud Rural Melozal;116463;6;7;85.71
+Maule;Servicio de Salud Del Maule;San Javier;Posta de Salud Rural Nirivilo;116459;3;4;75.0
+Maule;Servicio de Salud Del Maule;San Javier;Posta de Salud Rural Rastrojos;116460;1;1;100.0
+Maule;Servicio de Salud Del Maule;San Javier;Posta de Salud Rural Villavicencio;116461;1;2;50.0
+Maule;Servicio de Salud Del Maule;San Rafael;Centro de Salud Familiar San Rafael (San Rafael);116324;60;68;88.24
+Maule;Servicio de Salud Del Maule;San Rafael;Posta de Salud Rural Pangue Arriba;116572;10;12;83.33
+Maule;Servicio de Salud Del Maule;Talca;Centro Comunitario de Salud Familiar Brilla el Sol;116705;6;7;85.71
+Maule;Servicio de Salud Del Maule;Talca;Centro Comunitario de Salud Familiar Carlos Trupp;200352;35;36;97.22
+Maule;Servicio de Salud Del Maule;Talca;Centro Comunitario de Salud Familiar Nuevo Horizonte;116766;7;7;100.0
+Maule;Servicio de Salud Del Maule;Talca;Centro de Salud Familiar Bicentenario;200987;121;149;81.21
+Maule;Servicio de Salud Del Maule;Talca;Centro de Salud Familiar Carlos Trupp;116331;186;209;89.0
+Maule;Servicio de Salud Del Maule;Talca;Centro de Salud Familiar Dr. Julio Contardo Urzúa;116307;108;125;86.4
+Maule;Servicio de Salud Del Maule;Talca;Centro de Salud Familiar Faustino González;116343;68;68;100.0
+Maule;Servicio de Salud Del Maule;Talca;Centro de Salud Familiar José Dionisio Astaburuaga;116305;141;179;78.77
+Maule;Servicio de Salud Del Maule;Talca;Centro de Salud Familiar La Florida;116306;108;120;90.0
+Maule;Servicio de Salud Del Maule;Talca;Centro de Salud Familiar Las Américas;116340;202;216;93.52
+Maule;Servicio de Salud Del Maule;Talca;Centro de Salud Familiar Villa Magisterio;200072;75;127;59.06
+Maule;Servicio de Salud Del Maule;Talca;Posta de Salud Rural Mercedes;116561;33;36;91.67
+Maule;Servicio de Salud Del Maule;Teno;Centro de Salud Familiar Comalle;116336;13;13;100.0
+Maule;Servicio de Salud Del Maule;Teno;Centro de Salud Familiar Morza;116335;36;36;100.0
+Maule;Servicio de Salud Del Maule;Teno;Hospital de Teno;116101;62;69;89.86
+Maule;Servicio de Salud Del Maule;Teno;Posta de Salud Rural El Manzano ( Teno);116403;2;2;100.0
+Maule;Servicio de Salud Del Maule;Teno;Posta de Salud Rural Monterilla;116401;5;5;100.0
+Maule;Servicio de Salud Del Maule;Teno;Posta de Salud Rural Raúl Folleraux;116554;1;1;100.0
+Maule;Servicio de Salud Del Maule;Teno;Posta de Salud Rural Santa Blanca;116404;19;20;95.0
+Maule;Servicio de Salud Del Maule;Vichuquén;Centro de Salud Familiar Vichuquén;116327;17;20;85.0
+Maule;Servicio de Salud Del Maule;Vichuquén;Posta de Salud Rural Lipimávida;116429;1;1;100.0
+Maule;Servicio de Salud Del Maule;Vichuquén;Posta de Salud Rural Llico de Vichuquén;116428;9;10;90.0
+Maule;Servicio de Salud Del Maule;Villa Alegre;Centro Comunitario de Salud Familiar Loma de Las Tortillas;116764;6;6;100.0
+Maule;Servicio de Salud Del Maule;Villa Alegre;Centro de Salud Familiar Jorge del Campo Amaro;116310;86;89;96.63
+Maule;Servicio de Salud Del Maule;Villa Alegre;Posta de Salud Rural Esperanza;116519;1;1;100.0
+Maule;Servicio de Salud Del Maule;Villa Alegre;Posta de Salud Rural Estación;116466;6;6;100.0
+Maule;Servicio de Salud Del Maule;Villa Alegre;Posta de Salud Rural Lagunillas ( Villa Alegre );116468;2;3;66.67
+Maule;Servicio de Salud Del Maule;Villa Alegre;Posta de Salud Rural Peñuelas;116469;2;2;100.0
+Maule;Servicio de Salud Del Maule;Villa Alegre;Posta de Salud Rural Putagán;116467;3;4;75.0
+Maule;Servicio de Salud Del Maule;Yerbas Buenas;Centro de Salud Familiar Ignacio Carrera Pinto;116318;97;118;82.2
+Maule;Servicio de Salud Del Maule;Yerbas Buenas;Posta de Salud Rural Maitencillo (Yerbas Buenas);116471;6;6;100.0
+Maule;Servicio de Salud Del Maule;Yerbas Buenas;Posta de Salud Rural Orilla de Maule;116470;8;18;44.44
+Maule;Servicio de Salud Del Maule;Yerbas Buenas;Posta de Salud Rural Puipuyén;116547;5;6;83.33
+Maule;Servicio de Salud Del Maule;Yerbas Buenas;Posta de Salud Rural Semillero;200619;2;4;50.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Cerrillos;Centro Comunitario de Salud Familiar Buzeta;200346;17;31;54.84
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Cerrillos;Centro de Salud Familiar Dr. Norman Voulliéme;111305;164;275;59.64
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Cerrillos;Centro de Salud Familiar Enfermera Sofía Pincheira;111307;110;159;69.18
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Estación Central;Centro Comunitario de Salud Familiar Villa Francia;111781;18;21;85.71
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Estación Central;Centro de Salud Familiar Las Mercedes;111310;281;495;56.77
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Estación Central;Centro de Salud Familiar Padre Vicente Irarrázabal;111302;160;227;70.48
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Estación Central;Centro de Salud Familiar San José de Chuchunco;111306;149;187;79.68
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;CESFAM El Abrazo Dr. Salvador Allende Gossens;201674;118;142;83.1
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;Centro Comunitario de Salud Familiar Bueras;111784;16;18;88.89
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;Centro Comunitario de Salud Familiar Europa;111780;0;2;0.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;Centro Comunitario de Salud Familiar Futramapu;111704;4;8;50.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;Centro Comunitario de Salud Familiar LUMEN;201129;39;45;86.67
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;Centro Comunitario de Salud Familiar Lo Errázuriz;111783;17;22;77.27
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;Centro Comunitario de Salud Familiar Los Bosquinos;200643;26;27;96.3
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;Centro Comunitario de Salud Familiar Rinconada de Maipú;111400;8;11;72.73
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;Centro de Salud Familiar Clotario Blest;111379;108;140;77.14
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;Centro de Salud Familiar Dr. Carlos Godoy;111380;136;279;48.75
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;Centro de Salud Familiar Dr. Iván Insunza;111378;110;153;71.9
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;Centro de Salud Familiar Dr. José Eduardo Ahués Salame;111308;182;211;86.26
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;Centro de Salud Familiar Dr. Luis Ferrada;111383;98;139;70.5
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;Centro de Salud Familiar Dra. Ana María Juricic;111309;212;245;86.53
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;Centro de Salud Familiar Maipú;111304;155;174;89.08
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;Centro de Salud Familiar Presidenta Michelle Bachelet;111382;222;261;85.06
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Santiago;Centro de Salud Familiar Arauco;111372;128;155;82.58
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Santiago;Centro de Salud Familiar Ignacio Domeyko;111381;371;574;64.63
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Santiago;Centro de Salud Familiar Matta Sur;111376;250;374;66.84
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Santiago;Centro de Salud Familiar N° 1 Dr. Ramón Corbalán Melgarejo;111300;275;449;61.25
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Santiago;Centro de Salud Familiar Nº 5;111301;162;231;70.13
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Santiago;Centro de Salud Familiar Padre Orellana;111370;238;340;70.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Colina;CESFAM La Reina de Colina;201462;169;264;64.02
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Colina;Centro Comunitario de Salud Familiar Esmeralda;109716;20;22;90.91
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Colina;Centro de Salud Familiar Colina;109310;241;347;69.45
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Colina;Centro de Salud Familiar Esmeralda;109316;226;261;86.59
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Conchalí;Centro Comunitario de Salud Familiar Alberto Bachelet;200347;24;37;64.86
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Conchalí;Centro Comunitario de Salud Familiar Dr. José Symón Ojeda;109709;44;69;63.77
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Conchalí;Centro Comunitario de Salud Familiar Dr. Lucas Sierra;200609;31;36;86.11
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Conchalí;Centro de Salud Familiar Alberto Bachelet Martínez;109308;114;125;91.2
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Conchalí;Centro de Salud Familiar José Symon Ojeda;109309;93;113;82.3
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Conchalí;Centro de Salud Familiar Juanita Aguirre;109314;98;152;64.47
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Conchalí;Centro de Salud Familiar Lucas Sierra;109302;118;163;72.39
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Huechuraba;Centro Comunitario de Salud Familiar Los Libertadores;109718;35;40;87.5
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Huechuraba;Centro de Salud Familiar Dr. Salvador Allende Gossens;109323;81;111;72.97
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Huechuraba;Centro de Salud Familiar Dr. Victor Castro Wiren;200961;33;46;71.74
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Huechuraba;Centro de Salud Familiar El Barrero;109317;70;78;89.74
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Huechuraba;Centro de Salud Familiar La Pincoya;109305;114;136;83.82
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Independencia;Centro Comunitario de Salud Familiar Las Enredaderas;200554;40;39;102.56
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Independencia;Centro de Salud Familiar Agustín Cruz Melo;109300;485;544;89.15
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Independencia;Centro de Salud Familiar Juan Antonio Ríos;109321;175;197;88.83
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Lampa;Centro Comunitario de Salud Familiar Batuco;109712;56;73;76.71
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Lampa;Centro Comunitario de Salud Familiar Sol de Septiembre;109711;59;87;67.82
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Lampa;Centro de Salud Familiar Batuco;109312;90;119;75.63
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Lampa;Centro de Salud Familiar José Bauza Frau;109311;275;341;80.65
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Lampa;Centro de Salud Familiar Juan Pablo II de Lampa;201212;53;68;77.94
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Quilicura;Centro Comunitario de Salud Familiar Beato Padre Hurtado;200304;25;28;89.29
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Quilicura;Centro Comunitario de Salud Familiar La Foresta;109713;21;31;67.74
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Quilicura;Centro Comunitario de Salud Familiar Pucara de Lasana;109715;11;18;61.11
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Quilicura;Centro de Salud Familiar Irene Frei de Cid;109313;259;319;81.19
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Quilicura;Centro de Salud Familiar Manuel Bustos Huerta;109315;107;180;59.44
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Quilicura;Centro de Salud Familiar Marta Ugarte Román;201091;118;182;64.84
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Quilicura;Centro de Salud Familiar Presidente Salvador Allende Gossens;109324;212;279;75.99
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Recoleta;Centro de Salud Familiar Cristo Vive (ONG);109390;148;174;85.06
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Recoleta;Centro de Salud Familiar Dr. Juan Petrinovic (Ex Scroggie);109307;81;118;68.64
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Recoleta;Centro de Salud Familiar Quinta Bella;109303;99;175;56.57
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Recoleta;Centro de Salud Familiar Recoleta;109301;220;269;81.78
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Recoleta;Centro de Salud Familiar Valdivieso;109304;52;70;74.29
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Tiltil;Centro de Salud Familiar Huertos Familiares;109320;47;54;87.04
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Tiltil;Hospital de Til Til;109104;52;55;94.55
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Tiltil;Posta de Salud Rural La Capilla de Caleu;109410;2;2;100.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Tiltil;Posta de Salud Rural Polpaico;109414;12;15;80.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Tiltil;Posta de Salud Rural Rungue;109413;1;1;100.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Alhué;Centro Comunitario de Salud Familiar Hacienda Alhué;110503;21;21;100.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Alhué;Centro de Salud Familiar Villa Alhué;110393;27;30;90.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Alhué;Posta de Salud Rural El Asiento;110510;2;1;200.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Alhué;Posta de Salud Rural Pichi;110505;2;2;100.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Cerro Navia;Centro Comunitario de Salud Familiar Los Lagos (Unidad Vecinal Nº 33);110735;15;16;93.75
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Cerro Navia;Centro de Salud Familiar Cerro Navia;110335;123;181;67.96
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Cerro Navia;Centro de Salud Familiar Dr. Adalberto Steeger;110330;182;379;48.02
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Cerro Navia;Centro de Salud Familiar Dr. Arturo Albertz;110355;152;194;78.35
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Cerro Navia;Centro de Salud Familiar Lo Amor;110331;128;170;75.29
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Curacaví;Centro Comunitario de Salud Familiar María Salas;110477;19;21;90.48
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Curacaví;Centro Comunitario de Salud Familiar Valmi  Aguirre;110760;24;26;92.31
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Curacaví;Hospital de Curacaví;110160;93;106;87.74
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;El Monte;Centro Comunitario de Salud Familiar Lo Chacón;200454;32;40;80.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;El Monte;Centro de Salud Familiar El Monte;110370;133;146;91.1
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Isla de Maipo;Centro Comunitario de Salud Familiar La Islita;110775;24;28;85.71
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Isla de Maipo;Centro Comunitario de Salud Familiar San Vicente de Naltagua;200385;4;7;57.14
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Isla de Maipo;Centro de Salud Familiar Isla de Maipo;110375;62;62;100.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Isla de Maipo;Centro de Salud Familiar La Islita;110425;67;98;68.37
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Isla de Maipo;Posta de Salud Rural Gacitúa;110431;7;6;116.67
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Isla de Maipo;Posta de Salud Rural Las Mercedes ( Isla de Maipo );110432;5;2;250.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Isla de Maipo;Posta de Salud Rural San Antonio de Naltagua;110430;17;13;130.77
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Lo Prado;Centro de Salud Familiar Dr. Carlos Avendaño;110345;104;133;78.2
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Lo Prado;Centro de Salud Familiar Dr. Raúl Yazigi;110340;165;160;103.12
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Lo Prado;Centro de Salud Familiar Pablo Neruda;110316;104;137;75.91
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Lo Prado;Centro de Salud Familiar Santa Anita;110315;182;203;89.66
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Maria Pinto;Centro de Salud Familiar Adriana Madrid De Costabal;110385;39;50;78.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Maria Pinto;Posta de Salud Rural Chorombo;110475;23;25;92.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Maria Pinto;Posta de Salud Rural Las Mercedes ( María Pinto );110470;5;6;83.33
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Maria Pinto;Posta de Salud Rural Santa Emilia;110465;18;19;94.74
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Melipilla;Centro Comunitario de Salud Familiar Codigua;110783;8;9;88.89
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Melipilla;Centro Comunitario de Salud Familiar Obispo Pablo Lizama;110781;23;24;95.83
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Melipilla;Centro Comunitario de Salud Familiar Padre Demetrio Bravo;110778;56;65;86.15
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Melipilla;Centro de Salud Familiar Alfarera Rosa Reyes Vilches;110381;43;48;89.58
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Melipilla;Centro de Salud Familiar Dr. Edelberto Elgueta;110378;174;238;73.11
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Melipilla;Centro de Salud Familiar Dr. Francisco Boris Soler;110379;274;296;92.57
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Melipilla;Centro de Salud Familiar Florencia;200965;229;256;89.45
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Melipilla;Centro de Salud Familiar San Manuel;110380;50;61;81.97
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Melipilla;Posta de Salud Rural Bollenar;110440;52;57;91.23
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Melipilla;Posta de Salud Rural Pabellón;110455;9;10;90.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Melipilla;Posta de Salud Rural Pahuilmo;110445;23;25;92.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Padre Hurtado;Centro de Salud Familiar Juan Pablo II ( Padre Hurtado);110366;293;339;86.43
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Peñaflor;Centro de Salud Familiar Dr. Fernando Monckeberg;110369;163;220;74.09
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Peñaflor;Centro de Salud Familiar Peñaflor;110308;167;346;48.27
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Pudahuel;Centro Comunitario de Salud Familiar Concejal Guillermo Flores O.;110750;2;5;40.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Pudahuel;Centro Comunitario de Salud Familiar Irene Frei Montalva;110410;9;17;52.94
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Pudahuel;Centro Comunitario de Salud Familiar Mar Caribe;110756;3;7;42.86
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Pudahuel;Centro Comunitario de Salud Familiar Padre Félix Gutiérrez Donoso;110752;21;21;100.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Pudahuel;Centro Comunitario de Salud Familiar Río Claro;110754;23;24;95.83
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Pudahuel;Centro Comunitario de Salud Familiar Santa Corina;110758;7;8;87.5
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Pudahuel;Centro Comunitario de Salud Familiar Unión y Esfuerzo Rural;201353;3;6;50.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Pudahuel;Centro de Salud Familiar Cardenal Raúl Silva Henríquez;110353;131;159;82.39
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Pudahuel;Centro de Salud Familiar Dr. Gustavo Molina;110352;153;187;81.82
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Pudahuel;Centro de Salud Familiar Pudahuel Estrella;110350;183;264;69.32
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Pudahuel;Centro de Salud Familiar Pudahuel Poniente;110351;151;209;72.25
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Pudahuel;Centro de Salud Familiar Violeta Parra;110354;143;203;70.44
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Quinta Normal;Centro Comunitario de Salud Familiar Antumalal;110725;11;11;100.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Quinta Normal;Centro Comunitario de Salud Familiar Catamarca;110720;20;26;76.92
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Quinta Normal;Centro Comunitario de Salud Familiar Plaza México;200342;19;23;82.61
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Quinta Normal;Centro de Salud Familiar Andes;110310;199;203;98.03
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Quinta Normal;Centro de Salud Familiar Garín;110325;90;107;84.11
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Quinta Normal;Centro de Salud Familiar Lo Franco;110320;179;187;95.72
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Renca;CESFAM Cerro Colorado;202205;12;17;70.59
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Renca;Centro de Salud Familiar Bicentenario;110361;216;261;82.76
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Renca;Centro de Salud Familiar Dr. Hernán Urzúa Merino;110362;138;171;80.7
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Renca;Centro de Salud Familiar Huamachuco;110364;104;112;92.86
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Renca;Centro de Salud Familiar Renca;110360;264;344;76.74
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;San Pedro;Centro de Salud Familiar San Pedro;110387;54;80;67.5
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;San Pedro;Posta de Salud Rural El Prado;110495;17;18;94.44
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;San Pedro;Posta de Salud Rural La Manga;110490;2;2;100.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;San Pedro;Posta de Salud Rural Loica;110485;10;10;100.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;San Pedro;Posta de Salud Rural Nihue;110492;2;1;200.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Talagante;Centro Comunitario de Salud Familiar Villa Los Presidentes;200365;24;26;92.31
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Talagante;Centro de Salud Familiar Dr. Alberto Allende Jones;110390;310;356;87.08
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Talagante;Posta de Salud Rural Aliro Cárcarmo (Lonquén);110400;13;13;100.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;La Reina;Centro Comunitario de Salud Familiar Dragones de La Reina;112717;11;18;61.11
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;La Reina;Centro de Salud Familiar Juan Pablo II ( La Reina);112320;51;100;51.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;La Reina;Centro de Salud Familiar Ossandon;112317;21;31;67.74
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Las Condes;Centro de Salud Familiar Aníbal Ariztía;112306;99;172;57.56
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Las Condes;Centro de Salud Familiar Apoquindo;112304;19;35;54.29
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Lo Barnechea;Centro Comunitario de Salud Familiar Bicentenario;112799;24;0;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Lo Barnechea;Centro de Salud Familiar Lo Barnechea;112307;194;212;91.51
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Macul;Centro de Salud Familiar Félix de Amesti;112312;98;125;78.4
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Macul;Centro de Salud Familiar Padre Alberto Hurtado;112319;81;111;72.97
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Macul;Centro de Salud Familiar Santa Julia;112313;148;193;76.68
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Peñalolén;Centro Comunitario de Salud Familiar Esperanza Andina;112716;13;12;108.33
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Peñalolén;Centro de Salud Familiar Cardenal Silva Henríquez;112321;101;132;76.52
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Peñalolén;Centro de Salud Familiar Carol Urzúa Ibáñez;112316;131;191;68.59
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Peñalolén;Centro de Salud Familiar La Faena;112314;182;168;108.33
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Peñalolén;Centro de Salud Familiar Las Torres;201112;97;155;62.58
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Peñalolén;Centro de Salud Familiar Lo Hermida;112318;141;184;76.63
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Peñalolén;Centro de Salud Familiar Padre Gerardo Whelan;112322;102;129;79.07
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Peñalolén;Centro de Salud Familiar San Luis;112315;108;124;87.1
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Providencia;Centro Comunitario de Salud Familiar Andacollo;200265;7;8;87.5
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Providencia;Centro Comunitario de Salud Familiar Elena Caffarena;200037;26;41;63.41
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Providencia;Centro de Salud Familiar Aguilucho;112303;42;52;80.77
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Providencia;Centro de Salud Familiar Dr. Alfonso Leng;112302;56;62;90.32
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Providencia;Centro de Salud Familiar Dr. Hernán Alessandri;112301;46;63;73.02
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Vitacura;Centro de Salud Familiar Vitacura;112309;37;40;92.5
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Ñuñoa;Centro Comunitario de Salud Familiar Amapolas;200389;4;4;100.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Ñuñoa;Centro Comunitario de Salud Familiar Villa Olímpica;200236;21;33;63.64
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Ñuñoa;Centro de Salud Familiar Rosita Renard;112310;128;199;64.32
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Ñuñoa;Centro de Salud Familiar Salvador Bustos;112311;126;170;74.12
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Buin;Centro Comunitario de Salud Familiar Dr. Héctor García;113790;51;65;78.46
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Buin;Centro Comunitario de Salud Familiar Dr. Ramón Galindo;113402;33;41;80.49
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Buin;Centro de Salud Familiar Alto Jahuel;113333;57;69;82.61
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Buin;Centro de Salud Familiar Dr. Héctor García;113390;188;282;66.67
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Buin;Centro de Salud Familiar Maipo;113320;54;137;39.42
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Buin;Posta de Salud Rural El Recurso;113406;6;9;66.67
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Buin;Posta de Salud Rural Los Morros;113407;19;22;86.36
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Buin;Posta de Salud Rural Valdivia de Paine;113404;2;20;10.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Buin;Posta de Salud Rural Viluco;113405;12;36;33.33
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Calera de Tango;Centro de Salud Familiar Calera de Tango;113321;35;50;70.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Calera de Tango;Centro de Salud Familiar Los Bajos de San Agustín;113334;48;53;90.57
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Calera de Tango;Posta de Salud Rural Santa Inés;113413;0;1;0.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;El Bosque;Centro Comunitario de Salud Familiar Los Sauces;200962;11;26;42.31
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;El Bosque;Centro Comunitario de Salud Familiar Santa Laura;113717;17;28;60.71
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;El Bosque;Centro de Salud Familiar Canciller Orlando Letelier;113329;101;135;74.81
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;El Bosque;Centro de Salud Familiar Cóndores de Chile;113314;105;140;75.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;El Bosque;Centro de Salud Familiar Dr. Carlos Lorca Tobar;113312;100;150;66.67
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;El Bosque;Centro de Salud Familiar Dr. Mario Salcedo;113323;113;154;73.38
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;El Bosque;Centro de Salud Familiar Dra. Haydeé López Casoou;113324;100;142;70.42
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;El Bosque;Centro de Salud Familiar Santa Laura;113317;99;128;77.34
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;La Cisterna;Centro Comunitario de Salud Familiar Eduardo Frei Montalva;200360;3;3;100.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;La Cisterna;Centro de Salud Familiar Eduardo Frei Montalva;113326;139;190;73.16
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;La Cisterna;Centro de Salud Familiar Santa Anselma;113311;208;253;82.21
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Lo Espejo;Centro de Salud Familiar Clara Estrella;113308;71;102;69.61
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Lo Espejo;Centro de Salud Familiar Dra. Mariela Salgado Zepeda;113310;94;133;70.68
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Lo Espejo;Centro de Salud Familiar Julio Acuña Pinzón;113309;96;174;55.17
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Lo Espejo;Centro de Salud Familiar Pueblo Lo Espejo;113396;78;136;57.35
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Paine;Centro de Salud Familiar Dr. Miguel Ángel Solar (ex CESFAM Paine);113318;270;389;69.41
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Paine;Centro de Salud Familiar Dr. Raúl Moya;113319;83;103;80.58
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Paine;Posta de Salud Rural Abrantes;113411;15;15;100.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Paine;Posta de Salud Rural Chada;113412;6;7;85.71
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Paine;Posta de Salud Rural Huelquén;113409;42;48;87.5
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Paine;Posta de Salud Rural Pintué;113408;17;15;113.33
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Pedro Aguirre Cerda;Centro Comunitario de Salud Familiar Dr. Miguel Enríquez Espinosa;113703;21;26;80.77
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Pedro Aguirre Cerda;Centro de Salud Familiar Amador Neghme;113303;116;143;81.12
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Pedro Aguirre Cerda;Centro de Salud Familiar Edgardo Enríquez Fröedden;113331;96;118;81.36
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Pedro Aguirre Cerda;Centro de Salud Familiar Lo Valledor Norte;111303;101;129;78.29
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Pedro Aguirre Cerda;Centro de Salud Familiar Padre Pierre Dubois (Ex La Feria);113306;138;155;89.03
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Centro Comunitario de Salud Familiar Las Hortensias;200377;12;28;42.86
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Centro Comunitario de Salud Familiar Lo Herrera;113728;48;49;97.96
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Centro Comunitario de Salud Familiar Rapa Nui;113716;27;29;93.1
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Centro Comunitario de Salud Familiar Ribera del Maipo;113713;26;39;66.67
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Centro de Salud Familiar Carol Urzúa;113316;133;174;76.44
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Centro de Salud Familiar Confraternidad;113315;89;161;55.28
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Centro de Salud Familiar El Manzano;113394;93;169;55.03
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Centro de Salud Familiar Juan Pablo II ( San Bernardo);113332;91;187;48.66
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Centro de Salud Familiar Padre Joan Alsina;113328;143;237;60.34
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Centro de Salud Familiar Raúl Brañes F.;113330;48;254;18.9
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Centro de Salud Familiar Raúl Cuevas (Ex-San Bernardo);113313;120;166;72.29
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Joaquín;Centro Comunitario de Salud Familiar Coñimo;200210;28;29;96.55
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Joaquín;Centro Comunitario de Salud Familiar Dr. Salvador Allende;113722;12;18;66.67
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Joaquín;Centro Comunitario de Salud Familiar Martín Henríquez;200337;27;27;100.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Joaquín;Centro Comunitario de Salud Familiar Reverendo Javier Peró;113753;0;8;0.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Joaquín;Centro Comunitario de Salud Familiar Sierra Bella;113702;10;11;90.91
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Joaquín;Centro Comunitario de Salud Familiar Yalta;113701;18;39;46.15
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Joaquín;Centro de Salud Familiar Arturo Baeza Goñi;113305;64;71;90.14
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Joaquín;Centro de Salud Familiar San Joaquín;113301;83;100;83.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Joaquín;Centro de Salud Familiar Santa Teresa de Los Andes;113322;96;126;76.19
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Miguel;Centro Comunitario de Salud Familiar Atacama;200361;47;52;90.38
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Miguel;Centro de Salud Familiar Barros Luco;113300;284;328;86.59
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Miguel;Centro de Salud Familiar Recreo;113302;178;255;69.8
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Florida;Centro Comunitario de Salud Familiar Las Lomas;200475;11;14;78.57
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Florida;Centro de Salud Familiar Bellavista;114303;208;299;69.57
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Florida;Centro de Salud Familiar Dr. Fernando Maffioletti;114316;112;192;58.33
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Florida;Centro de Salud Familiar José Alvo;114334;67;161;41.61
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Florida;Centro de Salud Familiar La Florida;114331;164;293;55.97
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Florida;Centro de Salud Familiar Los Castaños;114302;104;165;63.03
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Florida;Centro de Salud Familiar Los Quillayes;114305;122;243;50.21
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Florida;Centro de Salud Familiar Santa Amalia;114324;164;229;71.62
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Florida;Centro de Salud Familiar Trinidad;114330;100;144;69.44
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Florida;Centro de Salud Familiar Villa O'Higgins;114304;122;224;54.46
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Granja;Centro Comunitario de Salud Familiar Millalemu;114706;21;15;140.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Granja;Centro Comunitario de Salud Familiar San Gregorio;114796;18;27;66.67
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Granja;Centro de Salud Familiar Granja Sur;114325;130;187;69.52
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Granja;Centro de Salud Familiar La Granja;114306;112;160;70.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Granja;Centro de Salud Familiar Malaquías Concha;114315;72;117;61.54
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Granja;Centro de Salud Familiar Padre Esteban Gumucio Vives;113307;30;37;81.08
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Pintana;Centro de Salud Familiar El Roble;114319;137;219;62.56
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Pintana;Centro de Salud Familiar Flor Fernández;114318;58;61;95.08
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Pintana;Centro de Salud Familiar Juan Pablo II Red de Salud UC CHRISTUS;114327;79;121;65.29
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Pintana;Centro de Salud Familiar Pablo de Rokha;114309;106;144;73.61
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Pintana;Centro de Salud Familiar San Rafael;114308;101;153;66.01
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Pintana;Centro de Salud Familiar Santiago de Nueva Extremadura;114311;133;177;75.14
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Pintana;Centro de Salud Familiar Santo Tomás;114317;109;159;68.55
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;Pirque;Centro de Salud Familiar Dr. José Manuel Balmaceda;114310;39;56;69.64
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;Pirque;Centro de Salud Rural El Principal;114333;34;46;73.91
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;Pirque;Posta de Salud Rural Puntilla;114401;6;6;100.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;Pirque;Posta de Salud Rural San Vicente;114406;2;3;66.67
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;Puente Alto;Centro de Salud Familiar Bernardo Leighton;114320;208;272;76.47
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;Puente Alto;Centro de Salud Familiar Cardenal Silva Henríquez;114321;87;231;37.66
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;Puente Alto;Centro de Salud Familiar Dr. Alejandro del Río;114301;409;485;84.33
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;Puente Alto;Centro de Salud Familiar Karol Wojtyla;114326;162;233;69.53
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;Puente Alto;Centro de Salud Familiar Laurita Vicuña;114332;132;212;62.26
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;Puente Alto;Centro de Salud Familiar Madre Teresa de Calcuta Red de Salud UC CHRISTUS;114323;75;134;55.97
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;Puente Alto;Centro de Salud Familiar Padre Manuel Villaseca;114322;213;386;55.18
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;Puente Alto;Centro de Salud Familiar San Alberto Hurtado Red de Salud UC CHRISTUS;114329;93;114;81.58
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;Puente Alto;Centro de Salud Familiar San Gerónimo;114312;192;265;72.45
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;Puente Alto;Centro de Salud Familiar Vista Hermosa;114313;106;159;66.67
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;San José de Maipo;Hospital San José de Maipo;114102;30;47;63.83
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;San José de Maipo;Posta de Salud Rural Las Vertientes;114407;19;22;86.36
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;San José de Maipo;Posta de Salud Rural San Gabriel;114410;3;2;150.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;San Ramón;Centro Comunitario de Salud Familiar Modelo;114714;21;25;84.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;San Ramón;Centro de Salud Familiar Dr. Salvador Allende (Ex Consultorio San Ramón);114314;53;111;47.75
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;San Ramón;Centro de Salud Familiar La Bandera;114307;111;144;77.08
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;San Ramón;Centro de Salud Familiar Poetisa Gabriela Mistral;114328;154;161;95.65
+Tarapacá;Servicio de Salud Tarapacá;Alto Hospicio;Centro Comunitario de Salud Familiar El Boro;102705;121;162;74.69
+Tarapacá;Servicio de Salud Tarapacá;Alto Hospicio;Centro Comunitario de Salud Familiar La Tortuga;200335;59;118;50.0
+Tarapacá;Servicio de Salud Tarapacá;Alto Hospicio;Centro de Salud Familiar Dr. Héctor Reyno Gutiérrez;102307;172;425;40.47
+Tarapacá;Servicio de Salud Tarapacá;Alto Hospicio;Centro de Salud Familiar Dr. Yandry Añazco Montero;200557;172;235;73.19
+Tarapacá;Servicio de Salud Tarapacá;Alto Hospicio;Centro de Salud Familiar Pedro Pulgar Melgarejo;102305;182;489;37.22
+Tarapacá;Servicio de Salud Tarapacá;Camiña;Centro de Salud Familiar Camiña;102309;2;6;33.33
+Tarapacá;Servicio de Salud Tarapacá;Camiña;Posta de Salud Rural Moquella;102408;2;4;50.0
+Tarapacá;Servicio de Salud Tarapacá;Colchane;Centro de Salud Familiar Colchane;102310;6;4;150.0
+Tarapacá;Servicio de Salud Tarapacá;Huara;Centro de Salud Familiar Dr. Amador Neghme Rodríguez;102308;17;18;94.44
+Tarapacá;Servicio de Salud Tarapacá;Huara;Posta de Salud Rural Pachica;200474;0;1;0.0
+Tarapacá;Servicio de Salud Tarapacá;Huara;Posta de Salud Rural Sibaya;102410;0;2;0.0
+Tarapacá;Servicio de Salud Tarapacá;Iquique;Centro Comunitario de Salud Familiar Cerro Esmeralda;102701;57;72;79.17
+Tarapacá;Servicio de Salud Tarapacá;Iquique;Centro de Salud Familiar Cirujano Aguirre;102300;349;445;78.43
+Tarapacá;Servicio de Salud Tarapacá;Iquique;Centro de Salud Familiar Cirujano Guzmán;102302;208;238;87.39
+Tarapacá;Servicio de Salud Tarapacá;Iquique;Centro de Salud Familiar Cirujano Videla;102301;323;471;68.58
+Tarapacá;Servicio de Salud Tarapacá;Iquique;Centro de Salud Familiar Sur de Iquique;102306;201;267;75.28
+Tarapacá;Servicio de Salud Tarapacá;Iquique;Posta de Salud Rural Chanavayita;102412;7;7;100.0
+Tarapacá;Servicio de Salud Tarapacá;Iquique;Posta de Salud Rural San Marcos;102413;7;7;100.0
+Tarapacá;Servicio de Salud Tarapacá;Pica;Centro de Salud Familiar Dr. Juan Márquez Vismarra;102304;46;83;55.42
+Tarapacá;Servicio de Salud Tarapacá;Pozo Almonte;Centro de Salud Familiar Pozo Almonte;102303;111;154;72.08
+Tarapacá;Servicio de Salud Tarapacá;Pozo Almonte;Posta de Salud Rural La Huayca;102414;3;4;75.0
+Tarapacá;Servicio de Salud Tarapacá;Pozo Almonte;Posta de Salud Rural La Tirana;102406;14;22;63.64
+Valparaíso;Servicio de Salud Aconcagua;Calle Larga;Centro de Salud Familiar José Joaquín Aguirre;108308;100;104;96.15
+Valparaíso;Servicio de Salud Aconcagua;Calle Larga;Posta de Salud Rural San Vicente (Calle Larga);108405;5;5;100.0
+Valparaíso;Servicio de Salud Aconcagua;Catemu;Centro Comunitario de Salud Familiar Los Cerrillos;108703;6;7;85.71
+Valparaíso;Servicio de Salud Aconcagua;Catemu;Centro de Salud Familiar Dr. Eduardo Raggio Lanata;108303;52;77;67.53
+Valparaíso;Servicio de Salud Aconcagua;Llaillay;Centro de Salud Familiar Llaillay;108300;124;150;82.67
+Valparaíso;Servicio de Salud Aconcagua;Los Andes;Centro Comunitario de Salud Familiar Juan Pablo Segundo( Los Andes);108707;11;14;78.57
+Valparaíso;Servicio de Salud Aconcagua;Los Andes;Centro de Salud Familiar Centenario;108307;108;158;68.35
+Valparaíso;Servicio de Salud Aconcagua;Los Andes;Centro de Salud Familiar Cordillera Andina;108306;154;161;95.65
+Valparaíso;Servicio de Salud Aconcagua;Los Andes;Posta de Salud Rural Río Blanco (Los Andes);108404;4;6;66.67
+Valparaíso;Servicio de Salud Aconcagua;Panquehue;Centro de Salud Familiar María Elena Peñaloza Morales;108311;47;52;90.38
+Valparaíso;Servicio de Salud Aconcagua;Putaendo;Centro Comunitario de Salud Familiar Estación Las Coimas;200345;11;11;100.0
+Valparaíso;Servicio de Salud Aconcagua;Putaendo;Centro de Salud Familiar Valle de Los Libertadores;108304;97;108;89.81
+Valparaíso;Servicio de Salud Aconcagua;Putaendo;Posta de Salud Rural La Orilla (Putaendo);108410;1;1;100.0
+Valparaíso;Servicio de Salud Aconcagua;Rinconada;Centro de Salud Familiar Rinconada;108301;58;63;92.06
+Valparaíso;Servicio de Salud Aconcagua;San Esteban;Centro Comunitario de Salud Familiar Lo Calvo;108700;7;9;77.78
+Valparaíso;Servicio de Salud Aconcagua;San Esteban;Centro de Salud Familiar San Esteban;108302;75;85;88.24
+Valparaíso;Servicio de Salud Aconcagua;San Esteban;Posta de Salud Rural Campos de Ahumada;108402;1;1;100.0
+Valparaíso;Servicio de Salud Aconcagua;San Esteban;Posta de Salud Rural Cariño Botado;108401;4;3;133.33
+Valparaíso;Servicio de Salud Aconcagua;San Esteban;Posta de Salud Rural Río Colorado;108403;5;3;166.67
+Valparaíso;Servicio de Salud Aconcagua;San Felipe;Centro Comunitario de Salud Familiar Quebrada Herrera;108712;16;17;94.12
+Valparaíso;Servicio de Salud Aconcagua;San Felipe;Centro de Salud Familiar Curimón;108310;39;41;95.12
+Valparaíso;Servicio de Salud Aconcagua;San Felipe;Centro de Salud Familiar Dr. Segismundo Iturra Taito;108312;238;282;84.4
+Valparaíso;Servicio de Salud Aconcagua;San Felipe;Centro de Salud Familiar San Felipe El Real;108305;205;257;79.77
+Valparaíso;Servicio de Salud Aconcagua;Santa Maria;Centro Comunitario de Salud Familiar Las Cadenas;108709;16;16;100.0
+Valparaíso;Servicio de Salud Aconcagua;Santa Maria;Centro de Salud Familiar Santa María Dr. Jorge Ahumada Lemus;108309;80;85;94.12
+Valparaíso;Servicio de Salud Aconcagua;Santa Maria;Posta de Salud Rural Santa Filomena (Santa María);108409;4;4;100.0
+Valparaíso;Servicio de Salud Metropolitano Oriente;Isla de Pascua;Hospital Hanga Roa (Isla De Pascua);112107;67;73;91.78
+Valparaíso;Servicio de Salud Valparaíso San Antonio;Algarrobo;Centro de Salud Familiar Algarrobo;106327;64;87;73.56
+Valparaíso;Servicio de Salud Valparaíso San Antonio;Algarrobo;Posta de Salud Rural El Yeco;106410;1;1;100.0
+Valparaíso;Servicio de Salud Valparaíso San Antonio;Algarrobo;Posta de Salud Rural San José (Algarrobo);106411;0;1;0.0
+Valparaíso;Servicio de Salud Valparaíso San Antonio;Cartagena;Centro Comunitario de Salud Familiar San Sebastian;106409;10;10;100.0
+Valparaíso;Servicio de Salud Valparaíso San Antonio;Cartagena;Centro de Salud Familiar Cartagena;106326;126;156;80.77
+Valparaíso;Servicio de Salud Valparaíso San Antonio;Cartagena;Posta de Salud Rural Lo Abarca;106408;1;0;
+Valparaíso;Servicio de Salud Valparaíso San Antonio;Cartagena;Posta de Salud Rural Lo Zárate;106406;1;0;
+Valparaíso;Servicio de Salud Valparaíso San Antonio;Casablanca;Hospital San José (Casablanca);106105;130;176;73.86
+Valparaíso;Servicio de Salud Valparaíso San Antonio;Casablanca;Posta de Salud Rural Lagunillas;106405;2;2;100.0
+Valparaíso;Servicio de Salud Valparaíso San Antonio;Casablanca;Posta de Salud Rural Las Dichas;106403;4;4;100.0
+Valparaíso;Servicio de Salud Valparaíso San Antonio;Casablanca;Posta de Salud Rural Quintay;106402;2;3;66.67
+Valparaíso;Servicio de Salud Valparaíso San Antonio;El Quisco;Centro Comunitario de Salud Familiar Isla Negra;106728;20;21;95.24
+Valparaíso;Servicio de Salud Valparaíso San Antonio;El Quisco;Centro de Salud Familiar El Quisco;106328;82;80;102.5
+Valparaíso;Servicio de Salud Valparaíso San Antonio;El Tabo;Centro Comunitario de Salud Familiar Las Cruces (El Tabo);106416;5;8;62.5
+Valparaíso;Servicio de Salud Valparaíso San Antonio;El Tabo;Centro de Salud Familiar El Tabo;106338;63;71;88.73
+Valparaíso;Servicio de Salud Valparaíso San Antonio;San Antonio;Centro Comunitario de Salud Familiar Cerro Alegre;106736;22;20;110.0
+Valparaíso;Servicio de Salud Valparaíso San Antonio;San Antonio;Centro Comunitario de Salud Familiar Lo Gallardo;106422;8;8;100.0
+Valparaíso;Servicio de Salud Valparaíso San Antonio;San Antonio;Centro Comunitario de Salud Familiar Tejas Verdes;106729;15;15;100.0
+Valparaíso;Servicio de Salud Valparaíso San Antonio;San Antonio;Centro de Salud Familiar 30 de Marzo;106333;59;73;80.82
+Valparaíso;Servicio de Salud Valparaíso San Antonio;San Antonio;Centro de Salud Familiar Barrancas;106319;74;86;86.05
+Valparaíso;Servicio de Salud Valparaíso San Antonio;San Antonio;Centro de Salud Familiar Diputado Manuel Bustos Huerta;106336;121;117;103.42
+Valparaíso;Servicio de Salud Valparaíso San Antonio;San Antonio;Centro de Salud Familiar Néstor Fernández Thomas;106329;118;133;88.72
+Valparaíso;Servicio de Salud Valparaíso San Antonio;San Antonio;Centro de Salud Familiar San Antonio;106314;106;126;84.13
+Valparaíso;Servicio de Salud Valparaíso San Antonio;San Antonio;Posta de Salud Rural Cuncumén (San Antonio);106418;3;3;100.0
+Valparaíso;Servicio de Salud Valparaíso San Antonio;San Antonio;Posta de Salud Rural El Asilo;106417;1;1;100.0
+Valparaíso;Servicio de Salud Valparaíso San Antonio;San Antonio;Posta de Salud Rural Leyda;106420;5;5;100.0
+Valparaíso;Servicio de Salud Valparaíso San Antonio;San Antonio;Posta de Salud Rural San Juan de San Antonio;106419;1;1;100.0
+Valparaíso;Servicio de Salud Valparaíso San Antonio;Santo Domingo;Centro de Salud Familiar Fernando Rodriguez Vicuña;106337;57;65;87.69
+Valparaíso;Servicio de Salud Valparaíso San Antonio;Santo Domingo;Posta de Salud Rural Bucalemu (Santo Domingo);106407;5;4;125.0
+Valparaíso;Servicio de Salud Valparaíso San Antonio;Santo Domingo;Posta de Salud Rural El Convento;106413;6;6;100.0
+Valparaíso;Servicio de Salud Valparaíso San Antonio;Santo Domingo;Posta de Salud Rural San Enrique;106414;2;2;100.0
+Valparaíso;Servicio de Salud Valparaíso San Antonio;Valparaíso;Centro Comunitario de Salud Familiar Juan Pablo II de Rodelillo;201086;13;16;81.25
+Valparaíso;Servicio de Salud Valparaíso San Antonio;Valparaíso;Centro Comunitario de Salud Familiar Laguna Verde;106401;18;31;58.06
+Valparaíso;Servicio de Salud Valparaíso San Antonio;Valparaíso;Centro Comunitario de Salud Familiar Porvenir Bajo;106711;10;16;62.5
+Valparaíso;Servicio de Salud Valparaíso San Antonio;Valparaíso;Centro de Salud Familiar Barón;106302;82;103;79.61
+Valparaíso;Servicio de Salud Valparaíso San Antonio;Valparaíso;Centro de Salud Familiar Cordillera;106309;35;42;83.33
+Valparaíso;Servicio de Salud Valparaíso San Antonio;Valparaíso;Centro de Salud Familiar Esperanza;106301;29;36;80.56
+Valparaíso;Servicio de Salud Valparaíso San Antonio;Valparaíso;Centro de Salud Familiar Jean y Marie Thierry;106305;77;89;86.52
+Valparaíso;Servicio de Salud Valparaíso San Antonio;Valparaíso;Centro de Salud Familiar Las Cañas;106306;46;59;77.97
+Valparaíso;Servicio de Salud Valparaíso San Antonio;Valparaíso;Centro de Salud Familiar Marcelo Mena;106307;112;138;81.16
+Valparaíso;Servicio de Salud Valparaíso San Antonio;Valparaíso;Centro de Salud Familiar Padre Damián Molokai;106334;48;64;75.0
+Valparaíso;Servicio de Salud Valparaíso San Antonio;Valparaíso;Centro de Salud Familiar Placeres;106300;53;79;67.09
+Valparaíso;Servicio de Salud Valparaíso San Antonio;Valparaíso;Centro de Salud Familiar Placilla;106304;159;207;76.81
+Valparaíso;Servicio de Salud Valparaíso San Antonio;Valparaíso;Centro de Salud Familiar Plaza Justicia;106308;72;86;83.72
+Valparaíso;Servicio de Salud Valparaíso San Antonio;Valparaíso;Centro de Salud Familiar Puertas Negras;106312;47;52;90.38
+Valparaíso;Servicio de Salud Valparaíso San Antonio;Valparaíso;Centro de Salud Familiar Quebrada Verde;106311;95;112;84.82
+Valparaíso;Servicio de Salud Valparaíso San Antonio;Valparaíso;Centro de Salud Familiar Reina Isabel II;106303;104;193;53.89
+Valparaíso;Servicio de Salud Valparaíso San Antonio;Valparaíso;Centro de Salud Familiar San José de Rodelillo;106330;88;99;88.89
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Cabildo;Hospital Dr. Víctor Hugo Moll (Cabildo);107106;93;109;85.32
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Cabildo;Posta de Salud Rural Alicahue;107415;11;11;100.0
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Cabildo;Posta de Salud Rural Artificio (Cabildo);107416;8;9;88.89
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Cabildo;Posta de Salud Rural La Viña;107417;14;16;87.5
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Cabildo;Posta de Salud Rural Las Puertas;107431;8;12;66.67
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Calera;Centro Comunitario de Salud Familiar Susana Guerra  Guajardo.;200471;33;41;80.49
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Calera;Centro de Salud Familiar Artificio;107321;65;92;70.65
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Calera;Centro de Salud Familiar La Calera;200595;114;154;74.03
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Calera;Posta de Salud Rural Manuel Rodríguez;107435;5;6;83.33
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Calera;Posta de Salud Rural Pachacama;107433;2;2;100.0
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Calera;Posta de Salud Rural Pachacamita;107428;10;13;76.92
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Con Con;Centro de Salud Familiar Concón;107305;166;241;68.88
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Hijuelas;Centro de Salud Familiar  OCOA;201072;45;51;88.24
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Hijuelas;Centro de Salud Familiar Dr. Orlando Orrego Torres;107322;79;98;80.61
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Hijuelas;Posta de Salud Rural Romeral;107402;4;5;80.0
+Valparaíso;Servicio de Salud Viña del Mar Quillota;La Cruz;Centro de Salud Familiar La Cruz;107313;95;172;55.23
+Valparaíso;Servicio de Salud Viña del Mar Quillota;La Ligua;Centro de Salud Familiar Raúl Sánchez Bañados;200219;133;149;89.26
+Valparaíso;Servicio de Salud Viña del Mar Quillota;La Ligua;Posta de Salud Rural Huaquén (La Ligua);107409;13;13;100.0
+Valparaíso;Servicio de Salud Viña del Mar Quillota;La Ligua;Posta de Salud Rural La Canela;107429;2;3;66.67
+Valparaíso;Servicio de Salud Viña del Mar Quillota;La Ligua;Posta de Salud Rural Las Parcelas;107408;11;10;110.0
+Valparaíso;Servicio de Salud Viña del Mar Quillota;La Ligua;Posta de Salud Rural Los Molles;107410;7;5;140.0
+Valparaíso;Servicio de Salud Viña del Mar Quillota;La Ligua;Posta de Salud Rural Pichicuy;107421;6;5;120.0
+Valparaíso;Servicio de Salud Viña del Mar Quillota;La Ligua;Posta de Salud Rural Pueblo de Roco;107406;14;8;175.0
+Valparaíso;Servicio de Salud Viña del Mar Quillota;La Ligua;Posta de Salud Rural Pueblo de Varas;107405;19;16;118.75
+Valparaíso;Servicio de Salud Viña del Mar Quillota;La Ligua;Posta de Salud Rural Santa Marta;107404;6;6;100.0
+Valparaíso;Servicio de Salud Viña del Mar Quillota;La Ligua;Posta de Salud Rural Trapiche;107407;6;6;100.0
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Limache;Centro de Salud Familiar Limache Viejo;201037;150;185;81.08
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Limache;Hospital Santo Tomás (Limache);107104;86;91;94.51
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Nogales;Centro Comunitario de Salud Familiar El Polígono;200355;16;16;100.0
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Nogales;Centro Comunitario de Salud Familiar Ex Asentamiento El Melón;107713;15;17;88.24
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Nogales;Centro de Salud Familiar EU Rosa Sanchez G. El Melón;107324;45;50;90.0
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Nogales;Centro de Salud Familiar Nogales;107323;47;51;92.16
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Olmué;Centro de Salud Familiar Manuel Lucero;107317;31;65;47.69
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Olmué;Posta de Salud Rural La Vega (Olmué);107426;1;0;
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Olmué;Posta de Salud Rural Las Palmas;107427;6;6;100.0
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Olmué;Posta de Salud Rural Quebrada Alvarado;107401;7;7;100.0
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Papudo;Centro de Salud Familiar Papudo;107354;30;35;85.71
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Papudo;Posta de Salud Rural Pullally;107412;16;27;59.26
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Petorca;Centro Comunitario de Salud Familiar Pedegua;107729;8;9;88.89
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Petorca;Centro de Salud Familiar Chincolco;107329;9;14;64.29
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Petorca;Hospital de Petorca;107107;10;13;76.92
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Petorca;Posta Rural La Ñipa;201528;4;7;57.14
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Petorca;Posta de Salud Rural Hierro Viejo;107419;1;3;33.33
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Puchuncaví;Centro de Salud Familiar Puchuncaví;107316;36;61;59.02
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Puchuncaví;Centro de Salud Familiar Ventanas;107315;29;39;74.36
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Puchuncaví;Posta de Salud Rural Horcón;107425;7;15;46.67
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Puchuncaví;Posta de Salud Rural Maitencillo (Puchuncaví);107422;3;0;
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Quillota;"Centro Comunitario de Salud Familiar Cardenal Raúl Silva Henríquez ""Cerro Macaya""";107712;45;50;90.0
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Quillota;Centro Comunitario de Salud Familiar Ruta Norte;200293;36;44;81.82
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Quillota;Centro Comunitario de Salud Familiar Santa Teresita;107758;29;41;70.73
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Quillota;Centro de Salud Familiar Boco;107318;21;23;91.3
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Quillota;Centro de Salud Familiar Cardenal Raúl Silva Henríquez;107312;315;380;82.89
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Quillota;Centro de Salud Familiar La Palma;107320;33;47;70.21
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Quillota;Centro de Salud Familiar San Pedro;107319;36;48;75.0
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Quillota;Posta de Salud Rural Manzanar;107430;0;1;0.0
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Quilpué;Centro Comunitario de Salud Familiar El Retiro;107756;19;24;79.17
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Quilpué;Centro de Salud Familiar Alcalde Iván Manríquez;107353;84;139;60.43
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Quilpué;Centro de Salud Familiar Aviador Acevedo;107356;101;121;83.47
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Quilpué;Centro de Salud Familiar El Belloto;107308;121;163;74.23
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Quilpué;Centro de Salud Familiar Pompeya;107357;100;124;80.65
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Quilpué;Centro de Salud Familiar Quilpué;107307;144;171;84.21
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Quintero;CESFAM QUINTERO;201509;129;130;99.23
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Quintero;Posta de Salud Rural Loncura;107434;36;38;94.74
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Villa Alemana;Centro Comunitario de Salud Familiar Cien Águilas;201277;74;83;89.16
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Villa Alemana;Centro de Salud Familiar Eduardo Frei Montalva;107328;114;180;63.33
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Villa Alemana;Centro de Salud Familiar Juan Bautista Bravo Vega;107351;108;168;64.29
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Villa Alemana;Centro de Salud Familiar Las Américas;201074;51;57;89.47
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Villa Alemana;Centro de Salud Familiar Villa Alemana;107309;92;135;68.15
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Viña del Mar;"Centro Comunitario de Salud Familiar Achupallas ""Sergio Donoso""";107702;54;57;94.74
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Viña del Mar;Centro Comunitario de Salud Familiar Las Palmas;107727;39;42;92.86
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Viña del Mar;Centro Comunitario de Salud Familiar Santa Julia;107703;54;55;98.18
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Viña del Mar;Centro Comunitario de Salud Familiar Villa Hermosa;107725;17;34;50.0
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Viña del Mar;Centro de Salud Familiar Brígida Zavala;107326;75;87;86.21
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Viña del Mar;Centro de Salud Familiar Dr. Juan Carlos Baeza;107325;75;96;78.12
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Viña del Mar;Centro de Salud Familiar Gómez Carreño;107303;125;164;76.22
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Viña del Mar;Centro de Salud Familiar Las Torres;107327;77;85;90.59
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Viña del Mar;Centro de Salud Familiar Lusitania;107314;64;81;79.01
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Viña del Mar;Centro de Salud Familiar Marco Maldonado;107304;181;210;86.19
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Viña del Mar;Centro de Salud Familiar Miraflores;107302;152;189;80.42
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Viña del Mar;Centro de Salud Familiar Nueva Aurora;107300;151;180;83.89
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Viña del Mar;Centro de Salud Familiar Profesor Eugenio Cienfuegos;107301;82;100;82.0
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Viña del Mar;Centro de Salud Familiar Reñaca Alto Dr. Jorge Kaplan;107352;196;239;82.01
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Zapallar;Centro de Salud Familiar Catapilco;107414;29;40;72.5
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Zapallar;Centro de Salud Familiar Dr. Johow Zapallar;107355;25;30;83.33
+Ñuble;Servicio de Salud Ñuble;Bulnes;Centro Comunitario de Salud Familiar Tres Esquinas;117426;10;16;62.5
+Ñuble;Servicio de Salud Ñuble;Bulnes;Centro de Salud Familiar Santa Clara;117326;23;36;63.89
+Ñuble;Servicio de Salud Ñuble;Bulnes;Hospital Comunitario de Salud Familiar de Bulnes;117103;85;99;85.86
+Ñuble;Servicio de Salud Ñuble;Chillán;Centro Comunitario de Salud Familiar Doña Isabel;200261;15;15;100.0
+Ñuble;Servicio de Salud Ñuble;Chillán;Centro Comunitario de Salud Familiar El Roble;117702;13;15;86.67
+Ñuble;Servicio de Salud Ñuble;Chillán;Centro Comunitario de Salud Familiar Los Alpes;117799;24;26;92.31
+Ñuble;Servicio de Salud Ñuble;Chillán;Centro Comunitario de Salud Familiar Padre Hurtado;117701;21;21;100.0
+Ñuble;Servicio de Salud Ñuble;Chillán;Centro de Salud Familiar Isabel Riquelme;117304;64;86;74.42
+Ñuble;Servicio de Salud Ñuble;Chillán;Centro de Salud Familiar Los Volcanes;117324;129;144;89.58
+Ñuble;Servicio de Salud Ñuble;Chillán;Centro de Salud Familiar Quinchamalí;117322;16;22;72.73
+Ñuble;Servicio de Salud Ñuble;Chillán;Centro de Salud Familiar San Ramón Nonato;117302;169;199;84.92
+Ñuble;Servicio de Salud Ñuble;Chillán;Centro de Salud Familiar Sol de Oriente;117330;116;149;77.85
+Ñuble;Servicio de Salud Ñuble;Chillán;Centro de Salud Familiar Ultraestación Dr. Raúl San Martín González;117303;126;164;76.83
+Ñuble;Servicio de Salud Ñuble;Chillán;Centro de Salud Familiar Violeta Parra;117301;221;282;78.37
+Ñuble;Servicio de Salud Ñuble;Chillán;Posta de Salud Rural Capilla Cato;117405;7;8;87.5
+Ñuble;Servicio de Salud Ñuble;Chillán Viejo;Centro de Salud Familiar Dr. Federico Puga;117328;88;119;73.95
+Ñuble;Servicio de Salud Ñuble;Chillán Viejo;Centro de Salud Familiar Dra. Michelle Bachelet Jeria;117331;69;110;62.73
+Ñuble;Servicio de Salud Ñuble;Chillán Viejo;Posta de Salud Rural Nebuco;117414;3;5;60.0
+Ñuble;Servicio de Salud Ñuble;Chillán Viejo;Posta de Salud Rural Rucapequén;117413;5;7;71.43
+Ñuble;Servicio de Salud Ñuble;Cobquecura;Centro de Salud Familiar Cobquecura;117307;22;27;81.48
+Ñuble;Servicio de Salud Ñuble;Coelemu;Hospital Comunitario de Salud Familiar Dr. Eduardo Contreras Trabucco de Coelemu;117108;51;71;71.83
+Ñuble;Servicio de Salud Ñuble;Coelemu;Posta de Salud Rural Ranguelmo;117439;2;2;100.0
+Ñuble;Servicio de Salud Ñuble;Coelemu;Posta de Salud Rural Vegas de Itata;117445;2;2;100.0
+Ñuble;Servicio de Salud Ñuble;Coihueco;Centro de Salud Familiar Luis Montecinos;117325;26;26;100.0
+Ñuble;Servicio de Salud Ñuble;Coihueco;Centro de Salud Familiar Michelle Chandía Alarcón;117318;119;132;90.15
+Ñuble;Servicio de Salud Ñuble;Coihueco;Posta de Salud Rural Bustamante;117403;5;4;125.0
+Ñuble;Servicio de Salud Ñuble;Coihueco;Posta de Salud Rural Minas del Prado;117406;6;6;100.0
+Ñuble;Servicio de Salud Ñuble;Coihueco;Posta de Salud Rural Talquipén;117401;7;8;87.5
+Ñuble;Servicio de Salud Ñuble;Coihueco;Posta de Salud Rural Tanilvoro;117407;10;11;90.91
+Ñuble;Servicio de Salud Ñuble;El Carmen;Hospital Comunitario de Salud Familiar de El Carmen;117107;58;76;76.32
+Ñuble;Servicio de Salud Ñuble;El Carmen;Posta de Salud Rural Agua Santa;117474;1;1;100.0
+Ñuble;Servicio de Salud Ñuble;El Carmen;Posta de Salud Rural Capilla Norte;117457;1;2;50.0
+Ñuble;Servicio de Salud Ñuble;El Carmen;Posta de Salud Rural Castañal;117475;1;1;100.0
+Ñuble;Servicio de Salud Ñuble;El Carmen;Posta de Salud Rural Huemul;117438;1;1;100.0
+Ñuble;Servicio de Salud Ñuble;El Carmen;Posta de Salud Rural Pedregal de Zapallar;117436;2;2;100.0
+Ñuble;Servicio de Salud Ñuble;El Carmen;Posta de Salud Rural San Vicente (El Carmen);117437;1;1;100.0
+Ñuble;Servicio de Salud Ñuble;Ninhue;Centro de Salud Familiar Dr. David Benavente de Ninhue;117314;26;29;89.66
+Ñuble;Servicio de Salud Ñuble;Pemuco;Centro de Salud Familiar Pemuco;117310;36;38;94.74
+Ñuble;Servicio de Salud Ñuble;Pinto;Centro de Salud Familiar Pinto;117317;69;75;92.0
+Ñuble;Servicio de Salud Ñuble;Pinto;Posta de Salud Rural Recinto;117409;12;16;75.0
+Ñuble;Servicio de Salud Ñuble;Portezuelo;Centro de Salud Familiar Portezuelo;117305;19;21;90.48
+Ñuble;Servicio de Salud Ñuble;Quillón;Centro Comunitario de Salud Familiar El Casino;117706;4;6;66.67
+Ñuble;Servicio de Salud Ñuble;Quillón;Centro de Salud Familiar Dr. Alberto Gyhra Soto (Quillón);117306;95;102;93.14
+Ñuble;Servicio de Salud Ñuble;Quirihue;Hospital Comunitario de Salud Familiar de Quirihue;117106;48;64;75.0
+Ñuble;Servicio de Salud Ñuble;Ránquil;Centro de Salud Familiar Ñipas;117316;38;39;97.44
+Ñuble;Servicio de Salud Ñuble;San Carlos;Centro Comunitario de Salud Familiar Cachapoal;117415;13;13;100.0
+Ñuble;Servicio de Salud Ñuble;San Carlos;Centro Comunitario de Salud Familiar Valle Hondo;117729;15;19;78.95
+Ñuble;Servicio de Salud Ñuble;San Carlos;Centro de Salud Familiar Dr. José Duran Trujillo;117311;106;119;89.08
+Ñuble;Servicio de Salud Ñuble;San Carlos;Centro de Salud Familiar Teresa Baldechi;117329;165;194;85.05
+Ñuble;Servicio de Salud Ñuble;San Carlos;Posta de Salud Rural Rivera de Ñuble;117416;5;5;100.0
+Ñuble;Servicio de Salud Ñuble;San Fabián;Centro de Salud Familiar San Fabián;117309;39;42;92.86
+Ñuble;Servicio de Salud Ñuble;San Fabián;Posta de Salud Rural Trabuncura;117470;1;1;100.0
+Ñuble;Servicio de Salud Ñuble;San Ignacio;CESFAM DR. ALFONSO PARRA CARRIEL;117308;35;40;87.5
+Ñuble;Servicio de Salud Ñuble;San Ignacio;Centro de Salud Familiar Pueblo Seco;117455;45;53;84.91
+Ñuble;Servicio de Salud Ñuble;San Ignacio;Centro de Salud Familiar Quiriquina;117319;29;35;82.86
+Ñuble;Servicio de Salud Ñuble;San Nicolás;Centro de Salud Familiar San Nicolás;117312;64;71;90.14
+Ñuble;Servicio de Salud Ñuble;San Nicolás;Posta de Salud Rural Puente Ñuble;117471;30;36;83.33
+Ñuble;Servicio de Salud Ñuble;Treguaco;Centro de Salud Familiar Treguaco;117327;15;22;68.18
+Ñuble;Servicio de Salud Ñuble;Yungay;Centro de Salud Familiar Campanario;117315;17;20;85.0
+Ñuble;Servicio de Salud Ñuble;Yungay;Hospital Comunitario de Salud Familiar Pedro Morales Campos (Yungay);117104;64;80;80.0
+Ñuble;Servicio de Salud Ñuble;Ñiquén;Centro Comunitario de Salud Familiar Chacay;117418;14;21;66.67
+Ñuble;Servicio de Salud Ñuble;Ñiquén;Centro de Salud Familiar Ñiquén;117313;45;48;93.75
+Ñuble;Servicio de Salud Ñuble;Ñiquén;Posta de Salud Rural La Gloria;117422;6;6;100.0
+Ñuble;Servicio de Salud Ñuble;Ñiquén;Posta de Salud Rural Zemita;117464;2;2;100.0
+Ñuble;Servicio de Salud Ñuble;Ñiquén;Posta de Salud Rural Ñiquén;117419;0;1;0.0

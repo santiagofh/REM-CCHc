@@ -11,12 +11,6 @@ BASE_DIR = Path(__file__).resolve().parent
 DATA_DIR = BASE_DIR / "data"
 OUTPUT_DIR = BASE_DIR / "output"
 DEFAULT_JSON_PATH = DATA_DIR / "diccionario_rem_chcc_2025.json"
-DEFAULT_CSV_PATH = Path(
-    r"D:\DATA\REM\REM_2025\Datos\SerieA2025.csv"
-)
-DEFAULT_FILTERED_CSV_PATH = OUTPUT_DIR / "indicador_a4_filtrado.csv"
-DEFAULT_RESULT_JSON_PATH = OUTPUT_DIR / "indicador_a4_resultado.json"
-DEFAULT_RESULT_TXT_PATH = OUTPUT_DIR / "indicador_a4_resultado.txt"
 
 
 def parse_args() -> argparse.Namespace:
@@ -27,10 +21,10 @@ def parse_args() -> argparse.Namespace:
         )
     )
     parser.add_argument("--json-path", type=Path, default=DEFAULT_JSON_PATH)
-    parser.add_argument("--csv-path", type=Path, default=DEFAULT_CSV_PATH)
-    parser.add_argument("--filtered-csv-path", type=Path, default=DEFAULT_FILTERED_CSV_PATH)
-    parser.add_argument("--result-json-path", type=Path, default=DEFAULT_RESULT_JSON_PATH)
-    parser.add_argument("--result-txt-path", type=Path, default=DEFAULT_RESULT_TXT_PATH)
+    parser.add_argument("--csv-path", type=Path, default=None)
+    parser.add_argument("--filtered-csv-path", type=Path, default=None)
+    parser.add_argument("--result-json-path", type=Path, default=None)
+    parser.add_argument("--result-txt-path", type=Path, default=None)
     parser.add_argument("--ano", default="2025")
     parser.add_argument("--mes")
     parser.add_argument("--id-servicio")
@@ -236,6 +230,15 @@ def main() -> None:
     args = parse_args()
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+
+    if args.csv_path is None:
+        args.csv_path = Path(rf"D:\DATA\REM\REM_{args.ano}\Datos\SerieA{args.ano}.csv")
+    if args.filtered_csv_path is None:
+        args.filtered_csv_path = OUTPUT_DIR / f"indicador_a4_filtrado_{args.ano}.csv"
+    if args.result_json_path is None:
+        args.result_json_path = OUTPUT_DIR / f"indicador_a4_resultado_{args.ano}.json"
+    if args.result_txt_path is None:
+        args.result_txt_path = OUTPUT_DIR / f"indicador_a4_resultado_{args.ano}.txt"
 
     dictionary = load_dictionary(args.json_path)
     config = build_indicator_config(dictionary)

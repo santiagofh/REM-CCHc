@@ -14,13 +14,9 @@ BASE_DIR = Path(__file__).resolve().parent
 DATA_DIR = BASE_DIR / "data"
 OUTPUT_DIR = BASE_DIR / "output"
 DEFAULT_JSON_PATH = DATA_DIR / "diccionario_rem_chcc_2025.json"
-DEFAULT_CSV_PATH = Path(
-    r"D:\DATA\REM\REM_2025\Datos\SerieA2025.csv"
-)
 EXTERNAL_ESTABLISHMENTS_DIR = Path(
     r"C:\Users\fariass\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\Escritorio\DATA\ESTABLECIMIENTOS"
 )
-DEFAULT_WORKBOOK_PATH = OUTPUT_DIR / "reporte_indicadores_chcc_2025.xlsx"
 
 
 def parse_args() -> argparse.Namespace:
@@ -28,8 +24,8 @@ def parse_args() -> argparse.Namespace:
         description="Genera un Excel consolidado por establecimiento para los indicadores A2, A4 y H2."
     )
     parser.add_argument("--json-path", type=Path, default=DEFAULT_JSON_PATH)
-    parser.add_argument("--csv-path", type=Path, default=DEFAULT_CSV_PATH)
-    parser.add_argument("--workbook-path", type=Path, default=DEFAULT_WORKBOOK_PATH)
+    parser.add_argument("--csv-path", type=Path, default=None)
+    parser.add_argument("--workbook-path", type=Path, default=None)
     parser.add_argument("--ano", default="2025")
     parser.add_argument("--mes")
     parser.add_argument("--id-servicio")
@@ -486,6 +482,11 @@ def main() -> None:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
+    if args.csv_path is None:
+        args.csv_path = Path(rf"D:\DATA\REM\REM_{args.ano}\Datos\SerieA{args.ano}.csv")
+    if args.workbook_path is None:
+        args.workbook_path = OUTPUT_DIR / f"reporte_indicadores_chcc_{args.ano}.xlsx"
+
     dictionary = load_dictionary(args.json_path)
     indicator_defs = build_indicator_definitions(dictionary)
     establishments_path = resolve_establishments_path()
@@ -497,7 +498,7 @@ def main() -> None:
     for indicator in indicator_defs:
         rows = build_rows_for_indicator(indicator, raw_results[indicator], establishments_map)
         all_rows[indicator] = rows
-        write_indicator_csv(OUTPUT_DIR / f"resumen_{indicator.lower()}_por_establecimiento.csv", rows)
+        write_indicator_csv(OUTPUT_DIR / f"resumen_{indicator.lower()}_por_establecimiento_{args.ano}.csv", rows)
 
     create_workbook(args.workbook_path, all_rows, indicator_defs)
 

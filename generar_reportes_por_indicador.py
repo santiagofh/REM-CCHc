@@ -17,7 +17,7 @@ def parse_args() -> argparse.Namespace:
         description="Genera 3 archivos Excel, uno por indicador, con pestañas SS, Comuna y Establecimiento."
     )
     parser.add_argument("--json-path", type=Path, default=base.DEFAULT_JSON_PATH)
-    parser.add_argument("--csv-path", type=Path, default=base.DEFAULT_CSV_PATH)
+    parser.add_argument("--csv-path", type=Path, default=None)
     parser.add_argument("--output-suffix", default="")
     parser.add_argument("--ano", default="2025")
     parser.add_argument("--mes")
@@ -144,6 +144,9 @@ def main() -> None:
     args = parse_args()
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
+    if args.csv_path is None:
+        args.csv_path = Path(rf"D:\DATA\REM\REM_{args.ano}\Datos\SerieA{args.ano}.csv")
+
     dictionary = base.load_dictionary(args.json_path)
     indicator_defs = base.build_indicator_definitions(dictionary)
     establishments_path = base.resolve_establishments_path()
@@ -153,7 +156,7 @@ def main() -> None:
     for indicator in ["A2", "A4", "H2"]:
         rows = base.build_rows_for_indicator(indicator, raw_results[indicator], establishments_map)
         suffix = f"_{args.output_suffix}" if args.output_suffix else ""
-        output_path = OUTPUT_DIR / f"reporte_{indicator.lower()}{suffix}_2025.xlsx"
+        output_path = OUTPUT_DIR / f"reporte_{indicator.lower()}{suffix}_{args.ano}.xlsx"
         create_indicator_workbook(output_path, indicator, rows, indicator_defs[indicator])
         print(f"{indicator}: {output_path}")
 

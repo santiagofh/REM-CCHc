@@ -12,7 +12,6 @@ import compartido
 
 BASE_DIR = Path(__file__).resolve().parent
 OUTPUT_DIR = BASE_DIR / "output"
-CSV_PATH = OUTPUT_DIR / "resumen_a4_por_establecimiento.csv"
 
 META_TAG = "A4"
 META_NACIONAL = 0.7
@@ -24,8 +23,9 @@ def fmt_pct(val):
 
 
 @st.cache_data
-def load_data() -> pd.DataFrame:
-    df = pd.read_csv(CSV_PATH, delimiter=";", encoding="utf-8")
+def load_data(year: str) -> pd.DataFrame:
+    path = OUTPUT_DIR / f"resumen_a4_por_establecimiento_{year}.csv"
+    df = pd.read_csv(path, delimiter=";", encoding="utf-8")
     df = df[df["Region"] == "Metropolitana de Santiago"].copy()
     df["Numerador"] = pd.to_numeric(df["Numerador"], errors="coerce").fillna(0).astype(int)
     df["Denominador"] = pd.to_numeric(df["Denominador"], errors="coerce").fillna(0).astype(int)
@@ -45,11 +45,12 @@ def apply_filters(df, exclude_col=None):
 
 
 def main():
-    compartido.render_month_selector()
+    compartido.render_sidebar()
 
     st.title(META_TITULO)
 
-    df = load_data()
+    year = st.session_state.ano
+    df = load_data(year)
     df = compartido.filtrar_por_rango_meses(df)
 
     global FILTERS

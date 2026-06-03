@@ -7,12 +7,24 @@ MESES = [
     "Julio", "Agosto", "Septiembre", "Octubre", "Noviembre", "Diciembre",
 ]
 
+ANOS_DISPONIBLES = ["2025", "2026"]
 
-def render_month_selector():
+
+def render_sidebar():
+    if "ano" not in st.session_state:
+        st.session_state.ano = "2025"
     if "mes_inicio" not in st.session_state:
         st.session_state.mes_inicio = 1
     if "mes_fin" not in st.session_state:
         st.session_state.mes_fin = 12
+
+    st.sidebar.header("Año")
+    st.session_state.ano = st.sidebar.selectbox(
+        "Seleccionar año",
+        ANOS_DISPONIBLES,
+        index=ANOS_DISPONIBLES.index(st.session_state.ano),
+        key="ano_selector",
+    )
 
     st.sidebar.header("Rango de meses")
     mes_inicio_nombre = st.sidebar.selectbox(

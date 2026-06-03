@@ -5,6 +5,8 @@ from pathlib import Path
 import pandas as pd
 import streamlit as st
 
+import compartido
+
 BASE_DIR = Path(__file__).resolve().parent
 DATA_DIR = BASE_DIR / "data"
 OUTPUT_DIR = BASE_DIR / "output"
@@ -12,6 +14,9 @@ FECHA_CORTE_PATH = OUTPUT_DIR / "Fecha_corte_REM.csv"
 
 
 def main():
+    compartido.render_sidebar()
+    year = st.session_state.get("ano", "2025")
+
     st.title("Metodología")
 
     fecha_corte = None
@@ -23,7 +28,7 @@ def main():
 
     st.subheader("Fuente de datos")
     lines = [
-        "Los indicadores se calculan a partir del registro **REM Serie A 2025** "
+        f"Los indicadores se calculan a partir del registro **REM Serie A {year}** "
         "(Registro Estadístico Mensual) de la Red de Atención Primaria de Salud (APS)."
     ]
     if fecha_corte:

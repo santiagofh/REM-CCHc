@@ -18,6 +18,11 @@ INDICATOR_META = {
 
 RM_REGION = "Metropolitana de Santiago"
 
+
+def fmt_pct(val):
+    return f"{val:.2f}".replace(".", ",") + "%"
+
+
 def load_data(indicator: str) -> pd.DataFrame:
     path = OUTPUT_DIR / f"resumen_{indicator.lower()}_por_establecimiento.csv"
     df = pd.read_csv(path, delimiter=";", encoding="utf-8")
@@ -59,7 +64,7 @@ def home():
                 "Título": cfg["titulo"],
                 "Numerador": num,
                 "Denominador": den,
-                "Porcentaje": pct,
+                "Porcentaje": fmt_pct(pct) if pct is not None else "—",
                 "Meta": meta_str,
                 "Establecimientos": len(df),
             }

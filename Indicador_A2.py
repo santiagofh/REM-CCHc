@@ -4,8 +4,8 @@ import io
 from pathlib import Path
 
 import pandas as pd
-import plotly.graph_objects as go
 import plotly.express as px
+import plotly.graph_objects as go
 import streamlit as st
 
 BASE_DIR = Path(__file__).resolve().parent
@@ -17,131 +17,165 @@ META_NACIONAL = 0.8
 META_TITULO = "A2 — Porcentaje de gestantes que ingresan a educación grupal presencial o remota en APS"
 
 
+def fmt_pct(val):
+    return f"{val:.2f}".replace(".", ",") + "%"
+
+
 @st.cache_data
 def load_data() -> pd.DataFrame:
     df = pd.read_csv(CSV_PATH, delimiter=";", encoding="utf-8")
     df = df[df["Region"] == "Metropolitana de Santiago"].copy()
+    df["PorcentajeCumplimiento"] = pd.to_numeric(df["PorcentajeCumplimiento"], errors="coerce")
+    df["codigo_nombre"] = df["CodigoEstablecimiento"].astype(str) + " - " + df["Establecimiento"]
     return df
+
+
+def apply_filters(df, exclude_col=None):
+    df_f = df
+    for col in FILTERS:
+        if col == exclude_col:
+            continue
+        selected = st.session_state.get(col, [])
+        if selected:
+            df_f = df_f[df_f[col].isin(selected)]
+    return df_f
 
 
 def main():
     st.title(META_TITULO)
 
     df = load_data()
-    df["PorcentajeCumplimiento"] = pd.to_numeric(df["PorcentajeCumplimiento"], errors="coerce")
 
-    with st.sidebar:
-        st.header("Filtros")
-        servicios = sorted(df["Servicio de salud"].dropna().unique())
-        servicio_sel = st.multiselect("Servicio de Salud", servicios)
-        comunas = sorted(df["Comuna"].dropna().unique())
-        comuna_sel = st.multiselect("Comuna", comunas)
-        establecimientos = sorted(df["Establecimiento"].dropna().unique())
-        establecimiento_sel = st.multiselect("Establecimiento", establecimientos)
+    global FILTERS
+    FILTERS = {
+        "Servicio de salud": "Servicio de Salud",
+        "Comuna": "Comuna",
+        "codigo_nombre": "Establecimiento",
+    }
 
-    df_filtrado = df.copy()
-    if servicio_sel:
-        df_filtrado = df_filtrado[df_filtrado["Servicio de salud"].isin(servicio_sel)]
-    if comuna_sel:
-        df_filtrado = df_filtrado[df_filtrado["Comuna"].isin(comuna_sel)]
-    if establecimiento_sel:
-        df_filtrado = df_filtrado[df_filtrado["Establecimiento"].isin(establecimiento_sel)]
+    for col in FILTERS:
+        if col not in st.session_state:
+            st.session_state[col] = []
 
-    num_servicios = df_filtrado["Servicio de salud"].nunique()
-    num_comunas = df_filtrado["Comuna"].nunique()
-    num_establecimientos = len(df_filtrado)
+    st.header("Filtros")
+    for col, label in FILTERS.items():
+        df_options = apply_filters(df, exclude_col=col)
+        options = sorted(df_options[col].dropna().unique())
+        st.session_state[col] = [v for v in st.session_state[col] if v in options]
+        st.multiselect(label, options, key=col)
+
+    df_filtered = apply_filters(df)
+
+    num_servicios = df_filtered["Servicio de salud"].nunique()
+    num_comunas = df_filtered["Comuna"].nunique()
+    num_establecimientos = len(df_filtered)
 
     col1, col2, col3 = st.columns(3)
     col1.metric("N° Servicios de Salud", num_servicios)
     col2.metric("N° de comunas", num_comunas)
     col3.metric("N° de establecimientos", num_establecimientos)
 
-    st.subheader("Detalle por establecimiento")
-    cols_mostrar = ["Servicio de salud", "Comuna", "Establecimiento", "Numerador", "Denominador", "PorcentajeCumplimiento"]
-    col_rename = {
+    col_ms = ["codigo_nombre", "Servicio de salud", "Comuna", "Numerador", "Denominador", "PorcentajeCumplimiento"]
+    rename_ms = {
+        "codigo_nombre": "Nombre del establecimiento",
         "Servicio de salud": "Servicio de Salud",
         "Comuna": "Comuna",
-        "Establecimiento": "Establecimiento",
         "Numerador": "Numerador",
         "Denominador": "Denominador",
         "PorcentajeCumplimiento": "% Cumplimiento",
     }
-    df_display = df_filtrado[cols_mostrar].rename(columns=col_rename)
-    st.dataframe(df_display, hide_index=True, use_container_width=True)
+    df_display = df_filtered[col_ms].rename(columns=rename_ms).copy()
+    df_display["% Cumplimiento"] = df_display["% Cumplimiento"].apply(fmt_pct)
+    st.write("## Tabla de establecimientos")
+    st.write(df_display)
 
+    df_export = df_filtered[col_ms].rename(columns=rename_ms)
     output = io.BytesIO()
     with pd.ExcelWriter(output, engine="xlsxwriter") as writer:
-        df_display.to_excel(writer, index=False, sheet_name=META_TAG)
+        df_export.to_excel(writer, index=False, sheet_name=META_TAG)
     st.download_button(
-        label="Descargar Excel",
+        label="📥 Descargar tabla de establecimientos (Excel)",
         data=output.getvalue(),
         file_name=f"{META_TAG}_establecimientos.xlsx",
         mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
     )
 
-    st.subheader("Cumplimiento nacional")
-    numerador_total = int(df_filtrado["Numerador"].sum())
-    denominador_total = int(df_filtrado["Denominador"].sum())
-    porcentaje_total = round((numerador_total / denominador_total) * 100, 2) if denominador_total else 0.0
+    total_numerador = int(df_filtered["Numerador"].sum())
+    total_denominador = int(df_filtered["Denominador"].sum())
+    total_porcentaje = (total_numerador / total_denominador) if total_denominador > 0 else 0
 
+    st.write("## Cumplimiento de la Meta Sanitaria")
     mc1, mc2, mc3, mc4 = st.columns(4)
-    mc1.metric("Numerador", numerador_total)
-    mc2.metric("Denominador", denominador_total)
-    mc3.metric("Porcentaje de cumplimiento", f"{porcentaje_total:.2f}%")
-    mc4.metric("Meta nacional", f"{int(META_NACIONAL * 100)}%")
+    mc1.metric("Numerador", total_numerador)
+    mc2.metric("Denominador", total_denominador)
+    mc3.metric("Porcentaje de cumplimiento", fmt_pct(total_porcentaje * 100))
+    mc4.metric("Meta Nacional", fmt_pct(META_NACIONAL * 100))
 
-    fig_gauge = go.Figure(
-        go.Indicator(
-            mode="gauge+number",
-            value=porcentaje_total,
-            domain={"x": [0, 1], "y": [0, 1]},
-            number={"suffix": "%"},
-            gauge={
-                "axis": {"range": [0, 100]},
-                "bar": {"color": "#0068c9"},
-                "steps": [
-                    {"range": [0, META_NACIONAL * 100], "color": "#e5e5e5"},
-                    {"range": [META_NACIONAL * 100, 100], "color": "#f5f5f5"},
-                ],
-                "threshold": {
-                    "line": {"color": "red", "width": 3},
-                    "thickness": 0.8,
-                    "value": porcentaje_total,
-                },
+    gauge_limit = int(META_NACIONAL * 100)
+    fig = go.Figure(go.Indicator(
+        mode="gauge+number",
+        value=total_porcentaje * 100,
+        number={"suffix": "%"},
+        title={"text": "INDICADOR"},
+        gauge={
+            "axis": {"range": [0, 100]},
+            "bar": {"color": "blue"},
+            "bgcolor": "white",
+            "borderwidth": 2,
+            "bordercolor": "gray",
+            "steps": [
+                {"range": [0, gauge_limit], "color": "gray"},
+                {"range": [gauge_limit, 100], "color": "lightgray"},
+            ],
+            "threshold": {
+                "line": {"color": "black", "width": 4},
+                "thickness": 0.75,
+                "value": total_porcentaje * 100,
             },
-        )
-    )
-    fig_gauge.add_annotation(
-        x=0.5, y=0.3,
-        text=f"Meta: {int(META_NACIONAL * 100)}%",
-        showarrow=False,
-        font={"size": 16, "color": "red"},
-    )
-    st.plotly_chart(fig_gauge, use_container_width=True)
+        },
+    ))
+    st.plotly_chart(fig)
 
-    st.subheader("Cumplimiento por Servicio de Salud")
-    df_ss = (
-        df_filtrado.groupby("Servicio de salud", as_index=False)
-        .agg({"Numerador": "sum", "Denominador": "sum"})
-    )
-    df_ss["Porcentaje"] = round((df_ss["Numerador"] / df_ss["Denominador"]) * 100, 2)
-    df_ss = df_ss.sort_values("Porcentaje", ascending=False).reset_index(drop=True)
-    st.dataframe(df_ss, hide_index=True, use_container_width=True)
+    df_cumplimiento = df_filtered.groupby("Comuna").agg(
+        total_numerador=("Numerador", "sum"),
+        total_denominador=("Denominador", "sum"),
+    ).reset_index()
+    df_cumplimiento["porcentaje_cumplimiento"] = (df_cumplimiento["total_numerador"] / df_cumplimiento["total_denominador"]) * 100
+    df_cumplimiento = df_cumplimiento.sort_values("porcentaje_cumplimiento", ascending=False)
+
+    df_cumplimiento_display = df_cumplimiento.copy()
+    df_cumplimiento_display["porcentaje_cumplimiento"] = df_cumplimiento_display["porcentaje_cumplimiento"].apply(fmt_pct)
+    rename_cumplimiento = {
+        "Comuna": "Comuna",
+        "total_numerador": "Numerador",
+        "total_denominador": "Denominador",
+        "porcentaje_cumplimiento": "Porcentaje de cumplimiento",
+    }
+    st.write("## Tabla de cumplimiento por comuna")
+    st.write(df_cumplimiento_display.rename(columns=rename_cumplimiento))
 
     fig_bar = px.bar(
-        df_ss,
-        x="Servicio de salud",
-        y="Porcentaje",
-        text_auto=".1f",
+        df_cumplimiento,
+        x="Comuna",
+        y="porcentaje_cumplimiento",
+        title="Porcentaje de Cumplimiento por Comuna",
+        labels={"Comuna": "Comuna", "porcentaje_cumplimiento": "Porcentaje de Cumplimiento"},
+        text=df_cumplimiento["porcentaje_cumplimiento"].apply(lambda v: f"{v:.1f}%".replace(".", ",")),
     )
-    fig_bar.add_hline(
-        y=META_NACIONAL * 100,
-        line_dash="dash",
-        line_color="red",
-        annotation_text=f"Meta {int(META_NACIONAL * 100)}%",
+    fig_bar.add_shape(
+        type="line",
+        x0=-0.5,
+        y0=gauge_limit,
+        x1=len(df_cumplimiento) - 0.5,
+        y1=gauge_limit,
+        line=dict(color="red", width=2, dash="dash"),
     )
-    fig_bar.update_layout(yaxis_range=[0, 100], xaxis_tickangle=-45)
-    st.plotly_chart(fig_bar, use_container_width=True)
+    fig_bar.update_layout(
+        xaxis_title="Comuna",
+        yaxis_title="Porcentaje de Cumplimiento",
+        yaxis=dict(range=[0, 100]),
+    )
+    st.plotly_chart(fig_bar)
 
 
 if __name__ == "__main__":

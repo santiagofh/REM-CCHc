@@ -8,6 +8,8 @@ import plotly.express as px
 import plotly.graph_objects as go
 import streamlit as st
 
+import compartido
+
 BASE_DIR = Path(__file__).resolve().parent
 OUTPUT_DIR = BASE_DIR / "output"
 CSV_PATH = OUTPUT_DIR / "resumen_a2_por_establecimiento.csv"
@@ -25,8 +27,9 @@ def fmt_pct(val):
 def load_data() -> pd.DataFrame:
     df = pd.read_csv(CSV_PATH, delimiter=";", encoding="utf-8")
     df = df[df["Region"] == "Metropolitana de Santiago"].copy()
-    df["PorcentajeCumplimiento"] = pd.to_numeric(df["PorcentajeCumplimiento"], errors="coerce")
-    df["codigo_nombre"] = df["CodigoEstablecimiento"].astype(str) + " - " + df["Establecimiento"]
+    df["Numerador"] = pd.to_numeric(df["Numerador"], errors="coerce").fillna(0).astype(int)
+    df["Denominador"] = pd.to_numeric(df["Denominador"], errors="coerce").fillna(0).astype(int)
+    df["Mes"] = pd.to_numeric(df["Mes"], errors="coerce").fillna(0).astype(int)
     return df
 
 
@@ -42,9 +45,12 @@ def apply_filters(df, exclude_col=None):
 
 
 def main():
+    compartido.render_month_selector()
+
     st.title(META_TITULO)
 
     df = load_data()
+    df = compartido.filtrar_por_rango_meses(df)
 
     global FILTERS
     FILTERS = {
@@ -113,10 +119,9 @@ def main():
 
     gauge_limit = int(META_NACIONAL * 100)
     fig = go.Figure(go.Indicator(
-        mode="gauge+number",
+        mode="gauge",
         value=total_porcentaje * 100,
-        number={"suffix": "%"},
-        title={"text": "INDICADOR"},
+        title={"text": f"INDICADOR<br>{fmt_pct(total_porcentaje * 100)}"},
         gauge={
             "axis": {"range": [0, 100]},
             "bar": {"color": "blue"},

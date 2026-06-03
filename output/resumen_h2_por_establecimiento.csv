@@ -1,146 +1,1148 @@
-Region;Servicio de salud;Comuna;Establecimiento;CodigoEstablecimiento;Numerador;Denominador;PorcentajeCumplimiento
-Antofagasta;Servicio de Salud Antofagasta;Antofagasta;Hospital Dr. Leonardo Guzmán (Antofagasta);103100;1156;2450;47.18
-Antofagasta;Servicio de Salud Antofagasta;Calama;Hospital Dr. Carlos Cisternas (Calama);103101;1073;1652;64.95
-Antofagasta;Servicio de Salud Antofagasta;Mejillones;Hospital de Mejillones;103104;1;11;9.09
-Antofagasta;Servicio de Salud Antofagasta;San Pedro de Atacama;Centro de Salud Familiar San Pedro Atacama;103311;0;1;0.0
-Antofagasta;Servicio de Salud Antofagasta;Taltal;Hospital 21 de Mayo (Taltal);103103;9;10;90.0
-Antofagasta;Servicio de Salud Antofagasta;Tocopilla;Hospital Dr. Marcos Macuada (Tocopilla);103102;36;40;90.0
-Arica Parinacota;Servicio de Salud Arica y Parinacota;Arica;Hospital Regional Dr. Juan Noé Crevani (Arica);101100;1759;1886;93.27
-Atacama;Servicio de Salud Atacama;Chañaral;Hospital Dr. Jerónimo Méndez Arancibia (Chañaral);104101;2;7;28.57
-Atacama;Servicio de Salud Atacama;Copiapó;Hospital San José del Carmen (Copiapó);104100;1140;1268;89.91
-Atacama;Servicio de Salud Atacama;Diego de Almagro;Hospital Dr. Florencio Vargas (Diego de Almagro);104102;0;2;0.0
-Atacama;Servicio de Salud Atacama;Vallenar;Hospital Provincial del Huasco Monseñor Fernando Ariztía Ruiz (Vallenar);104103;569;606;93.89
-Aysén del General Carlos Ibañez del Campo;Servicio de Salud Aysén;Aisén;Hospital de Puerto Aysén;125101;9;14;64.29
-Aysén del General Carlos Ibañez del Campo;Servicio de Salud Aysén;Chile Chico;Hospital Dr. Leopoldo Ortega Rodríguez (Chile Chico);125102;0;1;0.0
-Aysén del General Carlos Ibañez del Campo;Servicio de Salud Aysén;Coyhaique;Hospital Regional de Coyhaique;125100;538;685;78.54
-Biobío;Servicio de Salud Arauco;Arauco;Hospital San Vicente de Arauco;128113;0;1;0.0
-Biobío;Servicio de Salud Arauco;Cañete;Hospital Intercultural Kallvu Llanka (Cañete);128111;19;28;67.86
-Biobío;Servicio de Salud Arauco;Curanilahue;Hospital Provincial Dr. Rafael Avaría (Curanilahue);128109;688;909;75.69
-Biobío;Servicio de Salud Arauco;Lebu;Hospital de Lebu;128110;5;9;55.56
-Biobío;Servicio de Salud Biobío;Laja;Hospital Comunitario de Laja;120105;4;6;66.67
-Biobío;Servicio de Salud Biobío;Los Ángeles;Complejo Asistencial Dr. Víctor Ríos Ruiz (Los Ángeles);120101;1912;2101;91.0
-Biobío;Servicio de Salud Biobío;Mulchén;Hospital de Mulchén;120102;7;10;70.0
-Biobío;Servicio de Salud Biobío;Nacimiento;Hospital Comunitario y Familiar de Nacimiento;120103;7;8;87.5
-Biobío;Servicio de Salud Biobío;Santa Bárbara;Hospital Comunitario de Santa Bárbara;120106;1;2;50.0
-Biobío;Servicio de Salud Biobío;Tucapel;Hospital Comunitario Dr. Roberto Muñoz Urrutia de Huépil;120107;1;2;50.0
-Biobío;Servicio de Salud Biobío;Yumbel;Hospital Comunitario de Yumbel;120104;6;7;85.71
-Biobío;Servicio de Salud Concepción;Concepción;Hospital Clínico Regional Dr. Guillermo Grant Benavente (Concepción);118100;1640;1880;87.23
-Biobío;Servicio de Salud Concepción;Coronel;Hospital San José (Coronel);118105;411;495;83.03
-Biobío;Servicio de Salud Concepción;Lota;Hospital de Lota;118106;72;76;94.74
-Biobío;Servicio de Salud Concepción;Santa Juana;Hospital Clorinda Avello (Santa Juana);118107;1;2;50.0
-Biobío;Servicio de Salud Talcahuano;Penco;Hospital Penco Lirquén;119102;4;4;100.0
-Biobío;Servicio de Salud Talcahuano;Talcahuano;Hospital Las Higueras (Talcahuano);119100;1334;1426;93.55
-Biobío;Servicio de Salud Talcahuano;Tome;Hospital de Tomé;119101;14;15;93.33
-Coquimbo;Servicio de Salud Coquimbo;Coquimbo;Hospital San Pablo (Coquimbo);105101;1545;1921;80.43
-Coquimbo;Servicio de Salud Coquimbo;Illapel;Hospital Dr. Humberto Elorza Cortés (Illapel);105103;369;429;86.01
-Coquimbo;Servicio de Salud Coquimbo;La Serena;Hospital San Juan de Dios (La Serena);105100;1389;1491;93.16
-Coquimbo;Servicio de Salud Coquimbo;Los Vilos;Hospital San Pedro (Los Vilos);105108;43;45;95.56
-Coquimbo;Servicio de Salud Coquimbo;Ovalle;Hospital Dr. Antonio Tirado Lanas de Ovalle;105102;1080;1267;85.24
-Coquimbo;Servicio de Salud Coquimbo;Salamanca;Hospital de Salamanca;105104;19;19;100.0
-Coquimbo;Servicio de Salud Coquimbo;Vicuña;Hospital San Juan de Dios (Vicuña);105107;18;18;100.0
-La Araucanía;Servicio de Salud Araucanía Norte;Angol;Hospital Dr. Mauricio Heyermann (Angol);129100;760;826;92.01
-La Araucanía;Servicio de Salud Araucanía Norte;Collipulli;Hospital de Collipulli;129103;4;5;80.0
-La Araucanía;Servicio de Salud Araucanía Norte;Curacautín;Hospital Dr. Oscar Hernández E.(Curacautín);129107;0;1;0.0
-La Araucanía;Servicio de Salud Araucanía Norte;Lonquimay;Hospital de Lonquimay;129108;0;2;0.0
-La Araucanía;Servicio de Salud Araucanía Norte;Purén;Hospital de Purén;129101;1;1;100.0
-La Araucanía;Servicio de Salud Araucanía Norte;Traiguén;Hospital Dr. Dino Stagno M.(Traiguén);129104;5;7;71.43
-La Araucanía;Servicio de Salud Araucanía Norte;Victoria;Hospital San José de Victoria;129106;204;653;31.24
-La Araucanía;Servicio de Salud Araucanía Sur;Carahue;Hospital Familiar y Comunitario Carahue;121115;3;3;100.0
-La Araucanía;Servicio de Salud Araucanía Sur;Cunco;Hospital Dr. Eduardo González Galeno (Cunco);121113;4;4;100.0
-La Araucanía;Servicio de Salud Araucanía Sur;Galvarino;Hospital de Galvarino;121111;1;3;33.33
-La Araucanía;Servicio de Salud Araucanía Sur;Lautaro;Hospital Dr. Abraham Godoy Peña (Lautaro);121110;72;103;69.9
-La Araucanía;Servicio de Salud Araucanía Sur;Loncoche;Hospital Familiar y Comunitario de Loncoche;121120;1;7;14.29
-La Araucanía;Servicio de Salud Araucanía Sur;Nueva Imperial;Hospital Intercultural de Nueva Imperial;121114;156;163;95.71
-La Araucanía;Servicio de Salud Araucanía Sur;Pitrufquén;Hospital de Pitrufquén;121117;65;77;84.42
-La Araucanía;Servicio de Salud Araucanía Sur;Pucón;Hospital San Francisco de Pucón (D);121200;37;38;97.37
-La Araucanía;Servicio de Salud Araucanía Sur;Saavedra;Hospital Dr. Arturo Hillerns Larrañaga (Saavedra);121116;4;4;100.0
-La Araucanía;Servicio de Salud Araucanía Sur;Temuco;Hospital Dr. Hernán Henríquez Aravena (Temuco);121109;2781;3624;76.74
-La Araucanía;Servicio de Salud Araucanía Sur;Toltén;Hospital de Toltén;121118;2;2;100.0
-La Araucanía;Servicio de Salud Araucanía Sur;Vilcún;Hospital de Vilcún;121112;1;1;100.0
-La Araucanía;Servicio de Salud Araucanía Sur;Villarrica;Hospital de Villarrica;121121;868;906;95.81
-Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Graneros;Hospital Santa Filomena de Graneros;115101;0;2;0.0
-Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Litueche;Hospital de Litueche;115114;1;1;100.0
-Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Lolol;Hospital de Lolol;115113;1;2;50.0
-Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Nancagua;Hospital de Nancagua;115109;0;3;0.0
-Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Peumo;Hospital Del Salvador de Peumo;115103;9;11;81.82
-Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Pichidegua;Hospital de Pichidegua;115106;1;3;33.33
-Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Pichilemu;Hospital de Pichilemu;115112;0;2;0.0
-Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Rancagua;Hospital Dr. Franco Ravera Zunino;115100;1737;2125;81.74
-Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Rengo;Hospital Dr. Ricardo Valenzuela Sáez (Rengo);115104;792;957;82.76
-Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;San Fernando;Centro Comunitario de Salud Familiar Angostura;200491;1;1;100.0
-Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;San Fernando;Hospital San Juan de Dios de San Fernando;115107;735;790;93.04
-Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;San Vicente;Hospital San Vicente de Tagua -Tagua;115105;37;42;88.1
-Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Santa Cruz;Hospital de Santa Cruz;115110;666;725;91.86
-Los Lagos;Servicio de Salud Chiloé;Ancud;Hospital de Ancud;133155;208;238;87.39
-Los Lagos;Servicio de Salud Chiloé;Castro;Hospital de Castro;133150;698;757;92.21
-Los Lagos;Servicio de Salud Chiloé;Quellón;Hospital de Quellón;133165;182;199;91.46
-Los Lagos;Servicio de Salud Chiloé;Quinchao;Hospital Comunitario de Achao;133160;0;1;0.0
-Los Lagos;Servicio de Salud Del Reloncaví;Calbuco;Hospital de Calbuco;124130;1;6;16.67
-Los Lagos;Servicio de Salud Del Reloncaví;Frutillar;Hospital de Frutillar;124115;1;1;100.0
-Los Lagos;Servicio de Salud Del Reloncaví;Futaleufú;Hospital de Futaleufú;124145;3;3;100.0
-Los Lagos;Servicio de Salud Del Reloncaví;Puerto Montt;Hospital de Puerto Montt;124105;2654;2739;96.9
-Los Lagos;Servicio de Salud Osorno;Osorno;Hospital Base San José de Osorno;123100;1255;1443;86.97
-Los Lagos;Servicio de Salud Osorno;Purranque;Hospital de Purranque Dr. Juan Hepp Dubiau;123101;1;2;50.0
-Los Ríos;Servicio de Salud Los Rios;La Unión;Hospital Juan Morey (La Unión);122104;64;70;91.43
-Los Ríos;Servicio de Salud Los Rios;Lanco;Hospital de Lanco;122103;1;2;50.0
-Los Ríos;Servicio de Salud Los Rios;Los Lagos;Hospital de Los Lagos;122102;11;16;68.75
-Los Ríos;Servicio de Salud Los Rios;Mariquina;Hospital Santa Elisa de San José de la Mariquina;122200;19;20;95.0
-Los Ríos;Servicio de Salud Los Rios;Paillaco;Hospital de Paillaco;122106;32;38;84.21
-Los Ríos;Servicio de Salud Los Rios;Panguipulli;Hospital de Panguipulli;122201;49;62;79.03
-Los Ríos;Servicio de Salud Los Rios;Río Bueno;Hospital de Río Bueno;122105;12;17;70.59
-Los Ríos;Servicio de Salud Los Rios;Valdivia;Hospital Base Valdivia;122100;1119;1700;65.82
-Magallanes y de la Antártica Chilena;Servicio de Salud Magallanes;Natales;Hospital Dr. Augusto Essmann Burgos ( Natales);126101;161;174;92.53
-Magallanes y de la Antártica Chilena;Servicio de Salud Magallanes;Porvenir;Hospital Dr. Marco Antonio Chamorro ( Porvenir);126102;1;2;50.0
-Magallanes y de la Antártica Chilena;Servicio de Salud Magallanes;Punta Arenas;Hospital Clínico de Magallanes Dr. Lautaro Navarro Avaria;126100;685;732;93.58
-Maule;Servicio de Salud Del Maule;Cauquenes;Hospital San Juan de Dios (Cauquenes);116111;160;188;85.11
-Maule;Servicio de Salud Del Maule;Constitución;Hospital de Constitución;116107;47;59;79.66
-Maule;Servicio de Salud Del Maule;Curicó;Hospital San Juan de Dios (Curicó);116100;1946;2062;94.37
-Maule;Servicio de Salud Del Maule;Licantén;Hospital de Licantén;116104;0;3;0.0
-Maule;Servicio de Salud Del Maule;Linares;Hospital Presidente Carlos Ibáñez del Campo (Linares);116108;1153;1437;80.24
-Maule;Servicio de Salud Del Maule;Parral;Hospital San José (Parral);116110;71;108;65.74
-Maule;Servicio de Salud Del Maule;San Javier;Hospital Dr. Abel Fuentealba Lagos de San Javier;116109;78;100;78.0
-Maule;Servicio de Salud Del Maule;Talca;Hospital Dr. César Garavagno Burotto (Talca);116105;3307;3615;91.48
-Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada;111101;2197;2305;95.31
-Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Santiago;Hospital Clínico San Borja Arriarán;111100;2764;3028;91.28
-Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Colina;SAPU Esmeralda;200955;1;1;100.0
-Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Colina;SAR Colina;109810;0;1;0.0
-Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Independencia;Complejo Hospitalario San José (Santiago, Independencia);109100;3774;4480;84.24
-Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Cerro Navia;Hospital  Félix Bulnes Cerda;110120;2296;2621;87.6
-Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Curacaví;Hospital de Curacaví;110160;0;1;0.0
-Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Melipilla;Hospital San José (Melipilla);110150;1281;1484;86.32
-Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Peñaflor;Hospital de Peñaflor;110140;52;62;83.87
-Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Santiago;Hospital San Juan de Dios (Santiago, Santiago);110100;1983;2072;95.7
-Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Talagante;Hospital Adalberto Steeger (Talagante);110130;547;825;66.3
-Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Peñalolén;Hospital Dr. Luis Tisné B. (Santiago, Peñalolén);112101;2559;2814;90.94
-Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Buin;Hospital San Luis (Buin);113150;707;820;86.22
-Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Hospital El Pino (Santiago, San Bernardo);113180;1544;1629;94.78
-Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Hospital Parroquial de San Bernardo (D);113190;1269;1309;96.94
-Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Miguel;Hospital Barros Luco Trudeau (Santiago, San Miguel);113100;2215;2624;84.41
-Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Florida;Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza;114105;1899;2045;92.86
-Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;Puente Alto;Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto);114101;2261;2941;76.88
-Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;San Ramón;Hospital Padre Alberto Hurtado (San Ramón);114103;1635;1854;88.19
-Tarapacá;Servicio de Salud Tarapacá;Alto Hospicio;Centro de Salud Familiar Pedro Pulgar Melgarejo;102305;7;0;
-Tarapacá;Servicio de Salud Tarapacá;Alto Hospicio;Hospital de Alto Hospicio;201319;12;21;57.14
-Tarapacá;Servicio de Salud Tarapacá;Iquique;Hospital Dr. Ernesto Torres Galdames (Iquique);102100;2036;3192;63.78
-Valparaíso;Servicio de Salud Aconcagua;Llaillay;Hospital San Francisco (Llaillay);108102;0;1;0.0
-Valparaíso;Servicio de Salud Aconcagua;Los Andes;Hospital San Juan de Dios (Los Andes);108101;627;637;98.43
-Valparaíso;Servicio de Salud Aconcagua;San Felipe;Hospital San Camilo de San Felipe;108100;1049;1262;83.12
-Valparaíso;Servicio de Salud Metropolitano Oriente;Isla de Pascua;Hospital Hanga Roa (Isla De Pascua);112107;76;86;88.37
-Valparaíso;Servicio de Salud Valparaíso San Antonio;San Antonio;Hospital Claudio Vicuña (San Antonio);106103;538;1038;51.83
-Valparaíso;Servicio de Salud Valparaíso San Antonio;Valparaíso;Hospital Carlos Van Buren (Valparaíso);106100;1246;1377;90.49
-Valparaíso;Servicio de Salud Viña del Mar Quillota;Cabildo;Hospital Dr. Víctor Hugo Moll (Cabildo);107106;0;2;0.0
-Valparaíso;Servicio de Salud Viña del Mar Quillota;Calera;Hospital Dr. Mario Sánchez Vergara (La Calera);107103;1;5;20.0
-Valparaíso;Servicio de Salud Viña del Mar Quillota;La Ligua;Hospital San Agustín (La Ligua);107105;9;10;90.0
-Valparaíso;Servicio de Salud Viña del Mar Quillota;Limache;Hospital Santo Tomás (Limache);107104;0;2;0.0
-Valparaíso;Servicio de Salud Viña del Mar Quillota;Petorca;Hospital de Petorca;107107;0;3;0.0
-Valparaíso;Servicio de Salud Viña del Mar Quillota;Quillota;Hospital Biprovincial Quillota Petorca;107101;1150;1332;86.34
-Valparaíso;Servicio de Salud Viña del Mar Quillota;Quilpué;Hospital de Quilpué;107102;397;967;41.05
-Valparaíso;Servicio de Salud Viña del Mar Quillota;Quintero;Hospital Adriana Cousiño (Quintero);107108;7;10;70.0
-Valparaíso;Servicio de Salud Viña del Mar Quillota;Viña del Mar;Hospital Dr. Gustavo Fricke (Viña del Mar);107100;1832;2056;89.11
-Ñuble;Servicio de Salud Ñuble;Bulnes;Hospital Comunitario de Salud Familiar de Bulnes;117103;5;5;100.0
-Ñuble;Servicio de Salud Ñuble;Chillán;Hospital Clínico Herminda Martín (Chillán);117101;1544;1934;79.83
-Ñuble;Servicio de Salud Ñuble;Coelemu;Hospital Comunitario de Salud Familiar Dr. Eduardo Contreras Trabucco de Coelemu;117108;1;2;50.0
-Ñuble;Servicio de Salud Ñuble;El Carmen;Hospital Comunitario de Salud Familiar de El Carmen;117107;0;1;0.0
-Ñuble;Servicio de Salud Ñuble;Quirihue;Hospital Comunitario de Salud Familiar de Quirihue;117106;3;6;50.0
-Ñuble;Servicio de Salud Ñuble;San Carlos;Hospital de San Carlos;117102;526;538;97.77
-Ñuble;Servicio de Salud Ñuble;Yungay;Hospital Comunitario de Salud Familiar Pedro Morales Campos (Yungay);117104;0;1;0.0
+Region;Servicio de salud;Comuna;Establecimiento;CodigoEstablecimiento;Mes;Numerador;Denominador;PorcentajeCumplimiento
+Antofagasta;Servicio de Salud Antofagasta;Antofagasta;Hospital Dr. Leonardo Guzmán (Antofagasta);103100;1;117;206;56.8
+Antofagasta;Servicio de Salud Antofagasta;Antofagasta;Hospital Dr. Leonardo Guzmán (Antofagasta);103100;2;91;175;52.0
+Antofagasta;Servicio de Salud Antofagasta;Antofagasta;Hospital Dr. Leonardo Guzmán (Antofagasta);103100;3;109;211;51.66
+Antofagasta;Servicio de Salud Antofagasta;Antofagasta;Hospital Dr. Leonardo Guzmán (Antofagasta);103100;4;108;198;54.55
+Antofagasta;Servicio de Salud Antofagasta;Antofagasta;Hospital Dr. Leonardo Guzmán (Antofagasta);103100;5;132;235;56.17
+Antofagasta;Servicio de Salud Antofagasta;Antofagasta;Hospital Dr. Leonardo Guzmán (Antofagasta);103100;6;100;209;47.85
+Antofagasta;Servicio de Salud Antofagasta;Antofagasta;Hospital Dr. Leonardo Guzmán (Antofagasta);103100;7;94;197;47.72
+Antofagasta;Servicio de Salud Antofagasta;Antofagasta;Hospital Dr. Leonardo Guzmán (Antofagasta);103100;8;100;196;51.02
+Antofagasta;Servicio de Salud Antofagasta;Antofagasta;Hospital Dr. Leonardo Guzmán (Antofagasta);103100;9;12;212;5.66
+Antofagasta;Servicio de Salud Antofagasta;Antofagasta;Hospital Dr. Leonardo Guzmán (Antofagasta);103100;10;108;211;51.18
+Antofagasta;Servicio de Salud Antofagasta;Antofagasta;Hospital Dr. Leonardo Guzmán (Antofagasta);103100;11;102;214;47.66
+Antofagasta;Servicio de Salud Antofagasta;Antofagasta;Hospital Dr. Leonardo Guzmán (Antofagasta);103100;12;83;186;44.62
+Antofagasta;Servicio de Salud Antofagasta;Calama;Hospital Dr. Carlos Cisternas (Calama);103101;1;75;141;53.19
+Antofagasta;Servicio de Salud Antofagasta;Calama;Hospital Dr. Carlos Cisternas (Calama);103101;2;74;140;52.86
+Antofagasta;Servicio de Salud Antofagasta;Calama;Hospital Dr. Carlos Cisternas (Calama);103101;3;89;148;60.14
+Antofagasta;Servicio de Salud Antofagasta;Calama;Hospital Dr. Carlos Cisternas (Calama);103101;4;82;150;54.67
+Antofagasta;Servicio de Salud Antofagasta;Calama;Hospital Dr. Carlos Cisternas (Calama);103101;5;81;143;56.64
+Antofagasta;Servicio de Salud Antofagasta;Calama;Hospital Dr. Carlos Cisternas (Calama);103101;6;78;120;65.0
+Antofagasta;Servicio de Salud Antofagasta;Calama;Hospital Dr. Carlos Cisternas (Calama);103101;7;65;99;65.66
+Antofagasta;Servicio de Salud Antofagasta;Calama;Hospital Dr. Carlos Cisternas (Calama);103101;8;89;149;59.73
+Antofagasta;Servicio de Salud Antofagasta;Calama;Hospital Dr. Carlos Cisternas (Calama);103101;9;107;130;82.31
+Antofagasta;Servicio de Salud Antofagasta;Calama;Hospital Dr. Carlos Cisternas (Calama);103101;10;108;138;78.26
+Antofagasta;Servicio de Salud Antofagasta;Calama;Hospital Dr. Carlos Cisternas (Calama);103101;11;105;138;76.09
+Antofagasta;Servicio de Salud Antofagasta;Calama;Hospital Dr. Carlos Cisternas (Calama);103101;12;120;156;76.92
+Antofagasta;Servicio de Salud Antofagasta;Mejillones;Hospital de Mejillones;103104;4;0;2;0.0
+Antofagasta;Servicio de Salud Antofagasta;Mejillones;Hospital de Mejillones;103104;5;0;2;0.0
+Antofagasta;Servicio de Salud Antofagasta;Mejillones;Hospital de Mejillones;103104;6;0;1;0.0
+Antofagasta;Servicio de Salud Antofagasta;Mejillones;Hospital de Mejillones;103104;7;0;2;0.0
+Antofagasta;Servicio de Salud Antofagasta;Mejillones;Hospital de Mejillones;103104;8;1;1;100.0
+Antofagasta;Servicio de Salud Antofagasta;Mejillones;Hospital de Mejillones;103104;9;0;1;0.0
+Antofagasta;Servicio de Salud Antofagasta;Mejillones;Hospital de Mejillones;103104;10;0;2;0.0
+Antofagasta;Servicio de Salud Antofagasta;San Pedro de Atacama;Centro de Salud Familiar San Pedro Atacama;103311;11;0;1;0.0
+Antofagasta;Servicio de Salud Antofagasta;Taltal;Hospital 21 de Mayo (Taltal);103103;2;1;2;50.0
+Antofagasta;Servicio de Salud Antofagasta;Taltal;Hospital 21 de Mayo (Taltal);103103;4;3;3;100.0
+Antofagasta;Servicio de Salud Antofagasta;Taltal;Hospital 21 de Mayo (Taltal);103103;6;1;1;100.0
+Antofagasta;Servicio de Salud Antofagasta;Taltal;Hospital 21 de Mayo (Taltal);103103;9;3;3;100.0
+Antofagasta;Servicio de Salud Antofagasta;Taltal;Hospital 21 de Mayo (Taltal);103103;10;1;1;100.0
+Antofagasta;Servicio de Salud Antofagasta;Tocopilla;Hospital Dr. Marcos Macuada (Tocopilla);103102;1;2;4;50.0
+Antofagasta;Servicio de Salud Antofagasta;Tocopilla;Hospital Dr. Marcos Macuada (Tocopilla);103102;2;1;1;100.0
+Antofagasta;Servicio de Salud Antofagasta;Tocopilla;Hospital Dr. Marcos Macuada (Tocopilla);103102;3;2;3;66.67
+Antofagasta;Servicio de Salud Antofagasta;Tocopilla;Hospital Dr. Marcos Macuada (Tocopilla);103102;4;5;5;100.0
+Antofagasta;Servicio de Salud Antofagasta;Tocopilla;Hospital Dr. Marcos Macuada (Tocopilla);103102;5;5;6;83.33
+Antofagasta;Servicio de Salud Antofagasta;Tocopilla;Hospital Dr. Marcos Macuada (Tocopilla);103102;6;2;3;66.67
+Antofagasta;Servicio de Salud Antofagasta;Tocopilla;Hospital Dr. Marcos Macuada (Tocopilla);103102;7;6;4;150.0
+Antofagasta;Servicio de Salud Antofagasta;Tocopilla;Hospital Dr. Marcos Macuada (Tocopilla);103102;8;4;4;100.0
+Antofagasta;Servicio de Salud Antofagasta;Tocopilla;Hospital Dr. Marcos Macuada (Tocopilla);103102;9;3;4;75.0
+Antofagasta;Servicio de Salud Antofagasta;Tocopilla;Hospital Dr. Marcos Macuada (Tocopilla);103102;10;2;2;100.0
+Antofagasta;Servicio de Salud Antofagasta;Tocopilla;Hospital Dr. Marcos Macuada (Tocopilla);103102;12;4;4;100.0
+Arica Parinacota;Servicio de Salud Arica y Parinacota;Arica;Hospital Regional Dr. Juan Noé Crevani (Arica);101100;1;164;172;95.35
+Arica Parinacota;Servicio de Salud Arica y Parinacota;Arica;Hospital Regional Dr. Juan Noé Crevani (Arica);101100;2;171;175;97.71
+Arica Parinacota;Servicio de Salud Arica y Parinacota;Arica;Hospital Regional Dr. Juan Noé Crevani (Arica);101100;3;174;176;98.86
+Arica Parinacota;Servicio de Salud Arica y Parinacota;Arica;Hospital Regional Dr. Juan Noé Crevani (Arica);101100;4;166;173;95.95
+Arica Parinacota;Servicio de Salud Arica y Parinacota;Arica;Hospital Regional Dr. Juan Noé Crevani (Arica);101100;5;132;141;93.62
+Arica Parinacota;Servicio de Salud Arica y Parinacota;Arica;Hospital Regional Dr. Juan Noé Crevani (Arica);101100;6;144;154;93.51
+Arica Parinacota;Servicio de Salud Arica y Parinacota;Arica;Hospital Regional Dr. Juan Noé Crevani (Arica);101100;7;137;145;94.48
+Arica Parinacota;Servicio de Salud Arica y Parinacota;Arica;Hospital Regional Dr. Juan Noé Crevani (Arica);101100;8;145;153;94.77
+Arica Parinacota;Servicio de Salud Arica y Parinacota;Arica;Hospital Regional Dr. Juan Noé Crevani (Arica);101100;9;137;143;95.8
+Arica Parinacota;Servicio de Salud Arica y Parinacota;Arica;Hospital Regional Dr. Juan Noé Crevani (Arica);101100;10;85;141;60.28
+Arica Parinacota;Servicio de Salud Arica y Parinacota;Arica;Hospital Regional Dr. Juan Noé Crevani (Arica);101100;11;158;163;96.93
+Arica Parinacota;Servicio de Salud Arica y Parinacota;Arica;Hospital Regional Dr. Juan Noé Crevani (Arica);101100;12;146;150;97.33
+Atacama;Servicio de Salud Atacama;Chañaral;Hospital Dr. Jerónimo Méndez Arancibia (Chañaral);104101;4;1;1;100.0
+Atacama;Servicio de Salud Atacama;Chañaral;Hospital Dr. Jerónimo Méndez Arancibia (Chañaral);104101;5;0;2;0.0
+Atacama;Servicio de Salud Atacama;Chañaral;Hospital Dr. Jerónimo Méndez Arancibia (Chañaral);104101;11;0;1;0.0
+Atacama;Servicio de Salud Atacama;Chañaral;Hospital Dr. Jerónimo Méndez Arancibia (Chañaral);104101;12;1;3;33.33
+Atacama;Servicio de Salud Atacama;Copiapó;Hospital San José del Carmen (Copiapó);104100;1;100;115;86.96
+Atacama;Servicio de Salud Atacama;Copiapó;Hospital San José del Carmen (Copiapó);104100;2;86;95;90.53
+Atacama;Servicio de Salud Atacama;Copiapó;Hospital San José del Carmen (Copiapó);104100;3;97;118;82.2
+Atacama;Servicio de Salud Atacama;Copiapó;Hospital San José del Carmen (Copiapó);104100;4;99;112;88.39
+Atacama;Servicio de Salud Atacama;Copiapó;Hospital San José del Carmen (Copiapó);104100;5;111;122;90.98
+Atacama;Servicio de Salud Atacama;Copiapó;Hospital San José del Carmen (Copiapó);104100;6;113;117;96.58
+Atacama;Servicio de Salud Atacama;Copiapó;Hospital San José del Carmen (Copiapó);104100;7;86;93;92.47
+Atacama;Servicio de Salud Atacama;Copiapó;Hospital San José del Carmen (Copiapó);104100;8;86;95;90.53
+Atacama;Servicio de Salud Atacama;Copiapó;Hospital San José del Carmen (Copiapó);104100;9;82;96;85.42
+Atacama;Servicio de Salud Atacama;Copiapó;Hospital San José del Carmen (Copiapó);104100;10;92;102;90.2
+Atacama;Servicio de Salud Atacama;Copiapó;Hospital San José del Carmen (Copiapó);104100;11;94;102;92.16
+Atacama;Servicio de Salud Atacama;Copiapó;Hospital San José del Carmen (Copiapó);104100;12;94;101;93.07
+Atacama;Servicio de Salud Atacama;Diego de Almagro;Hospital Dr. Florencio Vargas (Diego de Almagro);104102;9;0;2;0.0
+Atacama;Servicio de Salud Atacama;Vallenar;Hospital Provincial del Huasco Monseñor Fernando Ariztía Ruiz (Vallenar);104103;1;35;35;100.0
+Atacama;Servicio de Salud Atacama;Vallenar;Hospital Provincial del Huasco Monseñor Fernando Ariztía Ruiz (Vallenar);104103;2;57;61;93.44
+Atacama;Servicio de Salud Atacama;Vallenar;Hospital Provincial del Huasco Monseñor Fernando Ariztía Ruiz (Vallenar);104103;3;45;45;100.0
+Atacama;Servicio de Salud Atacama;Vallenar;Hospital Provincial del Huasco Monseñor Fernando Ariztía Ruiz (Vallenar);104103;4;46;57;80.7
+Atacama;Servicio de Salud Atacama;Vallenar;Hospital Provincial del Huasco Monseñor Fernando Ariztía Ruiz (Vallenar);104103;5;60;60;100.0
+Atacama;Servicio de Salud Atacama;Vallenar;Hospital Provincial del Huasco Monseñor Fernando Ariztía Ruiz (Vallenar);104103;6;52;54;96.3
+Atacama;Servicio de Salud Atacama;Vallenar;Hospital Provincial del Huasco Monseñor Fernando Ariztía Ruiz (Vallenar);104103;7;63;65;96.92
+Atacama;Servicio de Salud Atacama;Vallenar;Hospital Provincial del Huasco Monseñor Fernando Ariztía Ruiz (Vallenar);104103;8;38;45;84.44
+Atacama;Servicio de Salud Atacama;Vallenar;Hospital Provincial del Huasco Monseñor Fernando Ariztía Ruiz (Vallenar);104103;9;50;53;94.34
+Atacama;Servicio de Salud Atacama;Vallenar;Hospital Provincial del Huasco Monseñor Fernando Ariztía Ruiz (Vallenar);104103;10;40;41;97.56
+Atacama;Servicio de Salud Atacama;Vallenar;Hospital Provincial del Huasco Monseñor Fernando Ariztía Ruiz (Vallenar);104103;11;40;45;88.89
+Atacama;Servicio de Salud Atacama;Vallenar;Hospital Provincial del Huasco Monseñor Fernando Ariztía Ruiz (Vallenar);104103;12;43;45;95.56
+Aysén del General Carlos Ibañez del Campo;Servicio de Salud Aysén;Aisén;Hospital de Puerto Aysén;125101;2;1;1;100.0
+Aysén del General Carlos Ibañez del Campo;Servicio de Salud Aysén;Aisén;Hospital de Puerto Aysén;125101;3;2;2;100.0
+Aysén del General Carlos Ibañez del Campo;Servicio de Salud Aysén;Aisén;Hospital de Puerto Aysén;125101;5;1;1;100.0
+Aysén del General Carlos Ibañez del Campo;Servicio de Salud Aysén;Aisén;Hospital de Puerto Aysén;125101;7;1;2;50.0
+Aysén del General Carlos Ibañez del Campo;Servicio de Salud Aysén;Aisén;Hospital de Puerto Aysén;125101;9;1;1;100.0
+Aysén del General Carlos Ibañez del Campo;Servicio de Salud Aysén;Aisén;Hospital de Puerto Aysén;125101;10;1;1;100.0
+Aysén del General Carlos Ibañez del Campo;Servicio de Salud Aysén;Aisén;Hospital de Puerto Aysén;125101;11;1;3;33.33
+Aysén del General Carlos Ibañez del Campo;Servicio de Salud Aysén;Aisén;Hospital de Puerto Aysén;125101;12;1;3;33.33
+Aysén del General Carlos Ibañez del Campo;Servicio de Salud Aysén;Chile Chico;Hospital Dr. Leopoldo Ortega Rodríguez (Chile Chico);125102;8;0;1;0.0
+Aysén del General Carlos Ibañez del Campo;Servicio de Salud Aysén;Coyhaique;Hospital Regional de Coyhaique;125100;1;34;64;53.12
+Aysén del General Carlos Ibañez del Campo;Servicio de Salud Aysén;Coyhaique;Hospital Regional de Coyhaique;125100;2;45;48;93.75
+Aysén del General Carlos Ibañez del Campo;Servicio de Salud Aysén;Coyhaique;Hospital Regional de Coyhaique;125100;3;68;66;103.03
+Aysén del General Carlos Ibañez del Campo;Servicio de Salud Aysén;Coyhaique;Hospital Regional de Coyhaique;125100;4;15;48;31.25
+Aysén del General Carlos Ibañez del Campo;Servicio de Salud Aysén;Coyhaique;Hospital Regional de Coyhaique;125100;5;41;61;67.21
+Aysén del General Carlos Ibañez del Campo;Servicio de Salud Aysén;Coyhaique;Hospital Regional de Coyhaique;125100;6;38;43;88.37
+Aysén del General Carlos Ibañez del Campo;Servicio de Salud Aysén;Coyhaique;Hospital Regional de Coyhaique;125100;7;52;54;96.3
+Aysén del General Carlos Ibañez del Campo;Servicio de Salud Aysén;Coyhaique;Hospital Regional de Coyhaique;125100;8;49;51;96.08
+Aysén del General Carlos Ibañez del Campo;Servicio de Salud Aysén;Coyhaique;Hospital Regional de Coyhaique;125100;9;68;70;97.14
+Aysén del General Carlos Ibañez del Campo;Servicio de Salud Aysén;Coyhaique;Hospital Regional de Coyhaique;125100;10;55;62;88.71
+Aysén del General Carlos Ibañez del Campo;Servicio de Salud Aysén;Coyhaique;Hospital Regional de Coyhaique;125100;11;51;55;92.73
+Aysén del General Carlos Ibañez del Campo;Servicio de Salud Aysén;Coyhaique;Hospital Regional de Coyhaique;125100;12;22;63;34.92
+Biobío;Servicio de Salud Arauco;Arauco;Hospital San Vicente de Arauco;128113;9;0;1;0.0
+Biobío;Servicio de Salud Arauco;Cañete;Hospital Intercultural Kallvu Llanka (Cañete);128111;1;3;3;100.0
+Biobío;Servicio de Salud Arauco;Cañete;Hospital Intercultural Kallvu Llanka (Cañete);128111;3;3;3;100.0
+Biobío;Servicio de Salud Arauco;Cañete;Hospital Intercultural Kallvu Llanka (Cañete);128111;4;3;3;100.0
+Biobío;Servicio de Salud Arauco;Cañete;Hospital Intercultural Kallvu Llanka (Cañete);128111;5;2;4;50.0
+Biobío;Servicio de Salud Arauco;Cañete;Hospital Intercultural Kallvu Llanka (Cañete);128111;6;0;2;0.0
+Biobío;Servicio de Salud Arauco;Cañete;Hospital Intercultural Kallvu Llanka (Cañete);128111;7;1;3;33.33
+Biobío;Servicio de Salud Arauco;Cañete;Hospital Intercultural Kallvu Llanka (Cañete);128111;8;1;2;50.0
+Biobío;Servicio de Salud Arauco;Cañete;Hospital Intercultural Kallvu Llanka (Cañete);128111;9;1;1;100.0
+Biobío;Servicio de Salud Arauco;Cañete;Hospital Intercultural Kallvu Llanka (Cañete);128111;10;1;1;100.0
+Biobío;Servicio de Salud Arauco;Cañete;Hospital Intercultural Kallvu Llanka (Cañete);128111;11;1;1;100.0
+Biobío;Servicio de Salud Arauco;Cañete;Hospital Intercultural Kallvu Llanka (Cañete);128111;12;3;5;60.0
+Biobío;Servicio de Salud Arauco;Curanilahue;Hospital Provincial Dr. Rafael Avaría (Curanilahue);128109;1;61;91;67.03
+Biobío;Servicio de Salud Arauco;Curanilahue;Hospital Provincial Dr. Rafael Avaría (Curanilahue);128109;2;51;72;70.83
+Biobío;Servicio de Salud Arauco;Curanilahue;Hospital Provincial Dr. Rafael Avaría (Curanilahue);128109;3;47;62;75.81
+Biobío;Servicio de Salud Arauco;Curanilahue;Hospital Provincial Dr. Rafael Avaría (Curanilahue);128109;4;60;79;75.95
+Biobío;Servicio de Salud Arauco;Curanilahue;Hospital Provincial Dr. Rafael Avaría (Curanilahue);128109;5;54;73;73.97
+Biobío;Servicio de Salud Arauco;Curanilahue;Hospital Provincial Dr. Rafael Avaría (Curanilahue);128109;6;53;84;63.1
+Biobío;Servicio de Salud Arauco;Curanilahue;Hospital Provincial Dr. Rafael Avaría (Curanilahue);128109;7;65;82;79.27
+Biobío;Servicio de Salud Arauco;Curanilahue;Hospital Provincial Dr. Rafael Avaría (Curanilahue);128109;8;59;79;74.68
+Biobío;Servicio de Salud Arauco;Curanilahue;Hospital Provincial Dr. Rafael Avaría (Curanilahue);128109;9;63;83;75.9
+Biobío;Servicio de Salud Arauco;Curanilahue;Hospital Provincial Dr. Rafael Avaría (Curanilahue);128109;10;65;77;84.42
+Biobío;Servicio de Salud Arauco;Curanilahue;Hospital Provincial Dr. Rafael Avaría (Curanilahue);128109;11;59;67;88.06
+Biobío;Servicio de Salud Arauco;Curanilahue;Hospital Provincial Dr. Rafael Avaría (Curanilahue);128109;12;51;60;85.0
+Biobío;Servicio de Salud Arauco;Lebu;Hospital de Lebu;128110;1;1;1;100.0
+Biobío;Servicio de Salud Arauco;Lebu;Hospital de Lebu;128110;4;2;3;66.67
+Biobío;Servicio de Salud Arauco;Lebu;Hospital de Lebu;128110;11;2;3;66.67
+Biobío;Servicio de Salud Arauco;Lebu;Hospital de Lebu;128110;12;0;2;0.0
+Biobío;Servicio de Salud Biobío;Laja;Hospital Comunitario de Laja;120105;7;1;1;100.0
+Biobío;Servicio de Salud Biobío;Laja;Hospital Comunitario de Laja;120105;9;1;1;100.0
+Biobío;Servicio de Salud Biobío;Laja;Hospital Comunitario de Laja;120105;11;0;2;0.0
+Biobío;Servicio de Salud Biobío;Laja;Hospital Comunitario de Laja;120105;12;2;2;100.0
+Biobío;Servicio de Salud Biobío;Los Ángeles;Complejo Asistencial Dr. Víctor Ríos Ruiz (Los Ángeles);120101;1;199;210;94.76
+Biobío;Servicio de Salud Biobío;Los Ángeles;Complejo Asistencial Dr. Víctor Ríos Ruiz (Los Ángeles);120101;2;168;179;93.85
+Biobío;Servicio de Salud Biobío;Los Ángeles;Complejo Asistencial Dr. Víctor Ríos Ruiz (Los Ángeles);120101;3;167;170;98.24
+Biobío;Servicio de Salud Biobío;Los Ángeles;Complejo Asistencial Dr. Víctor Ríos Ruiz (Los Ángeles);120101;4;162;174;93.1
+Biobío;Servicio de Salud Biobío;Los Ángeles;Complejo Asistencial Dr. Víctor Ríos Ruiz (Los Ángeles);120101;5;98;184;53.26
+Biobío;Servicio de Salud Biobío;Los Ángeles;Complejo Asistencial Dr. Víctor Ríos Ruiz (Los Ángeles);120101;6;183;191;95.81
+Biobío;Servicio de Salud Biobío;Los Ángeles;Complejo Asistencial Dr. Víctor Ríos Ruiz (Los Ángeles);120101;7;156;167;93.41
+Biobío;Servicio de Salud Biobío;Los Ángeles;Complejo Asistencial Dr. Víctor Ríos Ruiz (Los Ángeles);120101;8;157;170;92.35
+Biobío;Servicio de Salud Biobío;Los Ángeles;Complejo Asistencial Dr. Víctor Ríos Ruiz (Los Ángeles);120101;9;153;157;97.45
+Biobío;Servicio de Salud Biobío;Los Ángeles;Complejo Asistencial Dr. Víctor Ríos Ruiz (Los Ángeles);120101;10;165;172;95.93
+Biobío;Servicio de Salud Biobío;Los Ángeles;Complejo Asistencial Dr. Víctor Ríos Ruiz (Los Ángeles);120101;11;153;165;92.73
+Biobío;Servicio de Salud Biobío;Los Ángeles;Complejo Asistencial Dr. Víctor Ríos Ruiz (Los Ángeles);120101;12;151;162;93.21
+Biobío;Servicio de Salud Biobío;Mulchén;Hospital de Mulchén;120102;1;2;2;100.0
+Biobío;Servicio de Salud Biobío;Mulchén;Hospital de Mulchén;120102;2;2;2;100.0
+Biobío;Servicio de Salud Biobío;Mulchén;Hospital de Mulchén;120102;4;1;1;100.0
+Biobío;Servicio de Salud Biobío;Mulchén;Hospital de Mulchén;120102;9;0;2;0.0
+Biobío;Servicio de Salud Biobío;Mulchén;Hospital de Mulchén;120102;10;1;1;100.0
+Biobío;Servicio de Salud Biobío;Mulchén;Hospital de Mulchén;120102;12;1;2;50.0
+Biobío;Servicio de Salud Biobío;Nacimiento;Hospital Comunitario y Familiar de Nacimiento;120103;1;1;1;100.0
+Biobío;Servicio de Salud Biobío;Nacimiento;Hospital Comunitario y Familiar de Nacimiento;120103;2;1;1;100.0
+Biobío;Servicio de Salud Biobío;Nacimiento;Hospital Comunitario y Familiar de Nacimiento;120103;3;1;1;100.0
+Biobío;Servicio de Salud Biobío;Nacimiento;Hospital Comunitario y Familiar de Nacimiento;120103;4;1;1;100.0
+Biobío;Servicio de Salud Biobío;Nacimiento;Hospital Comunitario y Familiar de Nacimiento;120103;5;1;2;50.0
+Biobío;Servicio de Salud Biobío;Nacimiento;Hospital Comunitario y Familiar de Nacimiento;120103;8;1;1;100.0
+Biobío;Servicio de Salud Biobío;Nacimiento;Hospital Comunitario y Familiar de Nacimiento;120103;9;1;1;100.0
+Biobío;Servicio de Salud Biobío;Santa Bárbara;Hospital Comunitario de Santa Bárbara;120106;1;0;1;0.0
+Biobío;Servicio de Salud Biobío;Santa Bárbara;Hospital Comunitario de Santa Bárbara;120106;2;1;1;100.0
+Biobío;Servicio de Salud Biobío;Tucapel;Hospital Comunitario Dr. Roberto Muñoz Urrutia de Huépil;120107;7;1;1;100.0
+Biobío;Servicio de Salud Biobío;Tucapel;Hospital Comunitario Dr. Roberto Muñoz Urrutia de Huépil;120107;11;0;1;0.0
+Biobío;Servicio de Salud Biobío;Yumbel;Hospital Comunitario de Yumbel;120104;3;1;1;100.0
+Biobío;Servicio de Salud Biobío;Yumbel;Hospital Comunitario de Yumbel;120104;4;2;2;100.0
+Biobío;Servicio de Salud Biobío;Yumbel;Hospital Comunitario de Yumbel;120104;7;0;1;0.0
+Biobío;Servicio de Salud Biobío;Yumbel;Hospital Comunitario de Yumbel;120104;9;1;1;100.0
+Biobío;Servicio de Salud Biobío;Yumbel;Hospital Comunitario de Yumbel;120104;10;1;1;100.0
+Biobío;Servicio de Salud Biobío;Yumbel;Hospital Comunitario de Yumbel;120104;12;1;1;100.0
+Biobío;Servicio de Salud Concepción;Concepción;Hospital Clínico Regional Dr. Guillermo Grant Benavente (Concepción);118100;1;155;169;91.72
+Biobío;Servicio de Salud Concepción;Concepción;Hospital Clínico Regional Dr. Guillermo Grant Benavente (Concepción);118100;2;129;153;84.31
+Biobío;Servicio de Salud Concepción;Concepción;Hospital Clínico Regional Dr. Guillermo Grant Benavente (Concepción);118100;3;144;161;89.44
+Biobío;Servicio de Salud Concepción;Concepción;Hospital Clínico Regional Dr. Guillermo Grant Benavente (Concepción);118100;4;128;143;89.51
+Biobío;Servicio de Salud Concepción;Concepción;Hospital Clínico Regional Dr. Guillermo Grant Benavente (Concepción);118100;5;137;171;80.12
+Biobío;Servicio de Salud Concepción;Concepción;Hospital Clínico Regional Dr. Guillermo Grant Benavente (Concepción);118100;6;120;137;87.59
+Biobío;Servicio de Salud Concepción;Concepción;Hospital Clínico Regional Dr. Guillermo Grant Benavente (Concepción);118100;7;146;157;92.99
+Biobío;Servicio de Salud Concepción;Concepción;Hospital Clínico Regional Dr. Guillermo Grant Benavente (Concepción);118100;8;129;152;84.87
+Biobío;Servicio de Salud Concepción;Concepción;Hospital Clínico Regional Dr. Guillermo Grant Benavente (Concepción);118100;9;132;140;94.29
+Biobío;Servicio de Salud Concepción;Concepción;Hospital Clínico Regional Dr. Guillermo Grant Benavente (Concepción);118100;10;148;173;85.55
+Biobío;Servicio de Salud Concepción;Concepción;Hospital Clínico Regional Dr. Guillermo Grant Benavente (Concepción);118100;11;146;171;85.38
+Biobío;Servicio de Salud Concepción;Concepción;Hospital Clínico Regional Dr. Guillermo Grant Benavente (Concepción);118100;12;126;153;82.35
+Biobío;Servicio de Salud Concepción;Coronel;Hospital San José (Coronel);118105;1;29;30;96.67
+Biobío;Servicio de Salud Concepción;Coronel;Hospital San José (Coronel);118105;2;43;47;91.49
+Biobío;Servicio de Salud Concepción;Coronel;Hospital San José (Coronel);118105;3;30;34;88.24
+Biobío;Servicio de Salud Concepción;Coronel;Hospital San José (Coronel);118105;4;28;38;73.68
+Biobío;Servicio de Salud Concepción;Coronel;Hospital San José (Coronel);118105;5;34;40;85.0
+Biobío;Servicio de Salud Concepción;Coronel;Hospital San José (Coronel);118105;6;37;43;86.05
+Biobío;Servicio de Salud Concepción;Coronel;Hospital San José (Coronel);118105;7;36;50;72.0
+Biobío;Servicio de Salud Concepción;Coronel;Hospital San José (Coronel);118105;8;23;39;58.97
+Biobío;Servicio de Salud Concepción;Coronel;Hospital San José (Coronel);118105;9;35;47;74.47
+Biobío;Servicio de Salud Concepción;Coronel;Hospital San José (Coronel);118105;10;37;41;90.24
+Biobío;Servicio de Salud Concepción;Coronel;Hospital San José (Coronel);118105;11;33;35;94.29
+Biobío;Servicio de Salud Concepción;Coronel;Hospital San José (Coronel);118105;12;46;51;90.2
+Biobío;Servicio de Salud Concepción;Lota;Hospital de Lota;118106;1;7;8;87.5
+Biobío;Servicio de Salud Concepción;Lota;Hospital de Lota;118106;2;5;6;83.33
+Biobío;Servicio de Salud Concepción;Lota;Hospital de Lota;118106;3;4;4;100.0
+Biobío;Servicio de Salud Concepción;Lota;Hospital de Lota;118106;4;7;7;100.0
+Biobío;Servicio de Salud Concepción;Lota;Hospital de Lota;118106;5;3;3;100.0
+Biobío;Servicio de Salud Concepción;Lota;Hospital de Lota;118106;6;7;7;100.0
+Biobío;Servicio de Salud Concepción;Lota;Hospital de Lota;118106;7;7;7;100.0
+Biobío;Servicio de Salud Concepción;Lota;Hospital de Lota;118106;8;7;7;100.0
+Biobío;Servicio de Salud Concepción;Lota;Hospital de Lota;118106;9;3;2;150.0
+Biobío;Servicio de Salud Concepción;Lota;Hospital de Lota;118106;10;8;10;80.0
+Biobío;Servicio de Salud Concepción;Lota;Hospital de Lota;118106;11;8;9;88.89
+Biobío;Servicio de Salud Concepción;Lota;Hospital de Lota;118106;12;6;6;100.0
+Biobío;Servicio de Salud Concepción;Santa Juana;Hospital Clorinda Avello (Santa Juana);118107;12;1;2;50.0
+Biobío;Servicio de Salud Talcahuano;Penco;Hospital Penco Lirquén;119102;3;1;1;100.0
+Biobío;Servicio de Salud Talcahuano;Penco;Hospital Penco Lirquén;119102;4;1;1;100.0
+Biobío;Servicio de Salud Talcahuano;Penco;Hospital Penco Lirquén;119102;11;1;1;100.0
+Biobío;Servicio de Salud Talcahuano;Penco;Hospital Penco Lirquén;119102;12;1;1;100.0
+Biobío;Servicio de Salud Talcahuano;Talcahuano;Hospital Las Higueras (Talcahuano);119100;1;121;129;93.8
+Biobío;Servicio de Salud Talcahuano;Talcahuano;Hospital Las Higueras (Talcahuano);119100;2;105;109;96.33
+Biobío;Servicio de Salud Talcahuano;Talcahuano;Hospital Las Higueras (Talcahuano);119100;3;114;122;93.44
+Biobío;Servicio de Salud Talcahuano;Talcahuano;Hospital Las Higueras (Talcahuano);119100;4;119;127;93.7
+Biobío;Servicio de Salud Talcahuano;Talcahuano;Hospital Las Higueras (Talcahuano);119100;5;118;123;95.93
+Biobío;Servicio de Salud Talcahuano;Talcahuano;Hospital Las Higueras (Talcahuano);119100;6;106;110;96.36
+Biobío;Servicio de Salud Talcahuano;Talcahuano;Hospital Las Higueras (Talcahuano);119100;7;119;125;95.2
+Biobío;Servicio de Salud Talcahuano;Talcahuano;Hospital Las Higueras (Talcahuano);119100;8;105;114;92.11
+Biobío;Servicio de Salud Talcahuano;Talcahuano;Hospital Las Higueras (Talcahuano);119100;9;102;116;87.93
+Biobío;Servicio de Salud Talcahuano;Talcahuano;Hospital Las Higueras (Talcahuano);119100;10;102;110;92.73
+Biobío;Servicio de Salud Talcahuano;Talcahuano;Hospital Las Higueras (Talcahuano);119100;11;111;119;93.28
+Biobío;Servicio de Salud Talcahuano;Talcahuano;Hospital Las Higueras (Talcahuano);119100;12;112;122;91.8
+Biobío;Servicio de Salud Talcahuano;Tome;Hospital de Tomé;119101;1;3;3;100.0
+Biobío;Servicio de Salud Talcahuano;Tome;Hospital de Tomé;119101;3;1;2;50.0
+Biobío;Servicio de Salud Talcahuano;Tome;Hospital de Tomé;119101;4;2;2;100.0
+Biobío;Servicio de Salud Talcahuano;Tome;Hospital de Tomé;119101;7;1;1;100.0
+Biobío;Servicio de Salud Talcahuano;Tome;Hospital de Tomé;119101;8;1;1;100.0
+Biobío;Servicio de Salud Talcahuano;Tome;Hospital de Tomé;119101;9;2;2;100.0
+Biobío;Servicio de Salud Talcahuano;Tome;Hospital de Tomé;119101;10;1;1;100.0
+Biobío;Servicio de Salud Talcahuano;Tome;Hospital de Tomé;119101;11;3;3;100.0
+Coquimbo;Servicio de Salud Coquimbo;Coquimbo;Hospital San Pablo (Coquimbo);105101;1;73;167;43.71
+Coquimbo;Servicio de Salud Coquimbo;Coquimbo;Hospital San Pablo (Coquimbo);105101;2;53;155;34.19
+Coquimbo;Servicio de Salud Coquimbo;Coquimbo;Hospital San Pablo (Coquimbo);105101;3;161;165;97.58
+Coquimbo;Servicio de Salud Coquimbo;Coquimbo;Hospital San Pablo (Coquimbo);105101;4;154;161;95.65
+Coquimbo;Servicio de Salud Coquimbo;Coquimbo;Hospital San Pablo (Coquimbo);105101;5;171;173;98.84
+Coquimbo;Servicio de Salud Coquimbo;Coquimbo;Hospital San Pablo (Coquimbo);105101;6;146;153;95.42
+Coquimbo;Servicio de Salud Coquimbo;Coquimbo;Hospital San Pablo (Coquimbo);105101;7;179;188;95.21
+Coquimbo;Servicio de Salud Coquimbo;Coquimbo;Hospital San Pablo (Coquimbo);105101;8;143;151;94.7
+Coquimbo;Servicio de Salud Coquimbo;Coquimbo;Hospital San Pablo (Coquimbo);105101;9;156;176;88.64
+Coquimbo;Servicio de Salud Coquimbo;Coquimbo;Hospital San Pablo (Coquimbo);105101;10;124;132;93.94
+Coquimbo;Servicio de Salud Coquimbo;Coquimbo;Hospital San Pablo (Coquimbo);105101;11;127;138;92.03
+Coquimbo;Servicio de Salud Coquimbo;Coquimbo;Hospital San Pablo (Coquimbo);105101;12;58;162;35.8
+Coquimbo;Servicio de Salud Coquimbo;Illapel;Hospital Dr. Humberto Elorza Cortés (Illapel);105103;1;37;42;88.1
+Coquimbo;Servicio de Salud Coquimbo;Illapel;Hospital Dr. Humberto Elorza Cortés (Illapel);105103;2;32;35;91.43
+Coquimbo;Servicio de Salud Coquimbo;Illapel;Hospital Dr. Humberto Elorza Cortés (Illapel);105103;3;30;38;78.95
+Coquimbo;Servicio de Salud Coquimbo;Illapel;Hospital Dr. Humberto Elorza Cortés (Illapel);105103;4;45;47;95.74
+Coquimbo;Servicio de Salud Coquimbo;Illapel;Hospital Dr. Humberto Elorza Cortés (Illapel);105103;5;35;40;87.5
+Coquimbo;Servicio de Salud Coquimbo;Illapel;Hospital Dr. Humberto Elorza Cortés (Illapel);105103;6;31;37;83.78
+Coquimbo;Servicio de Salud Coquimbo;Illapel;Hospital Dr. Humberto Elorza Cortés (Illapel);105103;7;29;33;87.88
+Coquimbo;Servicio de Salud Coquimbo;Illapel;Hospital Dr. Humberto Elorza Cortés (Illapel);105103;8;23;26;88.46
+Coquimbo;Servicio de Salud Coquimbo;Illapel;Hospital Dr. Humberto Elorza Cortés (Illapel);105103;9;39;41;95.12
+Coquimbo;Servicio de Salud Coquimbo;Illapel;Hospital Dr. Humberto Elorza Cortés (Illapel);105103;10;26;31;83.87
+Coquimbo;Servicio de Salud Coquimbo;Illapel;Hospital Dr. Humberto Elorza Cortés (Illapel);105103;11;5;20;25.0
+Coquimbo;Servicio de Salud Coquimbo;Illapel;Hospital Dr. Humberto Elorza Cortés (Illapel);105103;12;37;39;94.87
+Coquimbo;Servicio de Salud Coquimbo;La Serena;Hospital San Juan de Dios (La Serena);105100;1;89;102;87.25
+Coquimbo;Servicio de Salud Coquimbo;La Serena;Hospital San Juan de Dios (La Serena);105100;2;104;113;92.04
+Coquimbo;Servicio de Salud Coquimbo;La Serena;Hospital San Juan de Dios (La Serena);105100;3;130;136;95.59
+Coquimbo;Servicio de Salud Coquimbo;La Serena;Hospital San Juan de Dios (La Serena);105100;4;120;130;92.31
+Coquimbo;Servicio de Salud Coquimbo;La Serena;Hospital San Juan de Dios (La Serena);105100;5;111;120;92.5
+Coquimbo;Servicio de Salud Coquimbo;La Serena;Hospital San Juan de Dios (La Serena);105100;6;130;141;92.2
+Coquimbo;Servicio de Salud Coquimbo;La Serena;Hospital San Juan de Dios (La Serena);105100;7;114;123;92.68
+Coquimbo;Servicio de Salud Coquimbo;La Serena;Hospital San Juan de Dios (La Serena);105100;8;114;124;91.94
+Coquimbo;Servicio de Salud Coquimbo;La Serena;Hospital San Juan de Dios (La Serena);105100;9;125;132;94.7
+Coquimbo;Servicio de Salud Coquimbo;La Serena;Hospital San Juan de Dios (La Serena);105100;10;119;121;98.35
+Coquimbo;Servicio de Salud Coquimbo;La Serena;Hospital San Juan de Dios (La Serena);105100;11;104;109;95.41
+Coquimbo;Servicio de Salud Coquimbo;La Serena;Hospital San Juan de Dios (La Serena);105100;12;129;140;92.14
+Coquimbo;Servicio de Salud Coquimbo;Los Vilos;Hospital San Pedro (Los Vilos);105108;1;5;5;100.0
+Coquimbo;Servicio de Salud Coquimbo;Los Vilos;Hospital San Pedro (Los Vilos);105108;2;3;3;100.0
+Coquimbo;Servicio de Salud Coquimbo;Los Vilos;Hospital San Pedro (Los Vilos);105108;3;7;8;87.5
+Coquimbo;Servicio de Salud Coquimbo;Los Vilos;Hospital San Pedro (Los Vilos);105108;4;6;6;100.0
+Coquimbo;Servicio de Salud Coquimbo;Los Vilos;Hospital San Pedro (Los Vilos);105108;5;1;2;50.0
+Coquimbo;Servicio de Salud Coquimbo;Los Vilos;Hospital San Pedro (Los Vilos);105108;6;5;5;100.0
+Coquimbo;Servicio de Salud Coquimbo;Los Vilos;Hospital San Pedro (Los Vilos);105108;7;4;4;100.0
+Coquimbo;Servicio de Salud Coquimbo;Los Vilos;Hospital San Pedro (Los Vilos);105108;8;1;1;100.0
+Coquimbo;Servicio de Salud Coquimbo;Los Vilos;Hospital San Pedro (Los Vilos);105108;9;5;5;100.0
+Coquimbo;Servicio de Salud Coquimbo;Los Vilos;Hospital San Pedro (Los Vilos);105108;11;4;4;100.0
+Coquimbo;Servicio de Salud Coquimbo;Los Vilos;Hospital San Pedro (Los Vilos);105108;12;2;2;100.0
+Coquimbo;Servicio de Salud Coquimbo;Ovalle;Hospital Dr. Antonio Tirado Lanas de Ovalle;105102;1;94;99;94.95
+Coquimbo;Servicio de Salud Coquimbo;Ovalle;Hospital Dr. Antonio Tirado Lanas de Ovalle;105102;2;93;96;96.88
+Coquimbo;Servicio de Salud Coquimbo;Ovalle;Hospital Dr. Antonio Tirado Lanas de Ovalle;105102;3;120;125;96.0
+Coquimbo;Servicio de Salud Coquimbo;Ovalle;Hospital Dr. Antonio Tirado Lanas de Ovalle;105102;4;105;111;94.59
+Coquimbo;Servicio de Salud Coquimbo;Ovalle;Hospital Dr. Antonio Tirado Lanas de Ovalle;105102;5;49;123;39.84
+Coquimbo;Servicio de Salud Coquimbo;Ovalle;Hospital Dr. Antonio Tirado Lanas de Ovalle;105102;6;105;113;92.92
+Coquimbo;Servicio de Salud Coquimbo;Ovalle;Hospital Dr. Antonio Tirado Lanas de Ovalle;105102;7;95;98;96.94
+Coquimbo;Servicio de Salud Coquimbo;Ovalle;Hospital Dr. Antonio Tirado Lanas de Ovalle;105102;8;95;103;92.23
+Coquimbo;Servicio de Salud Coquimbo;Ovalle;Hospital Dr. Antonio Tirado Lanas de Ovalle;105102;9;48;101;47.52
+Coquimbo;Servicio de Salud Coquimbo;Ovalle;Hospital Dr. Antonio Tirado Lanas de Ovalle;105102;10;106;113;93.81
+Coquimbo;Servicio de Salud Coquimbo;Ovalle;Hospital Dr. Antonio Tirado Lanas de Ovalle;105102;11;92;101;91.09
+Coquimbo;Servicio de Salud Coquimbo;Ovalle;Hospital Dr. Antonio Tirado Lanas de Ovalle;105102;12;78;84;92.86
+Coquimbo;Servicio de Salud Coquimbo;Salamanca;Hospital de Salamanca;105104;1;2;2;100.0
+Coquimbo;Servicio de Salud Coquimbo;Salamanca;Hospital de Salamanca;105104;3;4;4;100.0
+Coquimbo;Servicio de Salud Coquimbo;Salamanca;Hospital de Salamanca;105104;4;2;2;100.0
+Coquimbo;Servicio de Salud Coquimbo;Salamanca;Hospital de Salamanca;105104;6;5;5;100.0
+Coquimbo;Servicio de Salud Coquimbo;Salamanca;Hospital de Salamanca;105104;7;2;2;100.0
+Coquimbo;Servicio de Salud Coquimbo;Salamanca;Hospital de Salamanca;105104;8;1;1;100.0
+Coquimbo;Servicio de Salud Coquimbo;Salamanca;Hospital de Salamanca;105104;9;1;1;100.0
+Coquimbo;Servicio de Salud Coquimbo;Salamanca;Hospital de Salamanca;105104;10;1;1;100.0
+Coquimbo;Servicio de Salud Coquimbo;Salamanca;Hospital de Salamanca;105104;12;1;1;100.0
+Coquimbo;Servicio de Salud Coquimbo;Vicuña;Hospital San Juan de Dios (Vicuña);105107;1;3;3;100.0
+Coquimbo;Servicio de Salud Coquimbo;Vicuña;Hospital San Juan de Dios (Vicuña);105107;3;2;2;100.0
+Coquimbo;Servicio de Salud Coquimbo;Vicuña;Hospital San Juan de Dios (Vicuña);105107;4;2;2;100.0
+Coquimbo;Servicio de Salud Coquimbo;Vicuña;Hospital San Juan de Dios (Vicuña);105107;5;2;2;100.0
+Coquimbo;Servicio de Salud Coquimbo;Vicuña;Hospital San Juan de Dios (Vicuña);105107;6;1;1;100.0
+Coquimbo;Servicio de Salud Coquimbo;Vicuña;Hospital San Juan de Dios (Vicuña);105107;9;4;4;100.0
+Coquimbo;Servicio de Salud Coquimbo;Vicuña;Hospital San Juan de Dios (Vicuña);105107;10;2;2;100.0
+Coquimbo;Servicio de Salud Coquimbo;Vicuña;Hospital San Juan de Dios (Vicuña);105107;11;1;1;100.0
+Coquimbo;Servicio de Salud Coquimbo;Vicuña;Hospital San Juan de Dios (Vicuña);105107;12;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Norte;Angol;Hospital Dr. Mauricio Heyermann (Angol);129100;1;71;78;91.03
+La Araucanía;Servicio de Salud Araucanía Norte;Angol;Hospital Dr. Mauricio Heyermann (Angol);129100;2;52;57;91.23
+La Araucanía;Servicio de Salud Araucanía Norte;Angol;Hospital Dr. Mauricio Heyermann (Angol);129100;3;60;62;96.77
+La Araucanía;Servicio de Salud Araucanía Norte;Angol;Hospital Dr. Mauricio Heyermann (Angol);129100;4;66;72;91.67
+La Araucanía;Servicio de Salud Araucanía Norte;Angol;Hospital Dr. Mauricio Heyermann (Angol);129100;5;82;89;92.13
+La Araucanía;Servicio de Salud Araucanía Norte;Angol;Hospital Dr. Mauricio Heyermann (Angol);129100;6;58;67;86.57
+La Araucanía;Servicio de Salud Araucanía Norte;Angol;Hospital Dr. Mauricio Heyermann (Angol);129100;7;65;72;90.28
+La Araucanía;Servicio de Salud Araucanía Norte;Angol;Hospital Dr. Mauricio Heyermann (Angol);129100;8;67;72;93.06
+La Araucanía;Servicio de Salud Araucanía Norte;Angol;Hospital Dr. Mauricio Heyermann (Angol);129100;9;63;65;96.92
+La Araucanía;Servicio de Salud Araucanía Norte;Angol;Hospital Dr. Mauricio Heyermann (Angol);129100;10;62;67;92.54
+La Araucanía;Servicio de Salud Araucanía Norte;Angol;Hospital Dr. Mauricio Heyermann (Angol);129100;11;56;60;93.33
+La Araucanía;Servicio de Salud Araucanía Norte;Angol;Hospital Dr. Mauricio Heyermann (Angol);129100;12;58;65;89.23
+La Araucanía;Servicio de Salud Araucanía Norte;Collipulli;Hospital de Collipulli;129103;3;1;2;50.0
+La Araucanía;Servicio de Salud Araucanía Norte;Collipulli;Hospital de Collipulli;129103;5;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Norte;Collipulli;Hospital de Collipulli;129103;6;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Norte;Collipulli;Hospital de Collipulli;129103;7;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Norte;Curacautín;Hospital Dr. Oscar Hernández E.(Curacautín);129107;9;0;1;0.0
+La Araucanía;Servicio de Salud Araucanía Norte;Lonquimay;Hospital de Lonquimay;129108;9;0;2;0.0
+La Araucanía;Servicio de Salud Araucanía Norte;Purén;Hospital de Purén;129101;8;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Norte;Traiguén;Hospital Dr. Dino Stagno M.(Traiguén);129104;1;2;2;100.0
+La Araucanía;Servicio de Salud Araucanía Norte;Traiguén;Hospital Dr. Dino Stagno M.(Traiguén);129104;2;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Norte;Traiguén;Hospital Dr. Dino Stagno M.(Traiguén);129104;4;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Norte;Traiguén;Hospital Dr. Dino Stagno M.(Traiguén);129104;12;1;3;33.33
+La Araucanía;Servicio de Salud Araucanía Norte;Victoria;Hospital San José de Victoria;129106;1;21;57;36.84
+La Araucanía;Servicio de Salud Araucanía Norte;Victoria;Hospital San José de Victoria;129106;2;12;47;25.53
+La Araucanía;Servicio de Salud Araucanía Norte;Victoria;Hospital San José de Victoria;129106;3;14;43;32.56
+La Araucanía;Servicio de Salud Araucanía Norte;Victoria;Hospital San José de Victoria;129106;4;16;52;30.77
+La Araucanía;Servicio de Salud Araucanía Norte;Victoria;Hospital San José de Victoria;129106;5;16;54;29.63
+La Araucanía;Servicio de Salud Araucanía Norte;Victoria;Hospital San José de Victoria;129106;6;14;46;30.43
+La Araucanía;Servicio de Salud Araucanía Norte;Victoria;Hospital San José de Victoria;129106;7;25;70;35.71
+La Araucanía;Servicio de Salud Araucanía Norte;Victoria;Hospital San José de Victoria;129106;8;21;53;39.62
+La Araucanía;Servicio de Salud Araucanía Norte;Victoria;Hospital San José de Victoria;129106;9;17;49;34.69
+La Araucanía;Servicio de Salud Araucanía Norte;Victoria;Hospital San José de Victoria;129106;10;16;64;25.0
+La Araucanía;Servicio de Salud Araucanía Norte;Victoria;Hospital San José de Victoria;129106;11;17;63;26.98
+La Araucanía;Servicio de Salud Araucanía Norte;Victoria;Hospital San José de Victoria;129106;12;15;55;27.27
+La Araucanía;Servicio de Salud Araucanía Sur;Carahue;Hospital Familiar y Comunitario Carahue;121115;3;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Carahue;Hospital Familiar y Comunitario Carahue;121115;4;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Carahue;Hospital Familiar y Comunitario Carahue;121115;7;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Cunco;Hospital Dr. Eduardo González Galeno (Cunco);121113;3;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Cunco;Hospital Dr. Eduardo González Galeno (Cunco);121113;4;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Cunco;Hospital Dr. Eduardo González Galeno (Cunco);121113;10;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Cunco;Hospital Dr. Eduardo González Galeno (Cunco);121113;11;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Galvarino;Hospital de Galvarino;121111;3;1;2;50.0
+La Araucanía;Servicio de Salud Araucanía Sur;Galvarino;Hospital de Galvarino;121111;12;0;1;0.0
+La Araucanía;Servicio de Salud Araucanía Sur;Lautaro;Hospital Dr. Abraham Godoy Peña (Lautaro);121110;1;2;3;66.67
+La Araucanía;Servicio de Salud Araucanía Sur;Lautaro;Hospital Dr. Abraham Godoy Peña (Lautaro);121110;2;4;5;80.0
+La Araucanía;Servicio de Salud Araucanía Sur;Lautaro;Hospital Dr. Abraham Godoy Peña (Lautaro);121110;3;5;7;71.43
+La Araucanía;Servicio de Salud Araucanía Sur;Lautaro;Hospital Dr. Abraham Godoy Peña (Lautaro);121110;4;2;3;66.67
+La Araucanía;Servicio de Salud Araucanía Sur;Lautaro;Hospital Dr. Abraham Godoy Peña (Lautaro);121110;5;10;10;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Lautaro;Hospital Dr. Abraham Godoy Peña (Lautaro);121110;6;8;9;88.89
+La Araucanía;Servicio de Salud Araucanía Sur;Lautaro;Hospital Dr. Abraham Godoy Peña (Lautaro);121110;7;5;5;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Lautaro;Hospital Dr. Abraham Godoy Peña (Lautaro);121110;8;3;7;42.86
+La Araucanía;Servicio de Salud Araucanía Sur;Lautaro;Hospital Dr. Abraham Godoy Peña (Lautaro);121110;9;17;20;85.0
+La Araucanía;Servicio de Salud Araucanía Sur;Lautaro;Hospital Dr. Abraham Godoy Peña (Lautaro);121110;10;4;15;26.67
+La Araucanía;Servicio de Salud Araucanía Sur;Lautaro;Hospital Dr. Abraham Godoy Peña (Lautaro);121110;11;7;7;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Lautaro;Hospital Dr. Abraham Godoy Peña (Lautaro);121110;12;5;12;41.67
+La Araucanía;Servicio de Salud Araucanía Sur;Loncoche;Hospital Familiar y Comunitario de Loncoche;121120;4;0;2;0.0
+La Araucanía;Servicio de Salud Araucanía Sur;Loncoche;Hospital Familiar y Comunitario de Loncoche;121120;5;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Loncoche;Hospital Familiar y Comunitario de Loncoche;121120;6;0;1;0.0
+La Araucanía;Servicio de Salud Araucanía Sur;Loncoche;Hospital Familiar y Comunitario de Loncoche;121120;8;0;1;0.0
+La Araucanía;Servicio de Salud Araucanía Sur;Loncoche;Hospital Familiar y Comunitario de Loncoche;121120;12;0;2;0.0
+La Araucanía;Servicio de Salud Araucanía Sur;Nueva Imperial;Hospital Intercultural de Nueva Imperial;121114;1;12;12;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Nueva Imperial;Hospital Intercultural de Nueva Imperial;121114;2;15;15;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Nueva Imperial;Hospital Intercultural de Nueva Imperial;121114;3;15;16;93.75
+La Araucanía;Servicio de Salud Araucanía Sur;Nueva Imperial;Hospital Intercultural de Nueva Imperial;121114;4;9;8;112.5
+La Araucanía;Servicio de Salud Araucanía Sur;Nueva Imperial;Hospital Intercultural de Nueva Imperial;121114;5;15;15;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Nueva Imperial;Hospital Intercultural de Nueva Imperial;121114;6;17;17;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Nueva Imperial;Hospital Intercultural de Nueva Imperial;121114;7;10;10;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Nueva Imperial;Hospital Intercultural de Nueva Imperial;121114;8;14;14;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Nueva Imperial;Hospital Intercultural de Nueva Imperial;121114;9;12;14;85.71
+La Araucanía;Servicio de Salud Araucanía Sur;Nueva Imperial;Hospital Intercultural de Nueva Imperial;121114;10;14;18;77.78
+La Araucanía;Servicio de Salud Araucanía Sur;Nueva Imperial;Hospital Intercultural de Nueva Imperial;121114;11;11;12;91.67
+La Araucanía;Servicio de Salud Araucanía Sur;Nueva Imperial;Hospital Intercultural de Nueva Imperial;121114;12;12;12;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Pitrufquén;Hospital de Pitrufquén;121117;1;2;4;50.0
+La Araucanía;Servicio de Salud Araucanía Sur;Pitrufquén;Hospital de Pitrufquén;121117;2;8;8;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Pitrufquén;Hospital de Pitrufquén;121117;3;8;8;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Pitrufquén;Hospital de Pitrufquén;121117;4;5;5;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Pitrufquén;Hospital de Pitrufquén;121117;5;12;12;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Pitrufquén;Hospital de Pitrufquén;121117;6;8;8;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Pitrufquén;Hospital de Pitrufquén;121117;7;9;18;50.0
+La Araucanía;Servicio de Salud Araucanía Sur;Pitrufquén;Hospital de Pitrufquén;121117;8;3;3;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Pitrufquén;Hospital de Pitrufquén;121117;9;2;3;66.67
+La Araucanía;Servicio de Salud Araucanía Sur;Pitrufquén;Hospital de Pitrufquén;121117;10;5;5;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Pitrufquén;Hospital de Pitrufquén;121117;12;3;3;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Pucón;Hospital San Francisco de Pucón (D);121200;1;3;4;75.0
+La Araucanía;Servicio de Salud Araucanía Sur;Pucón;Hospital San Francisco de Pucón (D);121200;2;5;5;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Pucón;Hospital San Francisco de Pucón (D);121200;3;2;2;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Pucón;Hospital San Francisco de Pucón (D);121200;4;5;5;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Pucón;Hospital San Francisco de Pucón (D);121200;5;2;2;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Pucón;Hospital San Francisco de Pucón (D);121200;6;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Pucón;Hospital San Francisco de Pucón (D);121200;7;3;3;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Pucón;Hospital San Francisco de Pucón (D);121200;8;4;4;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Pucón;Hospital San Francisco de Pucón (D);121200;9;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Pucón;Hospital San Francisco de Pucón (D);121200;10;2;2;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Pucón;Hospital San Francisco de Pucón (D);121200;11;5;5;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Pucón;Hospital San Francisco de Pucón (D);121200;12;4;4;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Saavedra;Hospital Dr. Arturo Hillerns Larrañaga (Saavedra);121116;1;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Saavedra;Hospital Dr. Arturo Hillerns Larrañaga (Saavedra);121116;3;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Saavedra;Hospital Dr. Arturo Hillerns Larrañaga (Saavedra);121116;4;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Saavedra;Hospital Dr. Arturo Hillerns Larrañaga (Saavedra);121116;9;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Temuco;Hospital Dr. Hernán Henríquez Aravena (Temuco);121109;1;122;328;37.2
+La Araucanía;Servicio de Salud Araucanía Sur;Temuco;Hospital Dr. Hernán Henríquez Aravena (Temuco);121109;2;86;271;31.73
+La Araucanía;Servicio de Salud Araucanía Sur;Temuco;Hospital Dr. Hernán Henríquez Aravena (Temuco);121109;3;266;315;84.44
+La Araucanía;Servicio de Salud Araucanía Sur;Temuco;Hospital Dr. Hernán Henríquez Aravena (Temuco);121109;4;271;333;81.38
+La Araucanía;Servicio de Salud Araucanía Sur;Temuco;Hospital Dr. Hernán Henríquez Aravena (Temuco);121109;5;277;308;89.94
+La Araucanía;Servicio de Salud Araucanía Sur;Temuco;Hospital Dr. Hernán Henríquez Aravena (Temuco);121109;6;232;273;84.98
+La Araucanía;Servicio de Salud Araucanía Sur;Temuco;Hospital Dr. Hernán Henríquez Aravena (Temuco);121109;7;245;287;85.37
+La Araucanía;Servicio de Salud Araucanía Sur;Temuco;Hospital Dr. Hernán Henríquez Aravena (Temuco);121109;8;240;287;83.62
+La Araucanía;Servicio de Salud Araucanía Sur;Temuco;Hospital Dr. Hernán Henríquez Aravena (Temuco);121109;9;270;314;85.99
+La Araucanía;Servicio de Salud Araucanía Sur;Temuco;Hospital Dr. Hernán Henríquez Aravena (Temuco);121109;10;264;318;83.02
+La Araucanía;Servicio de Salud Araucanía Sur;Temuco;Hospital Dr. Hernán Henríquez Aravena (Temuco);121109;11;243;291;83.51
+La Araucanía;Servicio de Salud Araucanía Sur;Temuco;Hospital Dr. Hernán Henríquez Aravena (Temuco);121109;12;265;299;88.63
+La Araucanía;Servicio de Salud Araucanía Sur;Toltén;Hospital de Toltén;121118;2;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Toltén;Hospital de Toltén;121118;6;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Vilcún;Hospital de Vilcún;121112;9;1;1;100.0
+La Araucanía;Servicio de Salud Araucanía Sur;Villarrica;Hospital de Villarrica;121121;1;62;64;96.88
+La Araucanía;Servicio de Salud Araucanía Sur;Villarrica;Hospital de Villarrica;121121;2;68;77;88.31
+La Araucanía;Servicio de Salud Araucanía Sur;Villarrica;Hospital de Villarrica;121121;3;80;82;97.56
+La Araucanía;Servicio de Salud Araucanía Sur;Villarrica;Hospital de Villarrica;121121;4;78;84;92.86
+La Araucanía;Servicio de Salud Araucanía Sur;Villarrica;Hospital de Villarrica;121121;5;73;76;96.05
+La Araucanía;Servicio de Salud Araucanía Sur;Villarrica;Hospital de Villarrica;121121;6;51;54;94.44
+La Araucanía;Servicio de Salud Araucanía Sur;Villarrica;Hospital de Villarrica;121121;7;66;67;98.51
+La Araucanía;Servicio de Salud Araucanía Sur;Villarrica;Hospital de Villarrica;121121;8;78;81;96.3
+La Araucanía;Servicio de Salud Araucanía Sur;Villarrica;Hospital de Villarrica;121121;9;64;67;95.52
+La Araucanía;Servicio de Salud Araucanía Sur;Villarrica;Hospital de Villarrica;121121;10;81;84;96.43
+La Araucanía;Servicio de Salud Araucanía Sur;Villarrica;Hospital de Villarrica;121121;11;83;84;98.81
+La Araucanía;Servicio de Salud Araucanía Sur;Villarrica;Hospital de Villarrica;121121;12;84;86;97.67
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Graneros;Hospital Santa Filomena de Graneros;115101;4;0;1;0.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Graneros;Hospital Santa Filomena de Graneros;115101;5;0;1;0.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Litueche;Hospital de Litueche;115114;2;1;1;100.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Lolol;Hospital de Lolol;115113;11;1;1;100.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Lolol;Hospital de Lolol;115113;12;0;1;0.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Nancagua;Hospital de Nancagua;115109;11;0;1;0.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Nancagua;Hospital de Nancagua;115109;12;0;2;0.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Peumo;Hospital Del Salvador de Peumo;115103;2;4;5;80.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Peumo;Hospital Del Salvador de Peumo;115103;4;0;1;0.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Peumo;Hospital Del Salvador de Peumo;115103;6;1;1;100.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Peumo;Hospital Del Salvador de Peumo;115103;8;1;1;100.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Peumo;Hospital Del Salvador de Peumo;115103;9;1;1;100.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Peumo;Hospital Del Salvador de Peumo;115103;10;1;1;100.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Peumo;Hospital Del Salvador de Peumo;115103;11;1;1;100.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Pichidegua;Hospital de Pichidegua;115106;4;1;3;33.33
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Pichilemu;Hospital de Pichilemu;115112;10;0;1;0.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Pichilemu;Hospital de Pichilemu;115112;11;0;1;0.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Rancagua;Hospital Dr. Franco Ravera Zunino;115100;1;131;156;83.97
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Rancagua;Hospital Dr. Franco Ravera Zunino;115100;2;125;157;79.62
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Rancagua;Hospital Dr. Franco Ravera Zunino;115100;3;145;167;86.83
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Rancagua;Hospital Dr. Franco Ravera Zunino;115100;4;138;184;75.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Rancagua;Hospital Dr. Franco Ravera Zunino;115100;5;118;157;75.16
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Rancagua;Hospital Dr. Franco Ravera Zunino;115100;6;167;186;89.78
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Rancagua;Hospital Dr. Franco Ravera Zunino;115100;7;153;183;83.61
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Rancagua;Hospital Dr. Franco Ravera Zunino;115100;8;158;185;85.41
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Rancagua;Hospital Dr. Franco Ravera Zunino;115100;9;169;213;79.34
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Rancagua;Hospital Dr. Franco Ravera Zunino;115100;10;130;170;76.47
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Rancagua;Hospital Dr. Franco Ravera Zunino;115100;11;140;168;83.33
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Rancagua;Hospital Dr. Franco Ravera Zunino;115100;12;163;199;81.91
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Rengo;Hospital Dr. Ricardo Valenzuela Sáez (Rengo);115104;1;66;92;71.74
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Rengo;Hospital Dr. Ricardo Valenzuela Sáez (Rengo);115104;2;35;76;46.05
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Rengo;Hospital Dr. Ricardo Valenzuela Sáez (Rengo);115104;3;89;97;91.75
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Rengo;Hospital Dr. Ricardo Valenzuela Sáez (Rengo);115104;4;57;68;83.82
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Rengo;Hospital Dr. Ricardo Valenzuela Sáez (Rengo);115104;5;75;93;80.65
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Rengo;Hospital Dr. Ricardo Valenzuela Sáez (Rengo);115104;6;49;55;89.09
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Rengo;Hospital Dr. Ricardo Valenzuela Sáez (Rengo);115104;7;73;79;92.41
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Rengo;Hospital Dr. Ricardo Valenzuela Sáez (Rengo);115104;8;64;71;90.14
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Rengo;Hospital Dr. Ricardo Valenzuela Sáez (Rengo);115104;9;84;96;87.5
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Rengo;Hospital Dr. Ricardo Valenzuela Sáez (Rengo);115104;10;67;79;84.81
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Rengo;Hospital Dr. Ricardo Valenzuela Sáez (Rengo);115104;11;57;68;83.82
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Rengo;Hospital Dr. Ricardo Valenzuela Sáez (Rengo);115104;12;76;83;91.57
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;San Fernando;Centro Comunitario de Salud Familiar Angostura;200491;3;1;1;100.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;San Fernando;Hospital San Juan de Dios de San Fernando;115107;1;65;69;94.2
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;San Fernando;Hospital San Juan de Dios de San Fernando;115107;2;47;52;90.38
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;San Fernando;Hospital San Juan de Dios de San Fernando;115107;3;59;64;92.19
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;San Fernando;Hospital San Juan de Dios de San Fernando;115107;4;71;75;94.67
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;San Fernando;Hospital San Juan de Dios de San Fernando;115107;5;67;75;89.33
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;San Fernando;Hospital San Juan de Dios de San Fernando;115107;6;56;61;91.8
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;San Fernando;Hospital San Juan de Dios de San Fernando;115107;7;49;52;94.23
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;San Fernando;Hospital San Juan de Dios de San Fernando;115107;8;52;58;89.66
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;San Fernando;Hospital San Juan de Dios de San Fernando;115107;9;65;66;98.48
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;San Fernando;Hospital San Juan de Dios de San Fernando;115107;10;54;58;93.1
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;San Fernando;Hospital San Juan de Dios de San Fernando;115107;11;72;75;96.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;San Fernando;Hospital San Juan de Dios de San Fernando;115107;12;78;85;91.76
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;San Vicente;Hospital San Vicente de Tagua -Tagua;115105;1;2;2;100.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;San Vicente;Hospital San Vicente de Tagua -Tagua;115105;3;5;5;100.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;San Vicente;Hospital San Vicente de Tagua -Tagua;115105;4;4;6;66.67
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;San Vicente;Hospital San Vicente de Tagua -Tagua;115105;5;5;6;83.33
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;San Vicente;Hospital San Vicente de Tagua -Tagua;115105;6;5;5;100.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;San Vicente;Hospital San Vicente de Tagua -Tagua;115105;7;6;6;100.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;San Vicente;Hospital San Vicente de Tagua -Tagua;115105;8;4;4;100.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;San Vicente;Hospital San Vicente de Tagua -Tagua;115105;9;2;4;50.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;San Vicente;Hospital San Vicente de Tagua -Tagua;115105;10;2;2;100.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;San Vicente;Hospital San Vicente de Tagua -Tagua;115105;11;1;1;100.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;San Vicente;Hospital San Vicente de Tagua -Tagua;115105;12;1;1;100.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Santa Cruz;Hospital de Santa Cruz;115110;1;61;67;91.04
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Santa Cruz;Hospital de Santa Cruz;115110;2;65;67;97.01
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Santa Cruz;Hospital de Santa Cruz;115110;3;47;51;92.16
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Santa Cruz;Hospital de Santa Cruz;115110;4;61;74;82.43
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Santa Cruz;Hospital de Santa Cruz;115110;5;61;65;93.85
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Santa Cruz;Hospital de Santa Cruz;115110;6;50;61;81.97
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Santa Cruz;Hospital de Santa Cruz;115110;7;56;59;94.92
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Santa Cruz;Hospital de Santa Cruz;115110;8;45;45;100.0
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Santa Cruz;Hospital de Santa Cruz;115110;9;61;63;96.83
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Santa Cruz;Hospital de Santa Cruz;115110;10;49;59;83.05
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Santa Cruz;Hospital de Santa Cruz;115110;11;54;55;98.18
+Libertador Gral. B. O'Higgins;Servicio de Salud Del Libertador B.O'Higgins;Santa Cruz;Hospital de Santa Cruz;115110;12;56;59;94.92
+Los Lagos;Servicio de Salud Chiloé;Ancud;Hospital de Ancud;133155;1;7;22;31.82
+Los Lagos;Servicio de Salud Chiloé;Ancud;Hospital de Ancud;133155;2;11;19;57.89
+Los Lagos;Servicio de Salud Chiloé;Ancud;Hospital de Ancud;133155;3;18;19;94.74
+Los Lagos;Servicio de Salud Chiloé;Ancud;Hospital de Ancud;133155;4;13;13;100.0
+Los Lagos;Servicio de Salud Chiloé;Ancud;Hospital de Ancud;133155;5;21;22;95.45
+Los Lagos;Servicio de Salud Chiloé;Ancud;Hospital de Ancud;133155;6;19;22;86.36
+Los Lagos;Servicio de Salud Chiloé;Ancud;Hospital de Ancud;133155;7;14;15;93.33
+Los Lagos;Servicio de Salud Chiloé;Ancud;Hospital de Ancud;133155;8;19;19;100.0
+Los Lagos;Servicio de Salud Chiloé;Ancud;Hospital de Ancud;133155;9;28;28;100.0
+Los Lagos;Servicio de Salud Chiloé;Ancud;Hospital de Ancud;133155;10;19;19;100.0
+Los Lagos;Servicio de Salud Chiloé;Ancud;Hospital de Ancud;133155;11;16;16;100.0
+Los Lagos;Servicio de Salud Chiloé;Ancud;Hospital de Ancud;133155;12;23;24;95.83
+Los Lagos;Servicio de Salud Chiloé;Castro;Hospital de Castro;133150;1;62;63;98.41
+Los Lagos;Servicio de Salud Chiloé;Castro;Hospital de Castro;133150;2;60;64;93.75
+Los Lagos;Servicio de Salud Chiloé;Castro;Hospital de Castro;133150;3;51;53;96.23
+Los Lagos;Servicio de Salud Chiloé;Castro;Hospital de Castro;133150;4;62;64;96.88
+Los Lagos;Servicio de Salud Chiloé;Castro;Hospital de Castro;133150;5;67;70;95.71
+Los Lagos;Servicio de Salud Chiloé;Castro;Hospital de Castro;133150;6;52;53;98.11
+Los Lagos;Servicio de Salud Chiloé;Castro;Hospital de Castro;133150;7;67;68;98.53
+Los Lagos;Servicio de Salud Chiloé;Castro;Hospital de Castro;133150;8;66;66;100.0
+Los Lagos;Servicio de Salud Chiloé;Castro;Hospital de Castro;133150;9;59;59;100.0
+Los Lagos;Servicio de Salud Chiloé;Castro;Hospital de Castro;133150;10;29;67;43.28
+Los Lagos;Servicio de Salud Chiloé;Castro;Hospital de Castro;133150;11;62;67;92.54
+Los Lagos;Servicio de Salud Chiloé;Castro;Hospital de Castro;133150;12;61;63;96.83
+Los Lagos;Servicio de Salud Chiloé;Quellón;Hospital de Quellón;133165;1;11;16;68.75
+Los Lagos;Servicio de Salud Chiloé;Quellón;Hospital de Quellón;133165;2;10;10;100.0
+Los Lagos;Servicio de Salud Chiloé;Quellón;Hospital de Quellón;133165;3;16;18;88.89
+Los Lagos;Servicio de Salud Chiloé;Quellón;Hospital de Quellón;133165;4;13;13;100.0
+Los Lagos;Servicio de Salud Chiloé;Quellón;Hospital de Quellón;133165;5;22;23;95.65
+Los Lagos;Servicio de Salud Chiloé;Quellón;Hospital de Quellón;133165;6;14;15;93.33
+Los Lagos;Servicio de Salud Chiloé;Quellón;Hospital de Quellón;133165;7;18;19;94.74
+Los Lagos;Servicio de Salud Chiloé;Quellón;Hospital de Quellón;133165;8;16;16;100.0
+Los Lagos;Servicio de Salud Chiloé;Quellón;Hospital de Quellón;133165;9;18;18;100.0
+Los Lagos;Servicio de Salud Chiloé;Quellón;Hospital de Quellón;133165;10;16;21;76.19
+Los Lagos;Servicio de Salud Chiloé;Quellón;Hospital de Quellón;133165;11;14;15;93.33
+Los Lagos;Servicio de Salud Chiloé;Quellón;Hospital de Quellón;133165;12;14;15;93.33
+Los Lagos;Servicio de Salud Chiloé;Quinchao;Hospital Comunitario de Achao;133160;2;0;1;0.0
+Los Lagos;Servicio de Salud Del Reloncaví;Calbuco;Hospital de Calbuco;124130;1;0;1;0.0
+Los Lagos;Servicio de Salud Del Reloncaví;Calbuco;Hospital de Calbuco;124130;4;0;1;0.0
+Los Lagos;Servicio de Salud Del Reloncaví;Calbuco;Hospital de Calbuco;124130;5;0;1;0.0
+Los Lagos;Servicio de Salud Del Reloncaví;Calbuco;Hospital de Calbuco;124130;6;0;1;0.0
+Los Lagos;Servicio de Salud Del Reloncaví;Calbuco;Hospital de Calbuco;124130;8;0;1;0.0
+Los Lagos;Servicio de Salud Del Reloncaví;Calbuco;Hospital de Calbuco;124130;9;1;1;100.0
+Los Lagos;Servicio de Salud Del Reloncaví;Frutillar;Hospital de Frutillar;124115;4;0;1;0.0
+Los Lagos;Servicio de Salud Del Reloncaví;Frutillar;Hospital de Frutillar;124115;12;1;0;
+Los Lagos;Servicio de Salud Del Reloncaví;Futaleufú;Hospital de Futaleufú;124145;6;1;1;100.0
+Los Lagos;Servicio de Salud Del Reloncaví;Futaleufú;Hospital de Futaleufú;124145;8;1;1;100.0
+Los Lagos;Servicio de Salud Del Reloncaví;Futaleufú;Hospital de Futaleufú;124145;12;1;1;100.0
+Los Lagos;Servicio de Salud Del Reloncaví;Puerto Montt;Hospital de Puerto Montt;124105;1;229;240;95.42
+Los Lagos;Servicio de Salud Del Reloncaví;Puerto Montt;Hospital de Puerto Montt;124105;2;228;214;106.54
+Los Lagos;Servicio de Salud Del Reloncaví;Puerto Montt;Hospital de Puerto Montt;124105;3;211;222;95.05
+Los Lagos;Servicio de Salud Del Reloncaví;Puerto Montt;Hospital de Puerto Montt;124105;4;236;245;96.33
+Los Lagos;Servicio de Salud Del Reloncaví;Puerto Montt;Hospital de Puerto Montt;124105;5;234;237;98.73
+Los Lagos;Servicio de Salud Del Reloncaví;Puerto Montt;Hospital de Puerto Montt;124105;6;225;234;96.15
+Los Lagos;Servicio de Salud Del Reloncaví;Puerto Montt;Hospital de Puerto Montt;124105;7;223;228;97.81
+Los Lagos;Servicio de Salud Del Reloncaví;Puerto Montt;Hospital de Puerto Montt;124105;8;202;210;96.19
+Los Lagos;Servicio de Salud Del Reloncaví;Puerto Montt;Hospital de Puerto Montt;124105;9;220;224;98.21
+Los Lagos;Servicio de Salud Del Reloncaví;Puerto Montt;Hospital de Puerto Montt;124105;10;220;229;96.07
+Los Lagos;Servicio de Salud Del Reloncaví;Puerto Montt;Hospital de Puerto Montt;124105;11;215;230;93.48
+Los Lagos;Servicio de Salud Del Reloncaví;Puerto Montt;Hospital de Puerto Montt;124105;12;211;226;93.36
+Los Lagos;Servicio de Salud Osorno;Osorno;Hospital Base San José de Osorno;123100;1;111;127;87.4
+Los Lagos;Servicio de Salud Osorno;Osorno;Hospital Base San José de Osorno;123100;2;61;88;69.32
+Los Lagos;Servicio de Salud Osorno;Osorno;Hospital Base San José de Osorno;123100;3;110;146;75.34
+Los Lagos;Servicio de Salud Osorno;Osorno;Hospital Base San José de Osorno;123100;4;132;143;92.31
+Los Lagos;Servicio de Salud Osorno;Osorno;Hospital Base San José de Osorno;123100;5;92;108;85.19
+Los Lagos;Servicio de Salud Osorno;Osorno;Hospital Base San José de Osorno;123100;6;100;122;81.97
+Los Lagos;Servicio de Salud Osorno;Osorno;Hospital Base San José de Osorno;123100;7;97;107;90.65
+Los Lagos;Servicio de Salud Osorno;Osorno;Hospital Base San José de Osorno;123100;8;98;125;78.4
+Los Lagos;Servicio de Salud Osorno;Osorno;Hospital Base San José de Osorno;123100;9;99;108;91.67
+Los Lagos;Servicio de Salud Osorno;Osorno;Hospital Base San José de Osorno;123100;10;146;124;117.74
+Los Lagos;Servicio de Salud Osorno;Osorno;Hospital Base San José de Osorno;123100;11;104;125;83.2
+Los Lagos;Servicio de Salud Osorno;Osorno;Hospital Base San José de Osorno;123100;12;105;120;87.5
+Los Lagos;Servicio de Salud Osorno;Purranque;Hospital de Purranque Dr. Juan Hepp Dubiau;123101;1;0;1;0.0
+Los Lagos;Servicio de Salud Osorno;Purranque;Hospital de Purranque Dr. Juan Hepp Dubiau;123101;8;1;1;100.0
+Los Ríos;Servicio de Salud Los Rios;La Unión;Hospital Juan Morey (La Unión);122104;1;5;5;100.0
+Los Ríos;Servicio de Salud Los Rios;La Unión;Hospital Juan Morey (La Unión);122104;3;7;7;100.0
+Los Ríos;Servicio de Salud Los Rios;La Unión;Hospital Juan Morey (La Unión);122104;4;10;11;90.91
+Los Ríos;Servicio de Salud Los Rios;La Unión;Hospital Juan Morey (La Unión);122104;5;2;4;50.0
+Los Ríos;Servicio de Salud Los Rios;La Unión;Hospital Juan Morey (La Unión);122104;6;4;4;100.0
+Los Ríos;Servicio de Salud Los Rios;La Unión;Hospital Juan Morey (La Unión);122104;7;6;7;85.71
+Los Ríos;Servicio de Salud Los Rios;La Unión;Hospital Juan Morey (La Unión);122104;8;5;4;125.0
+Los Ríos;Servicio de Salud Los Rios;La Unión;Hospital Juan Morey (La Unión);122104;9;11;11;100.0
+Los Ríos;Servicio de Salud Los Rios;La Unión;Hospital Juan Morey (La Unión);122104;10;2;2;100.0
+Los Ríos;Servicio de Salud Los Rios;La Unión;Hospital Juan Morey (La Unión);122104;11;9;9;100.0
+Los Ríos;Servicio de Salud Los Rios;La Unión;Hospital Juan Morey (La Unión);122104;12;3;6;50.0
+Los Ríos;Servicio de Salud Los Rios;Lanco;Hospital de Lanco;122103;6;1;1;100.0
+Los Ríos;Servicio de Salud Los Rios;Lanco;Hospital de Lanco;122103;11;0;1;0.0
+Los Ríos;Servicio de Salud Los Rios;Los Lagos;Hospital de Los Lagos;122102;1;1;1;100.0
+Los Ríos;Servicio de Salud Los Rios;Los Lagos;Hospital de Los Lagos;122102;2;0;1;0.0
+Los Ríos;Servicio de Salud Los Rios;Los Lagos;Hospital de Los Lagos;122102;4;1;1;100.0
+Los Ríos;Servicio de Salud Los Rios;Los Lagos;Hospital de Los Lagos;122102;5;3;3;100.0
+Los Ríos;Servicio de Salud Los Rios;Los Lagos;Hospital de Los Lagos;122102;6;1;4;25.0
+Los Ríos;Servicio de Salud Los Rios;Los Lagos;Hospital de Los Lagos;122102;7;2;3;66.67
+Los Ríos;Servicio de Salud Los Rios;Los Lagos;Hospital de Los Lagos;122102;8;1;1;100.0
+Los Ríos;Servicio de Salud Los Rios;Los Lagos;Hospital de Los Lagos;122102;9;1;1;100.0
+Los Ríos;Servicio de Salud Los Rios;Los Lagos;Hospital de Los Lagos;122102;10;1;1;100.0
+Los Ríos;Servicio de Salud Los Rios;Mariquina;Hospital Santa Elisa de San José de la Mariquina;122200;1;4;5;80.0
+Los Ríos;Servicio de Salud Los Rios;Mariquina;Hospital Santa Elisa de San José de la Mariquina;122200;3;1;1;100.0
+Los Ríos;Servicio de Salud Los Rios;Mariquina;Hospital Santa Elisa de San José de la Mariquina;122200;4;1;1;100.0
+Los Ríos;Servicio de Salud Los Rios;Mariquina;Hospital Santa Elisa de San José de la Mariquina;122200;6;2;2;100.0
+Los Ríos;Servicio de Salud Los Rios;Mariquina;Hospital Santa Elisa de San José de la Mariquina;122200;7;2;2;100.0
+Los Ríos;Servicio de Salud Los Rios;Mariquina;Hospital Santa Elisa de San José de la Mariquina;122200;8;2;2;100.0
+Los Ríos;Servicio de Salud Los Rios;Mariquina;Hospital Santa Elisa de San José de la Mariquina;122200;9;2;2;100.0
+Los Ríos;Servicio de Salud Los Rios;Mariquina;Hospital Santa Elisa de San José de la Mariquina;122200;10;1;1;100.0
+Los Ríos;Servicio de Salud Los Rios;Mariquina;Hospital Santa Elisa de San José de la Mariquina;122200;11;1;1;100.0
+Los Ríos;Servicio de Salud Los Rios;Mariquina;Hospital Santa Elisa de San José de la Mariquina;122200;12;3;3;100.0
+Los Ríos;Servicio de Salud Los Rios;Paillaco;Hospital de Paillaco;122106;1;3;2;150.0
+Los Ríos;Servicio de Salud Los Rios;Paillaco;Hospital de Paillaco;122106;2;3;3;100.0
+Los Ríos;Servicio de Salud Los Rios;Paillaco;Hospital de Paillaco;122106;3;5;6;83.33
+Los Ríos;Servicio de Salud Los Rios;Paillaco;Hospital de Paillaco;122106;4;2;2;100.0
+Los Ríos;Servicio de Salud Los Rios;Paillaco;Hospital de Paillaco;122106;5;3;3;100.0
+Los Ríos;Servicio de Salud Los Rios;Paillaco;Hospital de Paillaco;122106;6;3;6;50.0
+Los Ríos;Servicio de Salud Los Rios;Paillaco;Hospital de Paillaco;122106;7;3;3;100.0
+Los Ríos;Servicio de Salud Los Rios;Paillaco;Hospital de Paillaco;122106;8;1;2;50.0
+Los Ríos;Servicio de Salud Los Rios;Paillaco;Hospital de Paillaco;122106;9;3;4;75.0
+Los Ríos;Servicio de Salud Los Rios;Paillaco;Hospital de Paillaco;122106;10;3;3;100.0
+Los Ríos;Servicio de Salud Los Rios;Paillaco;Hospital de Paillaco;122106;11;1;1;100.0
+Los Ríos;Servicio de Salud Los Rios;Paillaco;Hospital de Paillaco;122106;12;2;3;66.67
+Los Ríos;Servicio de Salud Los Rios;Panguipulli;Hospital de Panguipulli;122201;1;2;2;100.0
+Los Ríos;Servicio de Salud Los Rios;Panguipulli;Hospital de Panguipulli;122201;2;3;7;42.86
+Los Ríos;Servicio de Salud Los Rios;Panguipulli;Hospital de Panguipulli;122201;3;7;8;87.5
+Los Ríos;Servicio de Salud Los Rios;Panguipulli;Hospital de Panguipulli;122201;4;7;7;100.0
+Los Ríos;Servicio de Salud Los Rios;Panguipulli;Hospital de Panguipulli;122201;5;5;5;100.0
+Los Ríos;Servicio de Salud Los Rios;Panguipulli;Hospital de Panguipulli;122201;6;7;7;100.0
+Los Ríos;Servicio de Salud Los Rios;Panguipulli;Hospital de Panguipulli;122201;7;3;4;75.0
+Los Ríos;Servicio de Salud Los Rios;Panguipulli;Hospital de Panguipulli;122201;8;5;6;83.33
+Los Ríos;Servicio de Salud Los Rios;Panguipulli;Hospital de Panguipulli;122201;9;0;4;0.0
+Los Ríos;Servicio de Salud Los Rios;Panguipulli;Hospital de Panguipulli;122201;10;2;3;66.67
+Los Ríos;Servicio de Salud Los Rios;Panguipulli;Hospital de Panguipulli;122201;11;3;4;75.0
+Los Ríos;Servicio de Salud Los Rios;Panguipulli;Hospital de Panguipulli;122201;12;5;5;100.0
+Los Ríos;Servicio de Salud Los Rios;Río Bueno;Hospital de Río Bueno;122105;2;3;3;100.0
+Los Ríos;Servicio de Salud Los Rios;Río Bueno;Hospital de Río Bueno;122105;3;0;2;0.0
+Los Ríos;Servicio de Salud Los Rios;Río Bueno;Hospital de Río Bueno;122105;4;3;3;100.0
+Los Ríos;Servicio de Salud Los Rios;Río Bueno;Hospital de Río Bueno;122105;5;1;1;100.0
+Los Ríos;Servicio de Salud Los Rios;Río Bueno;Hospital de Río Bueno;122105;6;1;2;50.0
+Los Ríos;Servicio de Salud Los Rios;Río Bueno;Hospital de Río Bueno;122105;7;2;2;100.0
+Los Ríos;Servicio de Salud Los Rios;Río Bueno;Hospital de Río Bueno;122105;8;1;1;100.0
+Los Ríos;Servicio de Salud Los Rios;Río Bueno;Hospital de Río Bueno;122105;10;1;3;33.33
+Los Ríos;Servicio de Salud Los Rios;Valdivia;Hospital Base Valdivia;122100;1;90;147;61.22
+Los Ríos;Servicio de Salud Los Rios;Valdivia;Hospital Base Valdivia;122100;2;63;134;47.01
+Los Ríos;Servicio de Salud Los Rios;Valdivia;Hospital Base Valdivia;122100;3;81;139;58.27
+Los Ríos;Servicio de Salud Los Rios;Valdivia;Hospital Base Valdivia;122100;4;72;147;48.98
+Los Ríos;Servicio de Salud Los Rios;Valdivia;Hospital Base Valdivia;122100;5;121;159;76.1
+Los Ríos;Servicio de Salud Los Rios;Valdivia;Hospital Base Valdivia;122100;6;125;139;89.93
+Los Ríos;Servicio de Salud Los Rios;Valdivia;Hospital Base Valdivia;122100;7;128;137;93.43
+Los Ríos;Servicio de Salud Los Rios;Valdivia;Hospital Base Valdivia;122100;8;121;141;85.82
+Los Ríos;Servicio de Salud Los Rios;Valdivia;Hospital Base Valdivia;122100;9;67;145;46.21
+Los Ríos;Servicio de Salud Los Rios;Valdivia;Hospital Base Valdivia;122100;10;111;138;80.43
+Los Ríos;Servicio de Salud Los Rios;Valdivia;Hospital Base Valdivia;122100;11;66;130;50.77
+Los Ríos;Servicio de Salud Los Rios;Valdivia;Hospital Base Valdivia;122100;12;74;144;51.39
+Magallanes y de la Antártica Chilena;Servicio de Salud Magallanes;Natales;Hospital Dr. Augusto Essmann Burgos ( Natales);126101;1;12;12;100.0
+Magallanes y de la Antártica Chilena;Servicio de Salud Magallanes;Natales;Hospital Dr. Augusto Essmann Burgos ( Natales);126101;2;9;10;90.0
+Magallanes y de la Antártica Chilena;Servicio de Salud Magallanes;Natales;Hospital Dr. Augusto Essmann Burgos ( Natales);126101;3;12;12;100.0
+Magallanes y de la Antártica Chilena;Servicio de Salud Magallanes;Natales;Hospital Dr. Augusto Essmann Burgos ( Natales);126101;4;7;12;58.33
+Magallanes y de la Antártica Chilena;Servicio de Salud Magallanes;Natales;Hospital Dr. Augusto Essmann Burgos ( Natales);126101;5;22;23;95.65
+Magallanes y de la Antártica Chilena;Servicio de Salud Magallanes;Natales;Hospital Dr. Augusto Essmann Burgos ( Natales);126101;6;13;12;108.33
+Magallanes y de la Antártica Chilena;Servicio de Salud Magallanes;Natales;Hospital Dr. Augusto Essmann Burgos ( Natales);126101;7;11;12;91.67
+Magallanes y de la Antártica Chilena;Servicio de Salud Magallanes;Natales;Hospital Dr. Augusto Essmann Burgos ( Natales);126101;8;14;14;100.0
+Magallanes y de la Antártica Chilena;Servicio de Salud Magallanes;Natales;Hospital Dr. Augusto Essmann Burgos ( Natales);126101;9;9;9;100.0
+Magallanes y de la Antártica Chilena;Servicio de Salud Magallanes;Natales;Hospital Dr. Augusto Essmann Burgos ( Natales);126101;10;14;21;66.67
+Magallanes y de la Antártica Chilena;Servicio de Salud Magallanes;Natales;Hospital Dr. Augusto Essmann Burgos ( Natales);126101;11;21;20;105.0
+Magallanes y de la Antártica Chilena;Servicio de Salud Magallanes;Natales;Hospital Dr. Augusto Essmann Burgos ( Natales);126101;12;17;17;100.0
+Magallanes y de la Antártica Chilena;Servicio de Salud Magallanes;Porvenir;Hospital Dr. Marco Antonio Chamorro ( Porvenir);126102;7;1;2;50.0
+Magallanes y de la Antártica Chilena;Servicio de Salud Magallanes;Punta Arenas;Hospital Clínico de Magallanes Dr. Lautaro Navarro Avaria;126100;1;56;59;94.92
+Magallanes y de la Antártica Chilena;Servicio de Salud Magallanes;Punta Arenas;Hospital Clínico de Magallanes Dr. Lautaro Navarro Avaria;126100;2;66;69;95.65
+Magallanes y de la Antártica Chilena;Servicio de Salud Magallanes;Punta Arenas;Hospital Clínico de Magallanes Dr. Lautaro Navarro Avaria;126100;3;29;66;43.94
+Magallanes y de la Antártica Chilena;Servicio de Salud Magallanes;Punta Arenas;Hospital Clínico de Magallanes Dr. Lautaro Navarro Avaria;126100;4;59;65;90.77
+Magallanes y de la Antártica Chilena;Servicio de Salud Magallanes;Punta Arenas;Hospital Clínico de Magallanes Dr. Lautaro Navarro Avaria;126100;5;59;58;101.72
+Magallanes y de la Antártica Chilena;Servicio de Salud Magallanes;Punta Arenas;Hospital Clínico de Magallanes Dr. Lautaro Navarro Avaria;126100;6;63;70;90.0
+Magallanes y de la Antártica Chilena;Servicio de Salud Magallanes;Punta Arenas;Hospital Clínico de Magallanes Dr. Lautaro Navarro Avaria;126100;7;53;48;110.42
+Magallanes y de la Antártica Chilena;Servicio de Salud Magallanes;Punta Arenas;Hospital Clínico de Magallanes Dr. Lautaro Navarro Avaria;126100;8;62;58;106.9
+Magallanes y de la Antártica Chilena;Servicio de Salud Magallanes;Punta Arenas;Hospital Clínico de Magallanes Dr. Lautaro Navarro Avaria;126100;9;56;57;98.25
+Magallanes y de la Antártica Chilena;Servicio de Salud Magallanes;Punta Arenas;Hospital Clínico de Magallanes Dr. Lautaro Navarro Avaria;126100;10;53;56;94.64
+Magallanes y de la Antártica Chilena;Servicio de Salud Magallanes;Punta Arenas;Hospital Clínico de Magallanes Dr. Lautaro Navarro Avaria;126100;11;62;62;100.0
+Magallanes y de la Antártica Chilena;Servicio de Salud Magallanes;Punta Arenas;Hospital Clínico de Magallanes Dr. Lautaro Navarro Avaria;126100;12;67;64;104.69
+Maule;Servicio de Salud Del Maule;Cauquenes;Hospital San Juan de Dios (Cauquenes);116111;1;21;23;91.3
+Maule;Servicio de Salud Del Maule;Cauquenes;Hospital San Juan de Dios (Cauquenes);116111;2;13;15;86.67
+Maule;Servicio de Salud Del Maule;Cauquenes;Hospital San Juan de Dios (Cauquenes);116111;3;15;18;83.33
+Maule;Servicio de Salud Del Maule;Cauquenes;Hospital San Juan de Dios (Cauquenes);116111;4;4;22;18.18
+Maule;Servicio de Salud Del Maule;Cauquenes;Hospital San Juan de Dios (Cauquenes);116111;5;18;19;94.74
+Maule;Servicio de Salud Del Maule;Cauquenes;Hospital San Juan de Dios (Cauquenes);116111;6;17;17;100.0
+Maule;Servicio de Salud Del Maule;Cauquenes;Hospital San Juan de Dios (Cauquenes);116111;7;16;16;100.0
+Maule;Servicio de Salud Del Maule;Cauquenes;Hospital San Juan de Dios (Cauquenes);116111;8;9;9;100.0
+Maule;Servicio de Salud Del Maule;Cauquenes;Hospital San Juan de Dios (Cauquenes);116111;9;18;18;100.0
+Maule;Servicio de Salud Del Maule;Cauquenes;Hospital San Juan de Dios (Cauquenes);116111;10;10;11;90.91
+Maule;Servicio de Salud Del Maule;Cauquenes;Hospital San Juan de Dios (Cauquenes);116111;11;9;9;100.0
+Maule;Servicio de Salud Del Maule;Cauquenes;Hospital San Juan de Dios (Cauquenes);116111;12;10;11;90.91
+Maule;Servicio de Salud Del Maule;Constitución;Hospital de Constitución;116107;1;4;4;100.0
+Maule;Servicio de Salud Del Maule;Constitución;Hospital de Constitución;116107;2;6;10;60.0
+Maule;Servicio de Salud Del Maule;Constitución;Hospital de Constitución;116107;3;4;5;80.0
+Maule;Servicio de Salud Del Maule;Constitución;Hospital de Constitución;116107;4;8;9;88.89
+Maule;Servicio de Salud Del Maule;Constitución;Hospital de Constitución;116107;5;4;5;80.0
+Maule;Servicio de Salud Del Maule;Constitución;Hospital de Constitución;116107;6;1;1;100.0
+Maule;Servicio de Salud Del Maule;Constitución;Hospital de Constitución;116107;7;5;5;100.0
+Maule;Servicio de Salud Del Maule;Constitución;Hospital de Constitución;116107;8;2;6;33.33
+Maule;Servicio de Salud Del Maule;Constitución;Hospital de Constitución;116107;9;2;2;100.0
+Maule;Servicio de Salud Del Maule;Constitución;Hospital de Constitución;116107;10;2;2;100.0
+Maule;Servicio de Salud Del Maule;Constitución;Hospital de Constitución;116107;11;5;6;83.33
+Maule;Servicio de Salud Del Maule;Constitución;Hospital de Constitución;116107;12;4;4;100.0
+Maule;Servicio de Salud Del Maule;Curicó;Hospital San Juan de Dios (Curicó);116100;1;159;166;95.78
+Maule;Servicio de Salud Del Maule;Curicó;Hospital San Juan de Dios (Curicó);116100;2;146;156;93.59
+Maule;Servicio de Salud Del Maule;Curicó;Hospital San Juan de Dios (Curicó);116100;3;152;163;93.25
+Maule;Servicio de Salud Del Maule;Curicó;Hospital San Juan de Dios (Curicó);116100;4;161;168;95.83
+Maule;Servicio de Salud Del Maule;Curicó;Hospital San Juan de Dios (Curicó);116100;5;144;155;92.9
+Maule;Servicio de Salud Del Maule;Curicó;Hospital San Juan de Dios (Curicó);116100;6;155;163;95.09
+Maule;Servicio de Salud Del Maule;Curicó;Hospital San Juan de Dios (Curicó);116100;7;184;195;94.36
+Maule;Servicio de Salud Del Maule;Curicó;Hospital San Juan de Dios (Curicó);116100;8;150;167;89.82
+Maule;Servicio de Salud Del Maule;Curicó;Hospital San Juan de Dios (Curicó);116100;9;163;174;93.68
+Maule;Servicio de Salud Del Maule;Curicó;Hospital San Juan de Dios (Curicó);116100;10;185;191;96.86
+Maule;Servicio de Salud Del Maule;Curicó;Hospital San Juan de Dios (Curicó);116100;11;163;170;95.88
+Maule;Servicio de Salud Del Maule;Curicó;Hospital San Juan de Dios (Curicó);116100;12;184;194;94.85
+Maule;Servicio de Salud Del Maule;Licantén;Hospital de Licantén;116104;8;0;1;0.0
+Maule;Servicio de Salud Del Maule;Licantén;Hospital de Licantén;116104;10;0;2;0.0
+Maule;Servicio de Salud Del Maule;Linares;Hospital Presidente Carlos Ibáñez del Campo (Linares);116108;1;110;139;79.14
+Maule;Servicio de Salud Del Maule;Linares;Hospital Presidente Carlos Ibáñez del Campo (Linares);116108;2;90;113;79.65
+Maule;Servicio de Salud Del Maule;Linares;Hospital Presidente Carlos Ibáñez del Campo (Linares);116108;3;112;127;88.19
+Maule;Servicio de Salud Del Maule;Linares;Hospital Presidente Carlos Ibáñez del Campo (Linares);116108;4;79;113;69.91
+Maule;Servicio de Salud Del Maule;Linares;Hospital Presidente Carlos Ibáñez del Campo (Linares);116108;5;104;123;84.55
+Maule;Servicio de Salud Del Maule;Linares;Hospital Presidente Carlos Ibáñez del Campo (Linares);116108;6;98;125;78.4
+Maule;Servicio de Salud Del Maule;Linares;Hospital Presidente Carlos Ibáñez del Campo (Linares);116108;7;80;108;74.07
+Maule;Servicio de Salud Del Maule;Linares;Hospital Presidente Carlos Ibáñez del Campo (Linares);116108;8;88;107;82.24
+Maule;Servicio de Salud Del Maule;Linares;Hospital Presidente Carlos Ibáñez del Campo (Linares);116108;9;125;129;96.9
+Maule;Servicio de Salud Del Maule;Linares;Hospital Presidente Carlos Ibáñez del Campo (Linares);116108;10;101;132;76.52
+Maule;Servicio de Salud Del Maule;Linares;Hospital Presidente Carlos Ibáñez del Campo (Linares);116108;11;92;123;74.8
+Maule;Servicio de Salud Del Maule;Linares;Hospital Presidente Carlos Ibáñez del Campo (Linares);116108;12;74;98;75.51
+Maule;Servicio de Salud Del Maule;Parral;Hospital San José (Parral);116110;1;9;10;90.0
+Maule;Servicio de Salud Del Maule;Parral;Hospital San José (Parral);116110;2;12;13;92.31
+Maule;Servicio de Salud Del Maule;Parral;Hospital San José (Parral);116110;3;1;11;9.09
+Maule;Servicio de Salud Del Maule;Parral;Hospital San José (Parral);116110;4;11;12;91.67
+Maule;Servicio de Salud Del Maule;Parral;Hospital San José (Parral);116110;5;9;9;100.0
+Maule;Servicio de Salud Del Maule;Parral;Hospital San José (Parral);116110;6;8;8;100.0
+Maule;Servicio de Salud Del Maule;Parral;Hospital San José (Parral);116110;7;7;7;100.0
+Maule;Servicio de Salud Del Maule;Parral;Hospital San José (Parral);116110;8;7;9;77.78
+Maule;Servicio de Salud Del Maule;Parral;Hospital San José (Parral);116110;9;0;13;0.0
+Maule;Servicio de Salud Del Maule;Parral;Hospital San José (Parral);116110;10;0;3;0.0
+Maule;Servicio de Salud Del Maule;Parral;Hospital San José (Parral);116110;11;0;6;0.0
+Maule;Servicio de Salud Del Maule;Parral;Hospital San José (Parral);116110;12;7;7;100.0
+Maule;Servicio de Salud Del Maule;San Javier;Hospital Dr. Abel Fuentealba Lagos de San Javier;116109;1;10;10;100.0
+Maule;Servicio de Salud Del Maule;San Javier;Hospital Dr. Abel Fuentealba Lagos de San Javier;116109;2;3;3;100.0
+Maule;Servicio de Salud Del Maule;San Javier;Hospital Dr. Abel Fuentealba Lagos de San Javier;116109;3;0;6;0.0
+Maule;Servicio de Salud Del Maule;San Javier;Hospital Dr. Abel Fuentealba Lagos de San Javier;116109;4;9;10;90.0
+Maule;Servicio de Salud Del Maule;San Javier;Hospital Dr. Abel Fuentealba Lagos de San Javier;116109;5;3;3;100.0
+Maule;Servicio de Salud Del Maule;San Javier;Hospital Dr. Abel Fuentealba Lagos de San Javier;116109;6;14;14;100.0
+Maule;Servicio de Salud Del Maule;San Javier;Hospital Dr. Abel Fuentealba Lagos de San Javier;116109;7;3;16;18.75
+Maule;Servicio de Salud Del Maule;San Javier;Hospital Dr. Abel Fuentealba Lagos de San Javier;116109;8;14;14;100.0
+Maule;Servicio de Salud Del Maule;San Javier;Hospital Dr. Abel Fuentealba Lagos de San Javier;116109;9;6;6;100.0
+Maule;Servicio de Salud Del Maule;San Javier;Hospital Dr. Abel Fuentealba Lagos de San Javier;116109;10;5;7;71.43
+Maule;Servicio de Salud Del Maule;San Javier;Hospital Dr. Abel Fuentealba Lagos de San Javier;116109;11;5;5;100.0
+Maule;Servicio de Salud Del Maule;San Javier;Hospital Dr. Abel Fuentealba Lagos de San Javier;116109;12;6;6;100.0
+Maule;Servicio de Salud Del Maule;Talca;Hospital Dr. César Garavagno Burotto (Talca);116105;1;292;317;92.11
+Maule;Servicio de Salud Del Maule;Talca;Hospital Dr. César Garavagno Burotto (Talca);116105;2;267;288;92.71
+Maule;Servicio de Salud Del Maule;Talca;Hospital Dr. César Garavagno Burotto (Talca);116105;3;281;305;92.13
+Maule;Servicio de Salud Del Maule;Talca;Hospital Dr. César Garavagno Burotto (Talca);116105;4;277;306;90.52
+Maule;Servicio de Salud Del Maule;Talca;Hospital Dr. César Garavagno Burotto (Talca);116105;5;253;285;88.77
+Maule;Servicio de Salud Del Maule;Talca;Hospital Dr. César Garavagno Burotto (Talca);116105;6;269;290;92.76
+Maule;Servicio de Salud Del Maule;Talca;Hospital Dr. César Garavagno Burotto (Talca);116105;7;267;295;90.51
+Maule;Servicio de Salud Del Maule;Talca;Hospital Dr. César Garavagno Burotto (Talca);116105;8;283;307;92.18
+Maule;Servicio de Salud Del Maule;Talca;Hospital Dr. César Garavagno Burotto (Talca);116105;9;298;323;92.26
+Maule;Servicio de Salud Del Maule;Talca;Hospital Dr. César Garavagno Burotto (Talca);116105;10;279;307;90.88
+Maule;Servicio de Salud Del Maule;Talca;Hospital Dr. César Garavagno Burotto (Talca);116105;11;263;289;91.0
+Maule;Servicio de Salud Del Maule;Talca;Hospital Dr. César Garavagno Burotto (Talca);116105;12;278;303;91.75
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada;111101;1;211;217;97.24
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada;111101;2;176;183;96.17
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada;111101;3;203;211;96.21
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada;111101;4;208;219;94.98
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada;111101;5;178;191;93.19
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada;111101;6;175;186;94.09
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada;111101;7;186;197;94.42
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada;111101;8;157;162;96.91
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada;111101;9;196;204;96.08
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada;111101;10;167;177;94.35
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada;111101;11;165;175;94.29
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;Hospital Clínico Metropolitano El Carmen Doctor Luis Valentín Ferrada;111101;12;175;183;95.63
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Santiago;Hospital Clínico San Borja Arriarán;111100;1;229;270;84.81
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Santiago;Hospital Clínico San Borja Arriarán;111100;2;233;251;92.83
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Santiago;Hospital Clínico San Borja Arriarán;111100;3;230;246;93.5
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Santiago;Hospital Clínico San Borja Arriarán;111100;4;210;266;78.95
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Santiago;Hospital Clínico San Borja Arriarán;111100;5;251;271;92.62
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Santiago;Hospital Clínico San Borja Arriarán;111100;6;211;224;94.2
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Santiago;Hospital Clínico San Borja Arriarán;111100;7;235;249;94.38
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Santiago;Hospital Clínico San Borja Arriarán;111100;8;219;227;96.48
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Santiago;Hospital Clínico San Borja Arriarán;111100;9;214;235;91.06
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Santiago;Hospital Clínico San Borja Arriarán;111100;10;248;259;95.75
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Santiago;Hospital Clínico San Borja Arriarán;111100;11;245;262;93.51
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Santiago;Hospital Clínico San Borja Arriarán;111100;12;239;268;89.18
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Colina;SAPU Esmeralda;200955;5;1;0;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Colina;SAPU Esmeralda;200955;12;0;1;0.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Colina;SAR Colina;109810;3;0;1;0.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Independencia;Complejo Hospitalario San José (Santiago, Independencia);109100;1;344;412;83.5
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Independencia;Complejo Hospitalario San José (Santiago, Independencia);109100;2;331;399;82.96
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Independencia;Complejo Hospitalario San José (Santiago, Independencia);109100;3;319;387;82.43
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Independencia;Complejo Hospitalario San José (Santiago, Independencia);109100;4;360;421;85.51
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Independencia;Complejo Hospitalario San José (Santiago, Independencia);109100;5;333;398;83.67
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Independencia;Complejo Hospitalario San José (Santiago, Independencia);109100;6;339;366;92.62
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Independencia;Complejo Hospitalario San José (Santiago, Independencia);109100;7;335;357;93.84
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Independencia;Complejo Hospitalario San José (Santiago, Independencia);109100;8;145;370;39.19
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Independencia;Complejo Hospitalario San José (Santiago, Independencia);109100;9;284;307;92.51
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Independencia;Complejo Hospitalario San José (Santiago, Independencia);109100;10;320;344;93.02
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Independencia;Complejo Hospitalario San José (Santiago, Independencia);109100;11;313;344;90.99
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Independencia;Complejo Hospitalario San José (Santiago, Independencia);109100;12;351;375;93.6
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Cerro Navia;Hospital  Félix Bulnes Cerda;110120;1;126;232;54.31
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Cerro Navia;Hospital  Félix Bulnes Cerda;110120;2;201;209;96.17
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Cerro Navia;Hospital  Félix Bulnes Cerda;110120;3;233;251;92.83
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Cerro Navia;Hospital  Félix Bulnes Cerda;110120;4;206;213;96.71
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Cerro Navia;Hospital  Félix Bulnes Cerda;110120;5;225;230;97.83
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Cerro Navia;Hospital  Félix Bulnes Cerda;110120;6;195;203;96.06
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Cerro Navia;Hospital  Félix Bulnes Cerda;110120;7;201;209;96.17
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Cerro Navia;Hospital  Félix Bulnes Cerda;110120;8;188;195;96.41
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Cerro Navia;Hospital  Félix Bulnes Cerda;110120;9;206;212;97.17
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Cerro Navia;Hospital  Félix Bulnes Cerda;110120;10;106;222;47.75
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Cerro Navia;Hospital  Félix Bulnes Cerda;110120;11;190;211;90.05
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Cerro Navia;Hospital  Félix Bulnes Cerda;110120;12;219;234;93.59
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Curacaví;Hospital de Curacaví;110160;4;0;1;0.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Melipilla;Hospital San José (Melipilla);110150;1;100;110;90.91
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Melipilla;Hospital San José (Melipilla);110150;2;116;130;89.23
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Melipilla;Hospital San José (Melipilla);110150;3;47;136;34.56
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Melipilla;Hospital San José (Melipilla);110150;4;128;134;95.52
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Melipilla;Hospital San José (Melipilla);110150;5;101;108;93.52
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Melipilla;Hospital San José (Melipilla);110150;6;109;119;91.6
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Melipilla;Hospital San José (Melipilla);110150;7;118;131;90.08
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Melipilla;Hospital San José (Melipilla);110150;8;103;116;88.79
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Melipilla;Hospital San José (Melipilla);110150;9;116;130;89.23
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Melipilla;Hospital San José (Melipilla);110150;10;124;131;94.66
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Melipilla;Hospital San José (Melipilla);110150;11;97;107;90.65
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Melipilla;Hospital San José (Melipilla);110150;12;122;132;92.42
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Peñaflor;Hospital de Peñaflor;110140;1;5;5;100.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Peñaflor;Hospital de Peñaflor;110140;2;7;7;100.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Peñaflor;Hospital de Peñaflor;110140;3;6;7;85.71
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Peñaflor;Hospital de Peñaflor;110140;4;4;6;66.67
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Peñaflor;Hospital de Peñaflor;110140;5;8;9;88.89
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Peñaflor;Hospital de Peñaflor;110140;6;4;4;100.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Peñaflor;Hospital de Peñaflor;110140;7;6;6;100.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Peñaflor;Hospital de Peñaflor;110140;8;3;5;60.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Peñaflor;Hospital de Peñaflor;110140;9;4;4;100.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Peñaflor;Hospital de Peñaflor;110140;10;2;2;100.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Peñaflor;Hospital de Peñaflor;110140;11;2;3;66.67
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Peñaflor;Hospital de Peñaflor;110140;12;1;4;25.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Santiago;Hospital San Juan de Dios (Santiago, Santiago);110100;1;187;202;92.57
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Santiago;Hospital San Juan de Dios (Santiago, Santiago);110100;2;138;148;93.24
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Santiago;Hospital San Juan de Dios (Santiago, Santiago);110100;3;154;156;98.72
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Santiago;Hospital San Juan de Dios (Santiago, Santiago);110100;4;177;194;91.24
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Santiago;Hospital San Juan de Dios (Santiago, Santiago);110100;5;167;177;94.35
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Santiago;Hospital San Juan de Dios (Santiago, Santiago);110100;6;131;148;88.51
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Santiago;Hospital San Juan de Dios (Santiago, Santiago);110100;7;175;191;91.62
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Santiago;Hospital San Juan de Dios (Santiago, Santiago);110100;8;185;166;111.45
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Santiago;Hospital San Juan de Dios (Santiago, Santiago);110100;9;221;196;112.76
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Santiago;Hospital San Juan de Dios (Santiago, Santiago);110100;10;159;183;86.89
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Santiago;Hospital San Juan de Dios (Santiago, Santiago);110100;11;132;141;93.62
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Santiago;Hospital San Juan de Dios (Santiago, Santiago);110100;12;157;170;92.35
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Talagante;Hospital Adalberto Steeger (Talagante);110130;1;74;74;100.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Talagante;Hospital Adalberto Steeger (Talagante);110130;2;34;75;45.33
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Talagante;Hospital Adalberto Steeger (Talagante);110130;3;45;75;60.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Talagante;Hospital Adalberto Steeger (Talagante);110130;4;37;67;55.22
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Talagante;Hospital Adalberto Steeger (Talagante);110130;5;72;75;96.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Talagante;Hospital Adalberto Steeger (Talagante);110130;6;26;64;40.62
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Talagante;Hospital Adalberto Steeger (Talagante);110130;7;32;54;59.26
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Talagante;Hospital Adalberto Steeger (Talagante);110130;8;34;74;45.95
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Talagante;Hospital Adalberto Steeger (Talagante);110130;9;33;70;47.14
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Talagante;Hospital Adalberto Steeger (Talagante);110130;10;23;57;40.35
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Talagante;Hospital Adalberto Steeger (Talagante);110130;11;66;68;97.06
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Talagante;Hospital Adalberto Steeger (Talagante);110130;12;71;72;98.61
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Peñalolén;Hospital Dr. Luis Tisné B. (Santiago, Peñalolén);112101;1;217;236;91.95
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Peñalolén;Hospital Dr. Luis Tisné B. (Santiago, Peñalolén);112101;2;194;214;90.65
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Peñalolén;Hospital Dr. Luis Tisné B. (Santiago, Peñalolén);112101;3;256;285;89.82
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Peñalolén;Hospital Dr. Luis Tisné B. (Santiago, Peñalolén);112101;4;214;243;88.07
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Peñalolén;Hospital Dr. Luis Tisné B. (Santiago, Peñalolén);112101;5;231;250;92.4
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Peñalolén;Hospital Dr. Luis Tisné B. (Santiago, Peñalolén);112101;6;209;230;90.87
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Peñalolén;Hospital Dr. Luis Tisné B. (Santiago, Peñalolén);112101;7;206;228;90.35
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Peñalolén;Hospital Dr. Luis Tisné B. (Santiago, Peñalolén);112101;8;226;244;92.62
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Peñalolén;Hospital Dr. Luis Tisné B. (Santiago, Peñalolén);112101;9;190;214;88.79
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Peñalolén;Hospital Dr. Luis Tisné B. (Santiago, Peñalolén);112101;10;193;211;91.47
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Peñalolén;Hospital Dr. Luis Tisné B. (Santiago, Peñalolén);112101;11;206;218;94.5
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Peñalolén;Hospital Dr. Luis Tisné B. (Santiago, Peñalolén);112101;12;217;241;90.04
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Buin;Hospital San Luis (Buin);113150;1;68;71;95.77
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Buin;Hospital San Luis (Buin);113150;2;52;58;89.66
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Buin;Hospital San Luis (Buin);113150;3;52;61;85.25
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Buin;Hospital San Luis (Buin);113150;4;55;62;88.71
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Buin;Hospital San Luis (Buin);113150;5;60;72;83.33
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Buin;Hospital San Luis (Buin);113150;6;69;79;87.34
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Buin;Hospital San Luis (Buin);113150;7;57;62;91.94
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Buin;Hospital San Luis (Buin);113150;8;65;69;94.2
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Buin;Hospital San Luis (Buin);113150;9;39;75;52.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Buin;Hospital San Luis (Buin);113150;10;58;63;92.06
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Buin;Hospital San Luis (Buin);113150;11;61;72;84.72
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Buin;Hospital San Luis (Buin);113150;12;71;76;93.42
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Hospital El Pino (Santiago, San Bernardo);113180;1;173;180;96.11
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Hospital El Pino (Santiago, San Bernardo);113180;2;141;155;90.97
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Hospital El Pino (Santiago, San Bernardo);113180;3;153;159;96.23
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Hospital El Pino (Santiago, San Bernardo);113180;4;135;144;93.75
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Hospital El Pino (Santiago, San Bernardo);113180;5;65;67;97.01
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Hospital El Pino (Santiago, San Bernardo);113180;6;86;94;91.49
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Hospital El Pino (Santiago, San Bernardo);113180;7;141;147;95.92
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Hospital El Pino (Santiago, San Bernardo);113180;8;141;148;95.27
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Hospital El Pino (Santiago, San Bernardo);113180;9;128;139;92.09
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Hospital El Pino (Santiago, San Bernardo);113180;10;120;124;96.77
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Hospital El Pino (Santiago, San Bernardo);113180;11;128;136;94.12
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Hospital El Pino (Santiago, San Bernardo);113180;12;133;136;97.79
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Hospital Parroquial de San Bernardo (D);113190;1;94;104;90.38
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Hospital Parroquial de San Bernardo (D);113190;2;93;104;89.42
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Hospital Parroquial de San Bernardo (D);113190;3;89;90;98.89
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Hospital Parroquial de San Bernardo (D);113190;4;97;102;95.1
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Hospital Parroquial de San Bernardo (D);113190;5;148;150;98.67
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Hospital Parroquial de San Bernardo (D);113190;6;152;154;98.7
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Hospital Parroquial de San Bernardo (D);113190;7;116;116;100.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Hospital Parroquial de San Bernardo (D);113190;8;103;103;100.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Hospital Parroquial de San Bernardo (D);113190;9;91;93;97.85
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Hospital Parroquial de San Bernardo (D);113190;10;91;93;97.85
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Hospital Parroquial de San Bernardo (D);113190;11;95;98;96.94
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Hospital Parroquial de San Bernardo (D);113190;12;100;102;98.04
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Miguel;Hospital Barros Luco Trudeau (Santiago, San Miguel);113100;1;194;220;88.18
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Miguel;Hospital Barros Luco Trudeau (Santiago, San Miguel);113100;2;175;202;86.63
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Miguel;Hospital Barros Luco Trudeau (Santiago, San Miguel);113100;3;171;242;70.66
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Miguel;Hospital Barros Luco Trudeau (Santiago, San Miguel);113100;4;179;203;88.18
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Miguel;Hospital Barros Luco Trudeau (Santiago, San Miguel);113100;5;225;258;87.21
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Miguel;Hospital Barros Luco Trudeau (Santiago, San Miguel);113100;6;220;255;86.27
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Miguel;Hospital Barros Luco Trudeau (Santiago, San Miguel);113100;7;177;217;81.57
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Miguel;Hospital Barros Luco Trudeau (Santiago, San Miguel);113100;8;189;213;88.73
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Miguel;Hospital Barros Luco Trudeau (Santiago, San Miguel);113100;9;171;199;85.93
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Miguel;Hospital Barros Luco Trudeau (Santiago, San Miguel);113100;10;161;203;79.31
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Miguel;Hospital Barros Luco Trudeau (Santiago, San Miguel);113100;11;176;204;86.27
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Miguel;Hospital Barros Luco Trudeau (Santiago, San Miguel);113100;12;177;208;85.1
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Florida;Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza;114105;1;171;180;95.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Florida;Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza;114105;2;137;143;95.8
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Florida;Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza;114105;3;144;144;100.0
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Florida;Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza;114105;4;127;180;70.56
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Florida;Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza;114105;5;178;194;91.75
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Florida;Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza;114105;6;166;177;93.79
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Florida;Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza;114105;7;159;171;92.98
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Florida;Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza;114105;8;164;174;94.25
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Florida;Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza;114105;9;174;182;95.6
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Florida;Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza;114105;10;182;184;98.91
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Florida;Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza;114105;11;143;151;94.7
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Florida;Hospital Clínico Metropolitano La Florida Dra. Eloísa Díaz Insunza;114105;12;154;165;93.33
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;Puente Alto;Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto);114101;1;201;259;77.61
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;Puente Alto;Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto);114101;2;187;221;84.62
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;Puente Alto;Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto);114101;3;190;249;76.31
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;Puente Alto;Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto);114101;4;222;264;84.09
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;Puente Alto;Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto);114101;5;209;256;81.64
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;Puente Alto;Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto);114101;6;176;238;73.95
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;Puente Alto;Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto);114101;7;204;252;80.95
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;Puente Alto;Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto);114101;8;194;254;76.38
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;Puente Alto;Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto);114101;9;178;223;79.82
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;Puente Alto;Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto);114101;10;135;241;56.02
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;Puente Alto;Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto);114101;11;164;218;75.23
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;Puente Alto;Complejo Hospitalario Dr. Sótero del Río (Santiago, Puente Alto);114101;12;201;266;75.56
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;San Ramón;Hospital Padre Alberto Hurtado (San Ramón);114103;1;132;157;84.08
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;San Ramón;Hospital Padre Alberto Hurtado (San Ramón);114103;2;136;161;84.47
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;San Ramón;Hospital Padre Alberto Hurtado (San Ramón);114103;3;161;181;88.95
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;San Ramón;Hospital Padre Alberto Hurtado (San Ramón);114103;4;139;167;83.23
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;San Ramón;Hospital Padre Alberto Hurtado (San Ramón);114103;5;134;158;84.81
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;San Ramón;Hospital Padre Alberto Hurtado (San Ramón);114103;6;136;158;86.08
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;San Ramón;Hospital Padre Alberto Hurtado (San Ramón);114103;7;129;132;97.73
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;San Ramón;Hospital Padre Alberto Hurtado (San Ramón);114103;8;124;135;91.85
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;San Ramón;Hospital Padre Alberto Hurtado (San Ramón);114103;9;141;160;88.12
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;San Ramón;Hospital Padre Alberto Hurtado (San Ramón);114103;10;127;150;84.67
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;San Ramón;Hospital Padre Alberto Hurtado (San Ramón);114103;11;139;146;95.21
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;San Ramón;Hospital Padre Alberto Hurtado (San Ramón);114103;12;137;149;91.95
+Tarapacá;Servicio de Salud Tarapacá;Alto Hospicio;Centro de Salud Familiar Pedro Pulgar Melgarejo;102305;4;3;0;
+Tarapacá;Servicio de Salud Tarapacá;Alto Hospicio;Centro de Salud Familiar Pedro Pulgar Melgarejo;102305;8;2;0;
+Tarapacá;Servicio de Salud Tarapacá;Alto Hospicio;Centro de Salud Familiar Pedro Pulgar Melgarejo;102305;9;2;0;
+Tarapacá;Servicio de Salud Tarapacá;Alto Hospicio;Hospital de Alto Hospicio;201319;10;1;5;20.0
+Tarapacá;Servicio de Salud Tarapacá;Alto Hospicio;Hospital de Alto Hospicio;201319;11;6;8;75.0
+Tarapacá;Servicio de Salud Tarapacá;Alto Hospicio;Hospital de Alto Hospicio;201319;12;5;8;62.5
+Tarapacá;Servicio de Salud Tarapacá;Iquique;Hospital Dr. Ernesto Torres Galdames (Iquique);102100;1;193;276;69.93
+Tarapacá;Servicio de Salud Tarapacá;Iquique;Hospital Dr. Ernesto Torres Galdames (Iquique);102100;2;146;243;60.08
+Tarapacá;Servicio de Salud Tarapacá;Iquique;Hospital Dr. Ernesto Torres Galdames (Iquique);102100;3;178;269;66.17
+Tarapacá;Servicio de Salud Tarapacá;Iquique;Hospital Dr. Ernesto Torres Galdames (Iquique);102100;4;189;284;66.55
+Tarapacá;Servicio de Salud Tarapacá;Iquique;Hospital Dr. Ernesto Torres Galdames (Iquique);102100;5;158;274;57.66
+Tarapacá;Servicio de Salud Tarapacá;Iquique;Hospital Dr. Ernesto Torres Galdames (Iquique);102100;6;210;263;79.85
+Tarapacá;Servicio de Salud Tarapacá;Iquique;Hospital Dr. Ernesto Torres Galdames (Iquique);102100;7;127;247;51.42
+Tarapacá;Servicio de Salud Tarapacá;Iquique;Hospital Dr. Ernesto Torres Galdames (Iquique);102100;8;170;258;65.89
+Tarapacá;Servicio de Salud Tarapacá;Iquique;Hospital Dr. Ernesto Torres Galdames (Iquique);102100;9;167;278;60.07
+Tarapacá;Servicio de Salud Tarapacá;Iquique;Hospital Dr. Ernesto Torres Galdames (Iquique);102100;10;167;280;59.64
+Tarapacá;Servicio de Salud Tarapacá;Iquique;Hospital Dr. Ernesto Torres Galdames (Iquique);102100;11;154;248;62.1
+Tarapacá;Servicio de Salud Tarapacá;Iquique;Hospital Dr. Ernesto Torres Galdames (Iquique);102100;12;177;272;65.07
+Valparaíso;Servicio de Salud Aconcagua;Llaillay;Hospital San Francisco (Llaillay);108102;3;0;1;0.0
+Valparaíso;Servicio de Salud Aconcagua;Los Andes;Hospital San Juan de Dios (Los Andes);108101;1;61;62;98.39
+Valparaíso;Servicio de Salud Aconcagua;Los Andes;Hospital San Juan de Dios (Los Andes);108101;2;53;53;100.0
+Valparaíso;Servicio de Salud Aconcagua;Los Andes;Hospital San Juan de Dios (Los Andes);108101;3;65;65;100.0
+Valparaíso;Servicio de Salud Aconcagua;Los Andes;Hospital San Juan de Dios (Los Andes);108101;4;49;52;94.23
+Valparaíso;Servicio de Salud Aconcagua;Los Andes;Hospital San Juan de Dios (Los Andes);108101;5;52;52;100.0
+Valparaíso;Servicio de Salud Aconcagua;Los Andes;Hospital San Juan de Dios (Los Andes);108101;6;49;49;100.0
+Valparaíso;Servicio de Salud Aconcagua;Los Andes;Hospital San Juan de Dios (Los Andes);108101;7;48;49;97.96
+Valparaíso;Servicio de Salud Aconcagua;Los Andes;Hospital San Juan de Dios (Los Andes);108101;8;53;53;100.0
+Valparaíso;Servicio de Salud Aconcagua;Los Andes;Hospital San Juan de Dios (Los Andes);108101;9;44;45;97.78
+Valparaíso;Servicio de Salud Aconcagua;Los Andes;Hospital San Juan de Dios (Los Andes);108101;10;54;55;98.18
+Valparaíso;Servicio de Salud Aconcagua;Los Andes;Hospital San Juan de Dios (Los Andes);108101;11;52;54;96.3
+Valparaíso;Servicio de Salud Aconcagua;Los Andes;Hospital San Juan de Dios (Los Andes);108101;12;47;48;97.92
+Valparaíso;Servicio de Salud Aconcagua;San Felipe;Hospital San Camilo de San Felipe;108100;1;113;125;90.4
+Valparaíso;Servicio de Salud Aconcagua;San Felipe;Hospital San Camilo de San Felipe;108100;2;88;106;83.02
+Valparaíso;Servicio de Salud Aconcagua;San Felipe;Hospital San Camilo de San Felipe;108100;3;91;110;82.73
+Valparaíso;Servicio de Salud Aconcagua;San Felipe;Hospital San Camilo de San Felipe;108100;4;76;97;78.35
+Valparaíso;Servicio de Salud Aconcagua;San Felipe;Hospital San Camilo de San Felipe;108100;5;99;110;90.0
+Valparaíso;Servicio de Salud Aconcagua;San Felipe;Hospital San Camilo de San Felipe;108100;6;101;107;94.39
+Valparaíso;Servicio de Salud Aconcagua;San Felipe;Hospital San Camilo de San Felipe;108100;7;92;103;89.32
+Valparaíso;Servicio de Salud Aconcagua;San Felipe;Hospital San Camilo de San Felipe;108100;8;48;100;48.0
+Valparaíso;Servicio de Salud Aconcagua;San Felipe;Hospital San Camilo de San Felipe;108100;9;49;85;57.65
+Valparaíso;Servicio de Salud Aconcagua;San Felipe;Hospital San Camilo de San Felipe;108100;10;99;113;87.61
+Valparaíso;Servicio de Salud Aconcagua;San Felipe;Hospital San Camilo de San Felipe;108100;11;105;114;92.11
+Valparaíso;Servicio de Salud Aconcagua;San Felipe;Hospital San Camilo de San Felipe;108100;12;88;92;95.65
+Valparaíso;Servicio de Salud Metropolitano Oriente;Isla de Pascua;Hospital Hanga Roa (Isla De Pascua);112107;1;5;7;71.43
+Valparaíso;Servicio de Salud Metropolitano Oriente;Isla de Pascua;Hospital Hanga Roa (Isla De Pascua);112107;2;7;7;100.0
+Valparaíso;Servicio de Salud Metropolitano Oriente;Isla de Pascua;Hospital Hanga Roa (Isla De Pascua);112107;3;10;11;90.91
+Valparaíso;Servicio de Salud Metropolitano Oriente;Isla de Pascua;Hospital Hanga Roa (Isla De Pascua);112107;4;3;5;60.0
+Valparaíso;Servicio de Salud Metropolitano Oriente;Isla de Pascua;Hospital Hanga Roa (Isla De Pascua);112107;5;2;7;28.57
+Valparaíso;Servicio de Salud Metropolitano Oriente;Isla de Pascua;Hospital Hanga Roa (Isla De Pascua);112107;6;4;4;100.0
+Valparaíso;Servicio de Salud Metropolitano Oriente;Isla de Pascua;Hospital Hanga Roa (Isla De Pascua);112107;7;4;4;100.0
+Valparaíso;Servicio de Salud Metropolitano Oriente;Isla de Pascua;Hospital Hanga Roa (Isla De Pascua);112107;8;8;8;100.0
+Valparaíso;Servicio de Salud Metropolitano Oriente;Isla de Pascua;Hospital Hanga Roa (Isla De Pascua);112107;9;11;11;100.0
+Valparaíso;Servicio de Salud Metropolitano Oriente;Isla de Pascua;Hospital Hanga Roa (Isla De Pascua);112107;10;11;11;100.0
+Valparaíso;Servicio de Salud Metropolitano Oriente;Isla de Pascua;Hospital Hanga Roa (Isla De Pascua);112107;11;4;4;100.0
+Valparaíso;Servicio de Salud Metropolitano Oriente;Isla de Pascua;Hospital Hanga Roa (Isla De Pascua);112107;12;7;7;100.0
+Valparaíso;Servicio de Salud Valparaíso San Antonio;San Antonio;Hospital Claudio Vicuña (San Antonio);106103;1;20;81;24.69
+Valparaíso;Servicio de Salud Valparaíso San Antonio;San Antonio;Hospital Claudio Vicuña (San Antonio);106103;2;24;71;33.8
+Valparaíso;Servicio de Salud Valparaíso San Antonio;San Antonio;Hospital Claudio Vicuña (San Antonio);106103;3;32;88;36.36
+Valparaíso;Servicio de Salud Valparaíso San Antonio;San Antonio;Hospital Claudio Vicuña (San Antonio);106103;4;32;80;40.0
+Valparaíso;Servicio de Salud Valparaíso San Antonio;San Antonio;Hospital Claudio Vicuña (San Antonio);106103;5;39;99;39.39
+Valparaíso;Servicio de Salud Valparaíso San Antonio;San Antonio;Hospital Claudio Vicuña (San Antonio);106103;6;43;88;48.86
+Valparaíso;Servicio de Salud Valparaíso San Antonio;San Antonio;Hospital Claudio Vicuña (San Antonio);106103;7;49;95;51.58
+Valparaíso;Servicio de Salud Valparaíso San Antonio;San Antonio;Hospital Claudio Vicuña (San Antonio);106103;8;40;72;55.56
+Valparaíso;Servicio de Salud Valparaíso San Antonio;San Antonio;Hospital Claudio Vicuña (San Antonio);106103;9;96;100;96.0
+Valparaíso;Servicio de Salud Valparaíso San Antonio;San Antonio;Hospital Claudio Vicuña (San Antonio);106103;10;63;111;56.76
+Valparaíso;Servicio de Salud Valparaíso San Antonio;San Antonio;Hospital Claudio Vicuña (San Antonio);106103;11;74;81;91.36
+Valparaíso;Servicio de Salud Valparaíso San Antonio;San Antonio;Hospital Claudio Vicuña (San Antonio);106103;12;26;72;36.11
+Valparaíso;Servicio de Salud Valparaíso San Antonio;Valparaíso;Hospital Carlos Van Buren (Valparaíso);106100;1;117;134;87.31
+Valparaíso;Servicio de Salud Valparaíso San Antonio;Valparaíso;Hospital Carlos Van Buren (Valparaíso);106100;2;104;116;89.66
+Valparaíso;Servicio de Salud Valparaíso San Antonio;Valparaíso;Hospital Carlos Van Buren (Valparaíso);106100;3;118;130;90.77
+Valparaíso;Servicio de Salud Valparaíso San Antonio;Valparaíso;Hospital Carlos Van Buren (Valparaíso);106100;4;80;92;86.96
+Valparaíso;Servicio de Salud Valparaíso San Antonio;Valparaíso;Hospital Carlos Van Buren (Valparaíso);106100;5;81;91;89.01
+Valparaíso;Servicio de Salud Valparaíso San Antonio;Valparaíso;Hospital Carlos Van Buren (Valparaíso);106100;6;104;111;93.69
+Valparaíso;Servicio de Salud Valparaíso San Antonio;Valparaíso;Hospital Carlos Van Buren (Valparaíso);106100;7;105;118;88.98
+Valparaíso;Servicio de Salud Valparaíso San Antonio;Valparaíso;Hospital Carlos Van Buren (Valparaíso);106100;8;90;104;86.54
+Valparaíso;Servicio de Salud Valparaíso San Antonio;Valparaíso;Hospital Carlos Van Buren (Valparaíso);106100;9;108;114;94.74
+Valparaíso;Servicio de Salud Valparaíso San Antonio;Valparaíso;Hospital Carlos Van Buren (Valparaíso);106100;10;115;126;91.27
+Valparaíso;Servicio de Salud Valparaíso San Antonio;Valparaíso;Hospital Carlos Van Buren (Valparaíso);106100;11;107;114;93.86
+Valparaíso;Servicio de Salud Valparaíso San Antonio;Valparaíso;Hospital Carlos Van Buren (Valparaíso);106100;12;117;127;92.13
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Cabildo;Hospital Dr. Víctor Hugo Moll (Cabildo);107106;10;0;1;0.0
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Cabildo;Hospital Dr. Víctor Hugo Moll (Cabildo);107106;11;0;1;0.0
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Calera;Hospital Dr. Mario Sánchez Vergara (La Calera);107103;1;1;2;50.0
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Calera;Hospital Dr. Mario Sánchez Vergara (La Calera);107103;2;0;1;0.0
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Calera;Hospital Dr. Mario Sánchez Vergara (La Calera);107103;11;0;2;0.0
+Valparaíso;Servicio de Salud Viña del Mar Quillota;La Ligua;Hospital San Agustín (La Ligua);107105;1;1;1;100.0
+Valparaíso;Servicio de Salud Viña del Mar Quillota;La Ligua;Hospital San Agustín (La Ligua);107105;5;1;2;50.0
+Valparaíso;Servicio de Salud Viña del Mar Quillota;La Ligua;Hospital San Agustín (La Ligua);107105;6;3;3;100.0
+Valparaíso;Servicio de Salud Viña del Mar Quillota;La Ligua;Hospital San Agustín (La Ligua);107105;9;1;1;100.0
+Valparaíso;Servicio de Salud Viña del Mar Quillota;La Ligua;Hospital San Agustín (La Ligua);107105;11;1;1;100.0
+Valparaíso;Servicio de Salud Viña del Mar Quillota;La Ligua;Hospital San Agustín (La Ligua);107105;12;2;2;100.0
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Limache;Hospital Santo Tomás (Limache);107104;6;0;1;0.0
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Limache;Hospital Santo Tomás (Limache);107104;12;0;1;0.0
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Petorca;Hospital de Petorca;107107;5;0;2;0.0
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Petorca;Hospital de Petorca;107107;9;0;1;0.0
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Quillota;Hospital Biprovincial Quillota Petorca;107101;1;88;98;89.8
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Quillota;Hospital Biprovincial Quillota Petorca;107101;2;84;114;73.68
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Quillota;Hospital Biprovincial Quillota Petorca;107101;3;104;119;87.39
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Quillota;Hospital Biprovincial Quillota Petorca;107101;4;114;127;89.76
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Quillota;Hospital Biprovincial Quillota Petorca;107101;5;97;113;85.84
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Quillota;Hospital Biprovincial Quillota Petorca;107101;6;97;114;85.09
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Quillota;Hospital Biprovincial Quillota Petorca;107101;7;94;110;85.45
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Quillota;Hospital Biprovincial Quillota Petorca;107101;8;85;94;90.43
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Quillota;Hospital Biprovincial Quillota Petorca;107101;9;104;121;85.95
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Quillota;Hospital Biprovincial Quillota Petorca;107101;10;97;109;88.99
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Quillota;Hospital Biprovincial Quillota Petorca;107101;11;89;99;89.9
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Quillota;Hospital Biprovincial Quillota Petorca;107101;12;97;114;85.09
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Quilpué;Hospital de Quilpué;107102;1;31;80;38.75
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Quilpué;Hospital de Quilpué;107102;2;28;74;37.84
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Quilpué;Hospital de Quilpué;107102;3;36;91;39.56
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Quilpué;Hospital de Quilpué;107102;4;31;66;46.97
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Quilpué;Hospital de Quilpué;107102;5;33;85;38.82
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Quilpué;Hospital de Quilpué;107102;6;27;73;36.99
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Quilpué;Hospital de Quilpué;107102;7;36;80;45.0
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Quilpué;Hospital de Quilpué;107102;8;34;84;40.48
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Quilpué;Hospital de Quilpué;107102;9;36;95;37.89
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Quilpué;Hospital de Quilpué;107102;10;29;77;37.66
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Quilpué;Hospital de Quilpué;107102;11;38;78;48.72
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Quilpué;Hospital de Quilpué;107102;12;38;84;45.24
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Quintero;Hospital Adriana Cousiño (Quintero);107108;3;0;1;0.0
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Quintero;Hospital Adriana Cousiño (Quintero);107108;4;1;1;100.0
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Quintero;Hospital Adriana Cousiño (Quintero);107108;5;1;1;100.0
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Quintero;Hospital Adriana Cousiño (Quintero);107108;6;3;3;100.0
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Quintero;Hospital Adriana Cousiño (Quintero);107108;8;1;1;100.0
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Quintero;Hospital Adriana Cousiño (Quintero);107108;12;1;3;33.33
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Viña del Mar;Hospital Dr. Gustavo Fricke (Viña del Mar);107100;1;169;185;91.35
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Viña del Mar;Hospital Dr. Gustavo Fricke (Viña del Mar);107100;2;131;150;87.33
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Viña del Mar;Hospital Dr. Gustavo Fricke (Viña del Mar);107100;3;167;191;87.43
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Viña del Mar;Hospital Dr. Gustavo Fricke (Viña del Mar);107100;4;125;158;79.11
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Viña del Mar;Hospital Dr. Gustavo Fricke (Viña del Mar);107100;5;157;179;87.71
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Viña del Mar;Hospital Dr. Gustavo Fricke (Viña del Mar);107100;6;162;172;94.19
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Viña del Mar;Hospital Dr. Gustavo Fricke (Viña del Mar);107100;7;161;187;86.1
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Viña del Mar;Hospital Dr. Gustavo Fricke (Viña del Mar);107100;8;144;152;94.74
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Viña del Mar;Hospital Dr. Gustavo Fricke (Viña del Mar);107100;9;142;174;81.61
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Viña del Mar;Hospital Dr. Gustavo Fricke (Viña del Mar);107100;10;167;188;88.83
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Viña del Mar;Hospital Dr. Gustavo Fricke (Viña del Mar);107100;11;130;134;97.01
+Valparaíso;Servicio de Salud Viña del Mar Quillota;Viña del Mar;Hospital Dr. Gustavo Fricke (Viña del Mar);107100;12;177;186;95.16
+Ñuble;Servicio de Salud Ñuble;Bulnes;Hospital Comunitario de Salud Familiar de Bulnes;117103;7;2;2;100.0
+Ñuble;Servicio de Salud Ñuble;Bulnes;Hospital Comunitario de Salud Familiar de Bulnes;117103;8;2;2;100.0
+Ñuble;Servicio de Salud Ñuble;Bulnes;Hospital Comunitario de Salud Familiar de Bulnes;117103;11;1;1;100.0
+Ñuble;Servicio de Salud Ñuble;Chillán;Hospital Clínico Herminda Martín (Chillán);117101;1;62;152;40.79
+Ñuble;Servicio de Salud Ñuble;Chillán;Hospital Clínico Herminda Martín (Chillán);117101;2;148;177;83.62
+Ñuble;Servicio de Salud Ñuble;Chillán;Hospital Clínico Herminda Martín (Chillán);117101;3;106;128;82.81
+Ñuble;Servicio de Salud Ñuble;Chillán;Hospital Clínico Herminda Martín (Chillán);117101;4;127;154;82.47
+Ñuble;Servicio de Salud Ñuble;Chillán;Hospital Clínico Herminda Martín (Chillán);117101;5;150;176;85.23
+Ñuble;Servicio de Salud Ñuble;Chillán;Hospital Clínico Herminda Martín (Chillán);117101;6;136;142;95.77
+Ñuble;Servicio de Salud Ñuble;Chillán;Hospital Clínico Herminda Martín (Chillán);117101;7;135;161;83.85
+Ñuble;Servicio de Salud Ñuble;Chillán;Hospital Clínico Herminda Martín (Chillán);117101;8;131;149;87.92
+Ñuble;Servicio de Salud Ñuble;Chillán;Hospital Clínico Herminda Martín (Chillán);117101;9;123;178;69.1
+Ñuble;Servicio de Salud Ñuble;Chillán;Hospital Clínico Herminda Martín (Chillán);117101;10;121;171;70.76
+Ñuble;Servicio de Salud Ñuble;Chillán;Hospital Clínico Herminda Martín (Chillán);117101;11;161;184;87.5
+Ñuble;Servicio de Salud Ñuble;Chillán;Hospital Clínico Herminda Martín (Chillán);117101;12;144;162;88.89
+Ñuble;Servicio de Salud Ñuble;Coelemu;Hospital Comunitario de Salud Familiar Dr. Eduardo Contreras Trabucco de Coelemu;117108;4;0;1;0.0
+Ñuble;Servicio de Salud Ñuble;Coelemu;Hospital Comunitario de Salud Familiar Dr. Eduardo Contreras Trabucco de Coelemu;117108;7;1;1;100.0
+Ñuble;Servicio de Salud Ñuble;El Carmen;Hospital Comunitario de Salud Familiar de El Carmen;117107;12;0;1;0.0
+Ñuble;Servicio de Salud Ñuble;Quirihue;Hospital Comunitario de Salud Familiar de Quirihue;117106;2;0;1;0.0
+Ñuble;Servicio de Salud Ñuble;Quirihue;Hospital Comunitario de Salud Familiar de Quirihue;117106;6;2;2;100.0
+Ñuble;Servicio de Salud Ñuble;Quirihue;Hospital Comunitario de Salud Familiar de Quirihue;117106;10;1;1;100.0
+Ñuble;Servicio de Salud Ñuble;Quirihue;Hospital Comunitario de Salud Familiar de Quirihue;117106;12;0;2;0.0
+Ñuble;Servicio de Salud Ñuble;San Carlos;Hospital de San Carlos;117102;1;47;48;97.92
+Ñuble;Servicio de Salud Ñuble;San Carlos;Hospital de San Carlos;117102;2;41;44;93.18
+Ñuble;Servicio de Salud Ñuble;San Carlos;Hospital de San Carlos;117102;3;38;39;97.44
+Ñuble;Servicio de Salud Ñuble;San Carlos;Hospital de San Carlos;117102;4;31;32;96.88
+Ñuble;Servicio de Salud Ñuble;San Carlos;Hospital de San Carlos;117102;5;49;49;100.0
+Ñuble;Servicio de Salud Ñuble;San Carlos;Hospital de San Carlos;117102;6;49;52;94.23
+Ñuble;Servicio de Salud Ñuble;San Carlos;Hospital de San Carlos;117102;7;51;52;98.08
+Ñuble;Servicio de Salud Ñuble;San Carlos;Hospital de San Carlos;117102;8;40;41;97.56
+Ñuble;Servicio de Salud Ñuble;San Carlos;Hospital de San Carlos;117102;9;51;51;100.0
+Ñuble;Servicio de Salud Ñuble;San Carlos;Hospital de San Carlos;117102;10;37;39;94.87
+Ñuble;Servicio de Salud Ñuble;San Carlos;Hospital de San Carlos;117102;11;45;45;100.0
+Ñuble;Servicio de Salud Ñuble;San Carlos;Hospital de San Carlos;117102;12;47;46;102.17
+Ñuble;Servicio de Salud Ñuble;Yungay;Hospital Comunitario de Salud Familiar Pedro Morales Campos (Yungay);117104;8;0;1;0.0

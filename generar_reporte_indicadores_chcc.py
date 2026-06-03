@@ -205,10 +205,11 @@ def apply_h2_row(row: dict, agg: dict) -> None:
         agg["numerador"] += safe_int(row.get("Col01")) + safe_int(row.get("Col02"))
 
 
-def process_csv(csv_path: Path, args: argparse.Namespace, indicator_defs: dict) -> dict[str, dict[str, dict]]:
-    results: dict[str, dict[str, dict]] = {
+def process_csv(csv_path: Path, args: argparse.Namespace, indicator_defs: dict) -> dict[str, dict[tuple, dict]]:
+    results: dict[str, dict[tuple, dict]] = {
         indicator: defaultdict(
             lambda: {
+                "Mes": 0,
                 "RegionCodigo": "",
                 "ServicioCodigo": "",
                 "ComunaCodigo": "",
@@ -232,10 +233,13 @@ def process_csv(csv_path: Path, args: argparse.Namespace, indicator_defs: dict) 
                 continue
 
             est_code = str(row["IdEstablecimiento"]).strip()
+            mes = str(row.get("Mes", "")).strip()
             for indicator, config in indicator_defs.items():
                 if code not in config["relevant_codes"]:
                     continue
-                agg = results[indicator][est_code]
+                agg = results[indicator][(est_code, mes)]
+                if not agg["Mes"]:
+                    agg["Mes"] = int(mes)
                 if not agg["RegionCodigo"]:
                     agg["RegionCodigo"] = str(row.get("IdRegion", "")).strip()
                     agg["ServicioCodigo"] = str(row.get("IdServicio", "")).strip()
@@ -247,11 +251,11 @@ def process_csv(csv_path: Path, args: argparse.Namespace, indicator_defs: dict) 
 
 def build_rows_for_indicator(
     indicator: str,
-    raw_rows: dict[str, dict],
+    raw_rows: dict[tuple, dict],
     establishments_map: dict[str, dict[str, str]],
 ) -> list[dict]:
     rows = []
-    for est_code, values in raw_rows.items():
+    for (est_code, mes), values in raw_rows.items():
         if values["numerador"] == 0 and values["denominador"] == 0:
             continue
 
@@ -266,6 +270,7 @@ def build_rows_for_indicator(
                 "Comuna": est_info.get("Comuna") or f"Código {values['ComunaCodigo']}",
                 "Establecimiento": est_info.get("Establecimiento") or f"Establecimiento {est_code}",
                 "CodigoEstablecimiento": est_code,
+                "Mes": values["Mes"],
                 "Numerador": values["numerador"],
                 "Denominador": denominator,
                 "PorcentajeCumplimiento": percentage_decimal,
@@ -278,6 +283,7 @@ def build_rows_for_indicator(
             item["Servicio de salud"],
             item["Comuna"],
             item["Establecimiento"],
+            item["Mes"],
         )
     )
     return rows
@@ -290,6 +296,7 @@ def write_indicator_csv(path: Path, rows: list[dict]) -> None:
         "Comuna",
         "Establecimiento",
         "CodigoEstablecimiento",
+        "Mes",
         "Numerador",
         "Denominador",
         "PorcentajeCumplimiento",
@@ -434,6 +441,7 @@ def add_detail_sheet(wb: Workbook, indicator: str, rows: list[dict], config: dic
         "Servicio de salud",
         "Comuna",
         "Establecimiento",
+        "Mes",
         "Numerador",
         "Denominador",
         "Porcentaje de cumplimiento",
@@ -447,6 +455,7 @@ def add_detail_sheet(wb: Workbook, indicator: str, rows: list[dict], config: dic
                 item["Servicio de salud"],
                 item["Comuna"],
                 item["Establecimiento"],
+                item["Mes"],
                 item["Numerador"],
                 item["Denominador"],
                 item["PorcentajeCumplimiento"],
@@ -454,8 +463,8 @@ def add_detail_sheet(wb: Workbook, indicator: str, rows: list[dict], config: dic
         )
 
     style_sheet(ws, len(rows), len(headers))
-    set_column_widths(ws, [24, 30, 24, 42, 14, 14, 18])
-    format_percentage_columns(ws, len(rows), [7], [5, 6])
+    set_column_widths(ws, [24, 30, 24, 42, 8, 14, 14, 18])
+    format_percentage_columns(ws, len(rows), [8], [6, 7])
 
 
 def create_workbook(workbook_path: Path, all_rows: dict[str, list[dict]], indicator_defs: dict) -> None:

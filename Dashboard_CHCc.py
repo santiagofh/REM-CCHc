@@ -5,6 +5,7 @@ from pathlib import Path
 import pandas as pd
 import streamlit as st
 
+import compartido
 
 BASE_DIR = Path(__file__).resolve().parent
 OUTPUT_DIR = BASE_DIR / "output"
@@ -27,10 +28,15 @@ def load_data(indicator: str) -> pd.DataFrame:
     path = OUTPUT_DIR / f"resumen_{indicator.lower()}_por_establecimiento.csv"
     df = pd.read_csv(path, delimiter=";", encoding="utf-8")
     df = df[df["Region"] == RM_REGION].copy()
+    df["Numerador"] = pd.to_numeric(df["Numerador"], errors="coerce").fillna(0).astype(int)
+    df["Denominador"] = pd.to_numeric(df["Denominador"], errors="coerce").fillna(0).astype(int)
+    df["Mes"] = pd.to_numeric(df["Mes"], errors="coerce").fillna(0).astype(int)
     return df
 
 
 def home():
+    compartido.render_month_selector()
+
     st.title("Bienvenidos al Dashboard de Indicadores CHCc 2025")
     st.subheader(
         "Indicadores del Ciclo de Vida (CHCc) calculados a partir de REM Serie A 2025"
@@ -54,6 +60,7 @@ def home():
     rows = []
     for ind, cfg in INDICATOR_META.items():
         df = load_data(ind)
+        df = compartido.filtrar_por_rango_meses(df)
         num = int(df["Numerador"].sum())
         den = int(df["Denominador"].sum())
         pct = round((num / den) * 100, 2) if den else None

@@ -10,6 +10,24 @@ import compartido
 BASE_DIR = Path(__file__).resolve().parent
 OUTPUT_DIR = BASE_DIR / "output"
 
+st.set_page_config(
+    page_title="Dashboard Indicadores CHCc",
+    layout="wide",
+    initial_sidebar_state="expanded",
+)
+
+st.markdown(
+    """
+    <style>
+    .stApp h1, .stApp h2, .stApp h3 {
+        color: #006FB3;
+        font-weight: 700;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True,
+)
+
 INDICATOR_META = {
     "A2": {"meta": 0.8, "titulo": "Desarrollo Prenatal"},
     "A4": {"meta": 0.7, "titulo": "Fortalecimiento del desarrollo integral del niño y la niña"},

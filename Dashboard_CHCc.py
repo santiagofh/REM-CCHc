@@ -37,7 +37,7 @@ def load_data(indicator: str, year: str) -> pd.DataFrame:
 def leer_fecha_corte():
     path = OUTPUT_DIR / "Fecha_corte_REM.csv"
     if path.exists():
-        fecha = pd.read_csv(path, delimiter=";", encoding="utf-8").iloc[0]["Fecha_corte"]
+        fecha = pd.read_csv(path, delimiter=",", encoding="utf-8").iloc[0]["Fecha_corte"]
         return str(fecha)
     return None
 

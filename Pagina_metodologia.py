@@ -85,6 +85,8 @@ def main():
         **Numerador (partos vaginales):**
         - Código REM A024 A.1: `29101728` — Acompañamiento durante el trabajo de parto
         - Columna: `COL01`
+        - Código REM A024 A.1: `29101729` — Acompañamiento sólo en el expulsivo
+        - Columna: `COL01`
 
         **Numerador (cesáreas):**
         - Código REM A024 A.2: `29101742` — Acompañamiento durante la cesárea

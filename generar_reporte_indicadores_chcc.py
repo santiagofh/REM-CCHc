@@ -168,7 +168,7 @@ def build_indicator_definitions(dictionary: dict) -> dict:
             "meta": None,
             "ponderacion": None,
             "relevant_codes": find_denominator_codes_h2(section_h2_general["codigos"])
-            | find_codes_by_meaning(section_h2_vaginal["codigos"], {"Acompañamiento - Durante el trabajo de parto"})
+            | find_codes_by_meaning(section_h2_vaginal["codigos"], {"Acompañamiento - Durante el trabajo de parto", "Acompañamiento - Sólo en el expulsivo"})
             | find_codes_by_meaning(section_h2_cesarea["codigos"], {"Acompañamiento durante la cesárea"}),
             "apply_row": lambda row, agg: apply_h2_row(row, agg),
         },
@@ -196,7 +196,7 @@ def apply_h2_row(row: dict, agg: dict) -> None:
     code = row["CodigoPrestacion"].strip()
     if code in {"01030100", "01030300", "24090700", "29101714", "29101715", "29101716", "29101717", "29101718"}:
         agg["denominador"] += safe_int(row.get("Col01"))
-    elif code == "29101728":
+    elif code in {"29101728", "29101729"}:
         agg["numerador"] += safe_int(row.get("Col01"))
     elif code == "29101742":
         agg["numerador"] += safe_int(row.get("Col01")) + safe_int(row.get("Col02"))

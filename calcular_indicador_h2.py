@@ -96,7 +96,7 @@ def build_indicator_config(rem_a024: dict) -> dict:
     denominator_codes = find_denominator_codes(section_general)
     numerator_vaginal_codes = find_codes_by_meaning(
         section_vaginal,
-        {"Acompañamiento - Durante el trabajo de parto"},
+        {"Acompañamiento - Durante el trabajo de parto", "Acompañamiento - Sólo en el expulsivo"},
     )
     numerator_cesarea_codes = find_codes_by_meaning(
         section_cesareas,
@@ -178,7 +178,7 @@ def build_result_payload(
             },
         },
         "supuestos": [
-            "Para partos vaginales, el numerador considera solo el codigo de acompanamiento durante el trabajo de parto y excluye el acompanamiento solo en el expulsivo.",
+            "Para partos vaginales, el numerador suma Col01 del codigo de acompanamiento durante el trabajo de parto y del codigo de acompanamiento solo en el expulsivo.",
             "Para cesareas, el numerador suma Col01 (Programada) y Col02 (Urgencia) del codigo de acompanamiento durante la cesarea.",
             "El denominador suma Col01 de los codigos de tipo de parto identificados en la seccion A de REM A024.",
         ],

@@ -4,6 +4,7 @@ import argparse
 import csv
 import json
 from collections import defaultdict
+from datetime import datetime
 from pathlib import Path
 
 from openpyxl import Workbook
@@ -501,6 +502,22 @@ def main() -> None:
         write_indicator_csv(OUTPUT_DIR / f"resumen_{indicator.lower()}_por_establecimiento_{args.ano}.csv", rows)
 
     create_workbook(args.workbook_path, all_rows, indicator_defs)
+
+    corte_path = OUTPUT_DIR / "Fecha_corte_REM.csv"
+    fecha_fuente = args.csv_path.stat().st_mtime
+    fecha_str = datetime.fromtimestamp(fecha_fuente).strftime("%Y-%m-%d")
+    cortes = {}
+    if corte_path.exists():
+        with corte_path.open("r", encoding="utf-8", newline="") as f:
+            reader = csv.DictReader(f)
+            for row in reader:
+                cortes[row["Ano"]] = row["Fecha_corte"]
+    cortes[args.ano] = fecha_str
+    with corte_path.open("w", encoding="utf-8", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=["Ano", "Fecha_corte"])
+        writer.writeheader()
+        for ano in sorted(cortes):
+            writer.writerow({"Ano": ano, "Fecha_corte": cortes[ano]})
 
     print(f"Establecimientos usados: {establishments_path}")
     print(f"Excel generado: {args.workbook_path}")

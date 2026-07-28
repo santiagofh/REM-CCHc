@@ -28,6 +28,12 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
+st.logo(
+    str(BASE_DIR / "assets" / "seremi_sidebar_logo.svg"),
+    size="large",
+    icon_image=str(BASE_DIR / "assets" / "seremi_sidebar_icon.svg"),
+)
+
 INDICATOR_META = {
     "A2": {"meta": 0.8, "titulo": "Desarrollo Prenatal"},
     "A4": {"meta": 0.7, "titulo": "Fortalecimiento del desarrollo integral del niño y la niña"},

@@ -34,6 +34,14 @@ def load_data(indicator: str, year: str) -> pd.DataFrame:
     return df
 
 
+def leer_fecha_corte():
+    path = OUTPUT_DIR / "Fecha_corte_REM.csv"
+    if path.exists():
+        fecha = pd.read_csv(path, delimiter=";", encoding="utf-8").iloc[0]["Fecha_corte"]
+        return str(fecha)
+    return None
+
+
 def home():
     compartido.render_sidebar()
     year = st.session_state.ano
@@ -42,6 +50,10 @@ def home():
     st.subheader(
         f"Indicadores del Ciclo de Vida (CHCc) calculados a partir de REM Serie A {year}"
     )
+
+    fecha_corte = leer_fecha_corte()
+    if fecha_corte:
+        st.caption(f"Fecha de corte de los datos REM: {fecha_corte}")
 
     st.markdown(
         f"""

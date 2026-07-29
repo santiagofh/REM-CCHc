@@ -9,7 +9,7 @@
     "porcentaje": "(numerador / denominador) * 100"
   },
   "filtros_aplicados": {
-    "Ano": "2025",
+    "Ano": "2026",
     "Mes": null,
     "IdServicio": null,
     "IdRegion": null,
@@ -17,10 +17,10 @@
     "IdEstablecimiento": null
   },
   "resultado": {
-    "numerador": 73885,
-    "denominador": 83449,
-    "porcentaje": 88.54,
-    "filas_filtradas": 4864
+    "numerador": 44012,
+    "denominador": 48189,
+    "porcentaje": 91.33,
+    "filas_filtradas": 3023
   },
   "detalle_codigos": {
     "numerador_partos_vaginales": {

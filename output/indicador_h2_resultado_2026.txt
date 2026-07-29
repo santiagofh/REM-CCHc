@@ -2,10 +2,10 @@ Indicador H2
 
 Porcentaje de mujeres con acompañamiento durante el preparto y parto
 
-Numerador: 73885
-Denominador: 83449
-Porcentaje: 88.54
-Filas filtradas: 4864
+Numerador: 44012
+Denominador: 48189
+Porcentaje: 91.33
+Filas filtradas: 3023
 
 Codigos del numerador (partos vaginales):
 - 29101728: Acompañamiento - Durante el trabajo de parto

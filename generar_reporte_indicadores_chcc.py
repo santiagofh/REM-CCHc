@@ -16,7 +16,7 @@ DATA_DIR = BASE_DIR / "data"
 OUTPUT_DIR = BASE_DIR / "output"
 DEFAULT_JSON_PATH = DATA_DIR / "diccionario_rem_chcc_2025.json"
 EXTERNAL_ESTABLISHMENTS_DIR = Path(
-    r"C:\Users\fariass\OneDrive - SUBSECRETARIA DE SALUD PUBLICA\Escritorio\DATA\ESTABLECIMIENTOS"
+    r"D:\DATA\ESTABLECIMIENTOS"
 )
 
 

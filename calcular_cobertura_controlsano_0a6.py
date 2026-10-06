@@ -238,7 +238,7 @@ def add_ficha(wb: Workbook, stats: dict) -> None:
         ("Denominador (FONASA inscritos validados 0-6, T8009 RM sept-2024 = base pago 2025, último disponible; actualizar a corte 2025). Edad 0 (=<1a) a 6.", False),
         (f"RM total: numerador {stats['num']} / denominador {stats['den']} = {stats['cob']:.2%} ({stats['nest']} est. P2, {stats['dest']} est. FONASA, intersección {stats['inter']}).", False),
         ("Niveles: Comuna (52 RM + 1 fila Coaniquem privado/SEREMI con 1 inscrito), Dependencia (maestro DEIS + FONASA), Establecimiento (código DEIS). Flag indica 'Sin denominador' o 'Sin P2'.", False),
-        ("Advertencia: coberturas >100% en centros/comunas pequeñas ocurren porque el numerador cuenta donde se atiende y el denominador donde se inscribe (ej. CECOSF, postas). San José de Maipo trae denominador incompleto en T8009 (solo 1 posta); verificar con FONASA antes de responder.", False),
+        ("Advertencia: coberturas >100% en centros/comunas pequeñas ocurren porque el numerador cuenta donde se atiende y el denominador donde se inscribe (ej. CECOSF, postas).", False),
         ("Fuentes: Norma Supervisión 0-9 años 2021 Cap.3 (MINSAL); Manual Series REM DEIS 2025-2026; SerieP2025.csv; T8009_Inscritos_RM.xlsx; establecimientos_20260424.csv.", False),
     ]
     for i, (txt, bold) in enumerate(lines, start=1):

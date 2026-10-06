@@ -113,7 +113,6 @@ def main():
 
         **Denominador (FONASA inscritos validados 0-6 por establecimiento/comuna/dependencia):**
         - Base T8009 RM a septiembre de 2024 (base pago 2025, último disponible) — edades 0 (=<1 año) a 6.
-        - Actualizar al corte 2025 cuando esté disponible. San José de Maipo trae denominador incompleto en esa base (solo 1 posta).
 
         **Niveles:** comuna (52 RM + fila Coaniquem privado/SEREMI), dependencia (maestro DEIS + FONASA) y establecimiento (código DEIS).
         Coberturas >100% en centros pequeños son esperables: el numerador cuenta donde se atiende y el denominador donde se inscribe.

@@ -8,7 +8,8 @@ Numerador: REM Serie P2, corte diciembre 2025, RM:
   - P2060000 COL01  (0-59 meses, ambos sexos)
   - P2400150 COL04+COL05 (5 años) + COL06+COL07 (6 años)
   Proxy: 0-59m + 5a + 6a completos = 0 a 6a11m (REM no separa 60-71m de 72-83m).
-  P2 se informa semestral (junio/diciembre); se usa diciembre como cierre.
+  P2 se informa semestral (junio/diciembre) pero es STOCK al corte: se usa SOLO
+  diciembre, NO se suman jun+dic (jun RM 192.080 vs dic 194.580 en 0-59m lo confirma).
   "Bajo control" incluye al día + inasistentes dentro del plazo (siguen en P2 A/A.1).
 
 Denominador: FONASA inscritos y validados 0-6 años por establecimiento/comuna/
@@ -233,7 +234,7 @@ def add_ficha(wb: Workbook, stats: dict) -> None:
         ("Cobertura control niño sano 0-6 años — RM 2025 (cierre dic)", True),
         ("Fórmula: Cobertura comunal (%) = Niños/as 0-6 bajo control / Niños/as 0-6 inscritos y validados × 100", False),
         ("Numerador (REM Serie P2, dic 2025, RM): P2060000 COL01 (0-59m) + P2400150 COL04+05 (5a) + COL06+07 (6a). Proxy 0-6a11m: REM no separa 60-71m de 72-83m.", False),
-        ("'Bajo control' = al día + inasistentes dentro del plazo (siguen en P2 A/A.1). P2 se informa en junio y diciembre; se usa diciembre.", False),
+        ("'Bajo control' = al día + inasistentes dentro del plazo (siguen en P2 A/A.1). P2 es stock semestral (jun/dic): se usa SOLO diciembre, no se suman.", False),
         ("Denominador (FONASA inscritos validados 0-6, T8009 RM sept-2024 = base pago 2025, último disponible; actualizar a corte 2025). Edad 0 (=<1a) a 6.", False),
         (f"RM total: numerador {stats['num']} / denominador {stats['den']} = {stats['cob']:.2%} ({stats['nest']} est. P2, {stats['dest']} est. FONASA, intersección {stats['inter']}).", False),
         ("Niveles: Comuna (52 RM + 1 fila Coaniquem privado/SEREMI con 1 inscrito), Dependencia (maestro DEIS + FONASA), Establecimiento (código DEIS). Flag indica 'Sin denominador' o 'Sin P2'.", False),

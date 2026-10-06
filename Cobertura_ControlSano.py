@@ -75,8 +75,8 @@ def main():
         return
 
     st.caption(
-        "Numerador REM P2 dic-2025 (0-59m + 5a + 6a, proxy 0-6a11m) / "
-        "Denominador FONASA inscritos 0-6 sept-2024. Corte semestral P2: junio/diciembre."
+        "Numerador REM P2 SOLO dic-2025 (no se suma jun+dic: es stock al corte) / "
+        "Denominador FONASA inscritos 0-6 sept-2024."
     )
 
     global FILTERS

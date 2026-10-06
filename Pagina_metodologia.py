@@ -106,7 +106,7 @@ def main():
         """
         **Fórmula:** (N° de niños/as de 0 a 6 años bajo control en la comuna / N° de niños/as de 0 a 6 años inscritos y validados en la comuna) × 100
 
-        **Numerador (REM Serie P, corte diciembre, semestral jun/dic):**
+        **Numerador (REM Serie P, SOLO corte diciembre — no se suma jun+dic porque es stock al corte):**
         - Código P2060000 (TOTAL DE NIÑOS/AS EN CONTROL, Sec. A <1 mes-59 meses) — `COL01`
         - Código P2400150 (TOTAL DE NIÑOS EN CONTROL, Sec. A.1) — `COL04+COL05` (5 años) + `COL06+COL07` (6 años)
         - Proxy 0-6a11m: el REM no separa 60-71 meses de 72-83 meses. “Bajo control” incluye al día + inasistentes dentro del plazo.

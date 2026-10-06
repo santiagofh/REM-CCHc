@@ -127,12 +127,12 @@ def norm_txt(t: str) -> str:
 def canon_servicio(t: str) -> str:
     n = norm_txt(t)
     short = {
-        "METROPOLITANO CENTRAL": "SERVICIO DE SALUD METROPOLITANO CENTRAL",
-        "METROPOLITANO NORTE": "SERVICIO DE SALUD METROPOLITANO NORTE",
-        "METROPOLITANO OCCIDENTE": "SERVICIO DE SALUD METROPOLITANO OCCIDENTE",
-        "METROPOLITANO ORIENTE": "SERVICIO DE SALUD METROPOLITANO ORIENTE",
-        "METROPOLITANO SUR": "SERVICIO DE SALUD METROPOLITANO SUR",
-        "METROPOLITANO SUR ORIENTE": "SERVICIO DE SALUD METROPOLITANO SUR ORIENTE",
+        "METROPOLITANO CENTRAL": "Servicio de Salud Metropolitano Central",
+        "METROPOLITANO NORTE": "Servicio de Salud Metropolitano Norte",
+        "METROPOLITANO OCCIDENTE": "Servicio de Salud Metropolitano Occidente",
+        "METROPOLITANO ORIENTE": "Servicio de Salud Metropolitano Oriente",
+        "METROPOLITANO SUR": "Servicio de Salud Metropolitano Sur",
+        "METROPOLITANO SUR ORIENTE": "Servicio de Salud Metropolitano Sur Oriente",
     }
     return short.get(n, str(t or "").strip())
 

@@ -48,6 +48,21 @@ def fmt_pct(val):
     return f"{val:.2f}".replace(".", ",") + "%"
 
 
+COBERTURA_CSV = "resumen_cobertura_controlsano_0a6_por_establecimiento_{year}.csv"
+COBERTURA_TITULO = "Cobertura control sano 0-6 años (P2 / FONASA)"
+
+
+def load_coverage(year: str) -> pd.DataFrame | None:
+    path = OUTPUT_DIR / COBERTURA_CSV.format(year=year)
+    if not path.exists():
+        return None
+    df = pd.read_csv(path, delimiter=";", encoding="utf-8")
+    df = df[df["Region"] == RM_REGION].copy()
+    df["Numerador"] = pd.to_numeric(df["Numerador"], errors="coerce").fillna(0).astype(int)
+    df["Denominador"] = pd.to_numeric(df["Denominador"], errors="coerce").fillna(0).astype(int)
+    return df
+
+
 def load_data(indicator: str, year: str) -> pd.DataFrame:
     path = OUTPUT_DIR / f"resumen_{indicator.lower()}_por_establecimiento_{year}.csv"
     df = pd.read_csv(path, delimiter=";", encoding="utf-8")
@@ -90,6 +105,7 @@ def home():
         - **A2** — Porcentaje de gestantes que ingresan a educación grupal presencial o remota en APS (Meta: 80%)
         - **A4** — Porcentaje de controles de salud entregados a díadas dentro de los 10 días de vida (Meta: 70%)
         - **H2** — Porcentaje de mujeres con acompañamiento durante el preparto y parto (Optativo RM/Hospitales)
+        - **C0** — Cobertura de controles sanos 0-6 años: bajo control (REM P2 dic) / inscritos FONASA 0-6 (sin meta)
 
         *Datos filtrados exclusivamente para la Región Metropolitana de Santiago.*
         """
@@ -115,6 +131,22 @@ def home():
                 "Establecimientos": len(df),
             }
         )
+    df_cob = load_coverage(year)
+    if df_cob is not None:
+        num = int(df_cob["Numerador"].sum())
+        den = int(df_cob["Denominador"].sum())
+        pct = round((num / den) * 100, 2) if den else None
+        rows.append(
+            {
+                "Indicador": "C0",
+                "Título": COBERTURA_TITULO,
+                "Numerador": num,
+                "Denominador": den,
+                "Porcentaje": fmt_pct(pct) if pct is not None else "—",
+                "Meta": "—",
+                "Establecimientos": len(df_cob),
+            }
+        )
     st.dataframe(pd.DataFrame(rows), hide_index=True, use_container_width=True)
 
 
@@ -128,6 +160,9 @@ pg = st.navigation(
             st.Page("Indicador_A2.py", title="A2: Educación prenatal en APS", icon=":material/public:"),
             st.Page("Indicador_A4.py", title="A4: Control díadas 10 días", icon=":material/public:"),
             st.Page("Indicador_H2.py", title="H2: Acompañamiento en parto", icon=":material/public:"),
+        ],
+        "Coberturas": [
+            st.Page("Cobertura_ControlSano.py", title="C0: Control sano 0-6 años", icon=":material/public:"),
         ],
     }
 )

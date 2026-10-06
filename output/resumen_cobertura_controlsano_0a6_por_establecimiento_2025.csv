@@ -1,0 +1,297 @@
+Region;Servicio de salud;Comuna;Dependencia;Establecimiento;CodigoEstablecimiento;Mes;BajoControl_0_59m;BajoControl_5a;BajoControl_6a;Numerador;Denominador;PorcentajeCumplimiento;Cobertura;Flag
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Alhué;Municipal;Centro Comunitario de Salud Familiar Hacienda Alhué;110503;12;291;27;11;329;253;130.04;130.04;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Alhué;Municipal;Centro de Salud Familiar Villa Alhué;110393;12;291;58;50;399;328;121.65;121.65;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Alhué;Municipal;Posta de Salud Rural El Asiento;110510;12;25;4;2;31;4;775.0;775.0;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Alhué;Municipal;Posta de Salud Rural Pichi;110505;12;5;4;2;11;2;550.0;550.0;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Alhué;Municipal;Posta de Salud Rural Santa María;110515;12;0;0;0;0;1;0.0;0.0;Sin P2 reportado
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Buin;Municipal;Centro Comunitario de Salud Familiar Dr. Héctor García;113790;12;405;38;59;502;763;65.79;65.79;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Buin;Municipal;Centro Comunitario de Salud Familiar Dr. Ramón Galindo;113402;12;228;16;24;268;451;59.42;59.42;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Buin;Municipal;Centro de Salud Familiar Alto Jahuel;113333;12;405;48;89;542;776;69.85;69.85;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Buin;Municipal;Centro de Salud Familiar Dr. Héctor García;113390;12;1460;202;220;1882;3011;62.5;62.5;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Buin;Municipal;Centro de Salud Familiar Maipo;113320;12;706;109;95;910;1444;63.02;63.02;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Buin;Municipal;Posta de Salud Rural El Recurso;113406;12;67;12;14;93;93;100.0;100.0;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Buin;Municipal;Posta de Salud Rural Los Morros;113407;12;106;18;18;142;199;71.36;71.36;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Buin;Municipal;Posta de Salud Rural Valdivia de Paine;113404;12;127;33;23;183;259;70.66;70.66;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Buin;Municipal;Posta de Salud Rural Viluco;113405;12;248;27;23;298;391;76.21;76.21;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Calera de Tango;Municipal;Centro de Salud Familiar Calera de Tango;113321;12;260;56;36;352;464;75.86;75.86;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Calera de Tango;Municipal;Centro de Salud Familiar Los Bajos de San Agustín;113334;12;882;63;49;994;766;129.77;129.77;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Calera de Tango;Municipal;Posta de Salud Rural Santa Inés;113413;12;8;0;0;8;15;53.33;53.33;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Cerrillos;Servicio de Salud;Centro Comunitario de Salud Familiar Buzeta;200346;12;139;12;20;171;92;185.87;185.87;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Cerrillos;Servicio de Salud;Centro de Salud Familiar Dr. Norman Voulliéme;111305;12;1405;172;126;1703;2086;81.64;81.64;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Cerrillos;Servicio de Salud;Centro de Salud Familiar Enfermera Sofía Pincheira;111307;12;797;129;109;1035;984;105.18;105.18;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Cerro Navia;Municipal;Centro Comunitario de Salud Familiar Los Lagos (Unidad Vecinal Nº 33);110735;12;91;21;16;128;12;1066.67;1066.67;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Cerro Navia;Municipal;Centro de Salud Familiar Cerro Navia;110335;12;958;196;172;1326;2040;65.0;65.0;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Cerro Navia;Municipal;Centro de Salud Familiar Dr. Adalberto Steeger;110330;12;1696;221;198;2115;2726;77.59;77.59;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Cerro Navia;Municipal;Centro de Salud Familiar Dr. Arturo Albertz;110355;12;1183;185;176;1544;2273;67.93;67.93;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Cerro Navia;Municipal;Centro de Salud Familiar Lo Amor;110331;12;835;162;130;1127;1689;66.73;66.73;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Colina;Municipal;CESFAM La Reina de Colina;201462;12;1460;250;187;1897;525;361.33;361.33;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Colina;Municipal;Centro Comunitario de Salud Familiar Esmeralda;109716;12;157;46;31;234;266;87.97;87.97;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Colina;Municipal;Centro de Salud Familiar Colina;109310;12;1936;336;371;2643;5507;47.99;47.99;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Colina;Municipal;Centro de Salud Familiar Esmeralda;109316;12;1420;200;244;1864;4246;43.9;43.9;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Colina;Municipal;Posta de Salud Rural Chacabuco (Colina);109420;12;31;5;6;42;7;600.0;600.0;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Colina;Municipal;Posta de Salud Rural Colorado;109416;12;38;13;10;61;2;3050.0;3050.0;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Colina;Municipal;Posta de Salud Rural Las Canteras;109418;12;29;6;11;46;6;766.67;766.67;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Colina;Municipal;Posta de Salud Rural Los Ingleses;109417;12;22;4;8;34;10;340.0;340.0;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Colina;Municipal;Posta de Salud Rural Santa Marta de Liray;109419;12;63;5;15;83;5;1660.0;1660.0;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Conchalí;Municipal;Centro Comunitario de Salud Familiar Alberto Bachelet;200347;12;170;32;36;238;184;129.35;129.35;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Conchalí;Municipal;Centro Comunitario de Salud Familiar Dr. José Symón Ojeda;109709;12;368;64;68;500;607;82.37;82.37;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Conchalí;Municipal;Centro Comunitario de Salud Familiar Dr. Lucas Sierra;200609;12;266;47;61;374;107;349.53;349.53;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Conchalí;Municipal;Centro de Salud Familiar Alberto Bachelet Martínez;109308;12;722;126;124;972;1634;59.49;59.49;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Conchalí;Municipal;Centro de Salud Familiar José Symon Ojeda;109309;12;577;112;107;796;1271;62.63;62.63;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Conchalí;Municipal;Centro de Salud Familiar Juanita Aguirre;109314;12;882;161;125;1168;1060;110.19;110.19;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Conchalí;Municipal;Centro de Salud Familiar Lucas Sierra;109302;12;1273;213;277;1763;2089;84.39;84.39;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Curacaví;Servicio de Salud;Centro Comunitario de Salud Familiar María Salas;110477;12;0;0;0;0;113;0.0;0.0;Sin P2 reportado
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Curacaví;Servicio de Salud;Centro Comunitario de Salud Familiar Valmi  Aguirre;110760;12;0;0;0;0;218;0.0;0.0;Sin P2 reportado
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Curacaví;Servicio de Salud;Hospital de Curacaví;110160;12;1095;174;160;1429;601;237.77;237.77;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;El Bosque;Municipal;Centro Comunitario de Salud Familiar Los Sauces;200962;12;148;41;38;227;381;59.58;59.58;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;El Bosque;Municipal;Centro Comunitario de Salud Familiar Santa Laura;113717;12;165;23;22;210;306;68.63;68.63;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;El Bosque;Municipal;Centro de Salud Familiar Canciller Orlando Letelier;113329;12;746;170;145;1061;1584;66.98;66.98;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;El Bosque;Municipal;Centro de Salud Familiar Cóndores de Chile;113314;12;834;194;174;1202;1866;64.42;64.42;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;El Bosque;Municipal;Centro de Salud Familiar Dr. Carlos Lorca Tobar;113312;12;945;197;212;1354;2153;62.89;62.89;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;El Bosque;Municipal;Centro de Salud Familiar Dr. Mario Salcedo;113323;12;864;224;183;1271;2264;56.14;56.14;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;El Bosque;Municipal;Centro de Salud Familiar Dra. Haydeé López Casoou;113324;12;971;197;188;1356;2144;63.25;63.25;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;El Bosque;Municipal;Centro de Salud Familiar Santa Laura;113317;12;934;175;170;1279;1941;65.89;65.89;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;El Monte;Municipal;Centro Comunitario de Salud Familiar Lo Chacón;200454;12;230;39;42;311;344;90.41;90.41;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;El Monte;Municipal;Centro de Salud Familiar El Monte;110370;12;916;134;131;1181;1851;63.8;63.8;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Estación Central;Servicio de Salud;Centro Comunitario de Salud Familiar Villa Francia;111781;12;82;15;16;113;6;1883.33;1883.33;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Estación Central;Servicio de Salud;Centro de Salud Familiar Las Mercedes;111310;12;2557;334;307;3198;6247;51.19;51.19;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Estación Central;Servicio de Salud;Centro de Salud Familiar Padre Vicente Irarrázabal;111302;12;1339;83;53;1475;1634;90.27;90.27;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Estación Central;Servicio de Salud;Centro de Salud Familiar San José de Chuchunco;111306;12;1062;156;206;1424;1861;76.52;76.52;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Huechuraba;Municipal;Centro Comunitario de Salud Familiar Los Libertadores;109718;12;217;49;55;321;490;65.51;65.51;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Huechuraba;Municipal;Centro de Salud Familiar Dr. Salvador Allende Gossens;109323;12;794;175;175;1144;1506;75.96;75.96;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Huechuraba;Municipal;Centro de Salud Familiar Dr. Victor Castro Wiren;200961;12;270;44;48;362;462;78.35;78.35;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Huechuraba;Municipal;Centro de Salud Familiar El Barrero;109317;12;559;125;96;780;977;79.84;79.84;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Huechuraba;Municipal;Centro de Salud Familiar La Pincoya;109305;12;922;192;185;1299;1769;73.43;73.43;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Independencia;Municipal;Centro Comunitario de Salud Familiar Las Enredaderas;200554;12;514;36;27;577;121;476.86;476.86;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Independencia;Municipal;Centro de Salud Familiar Agustín Cruz Melo;109300;12;2729;456;405;3590;6399;56.1;56.1;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Independencia;Municipal;Centro de Salud Familiar Juan Antonio Ríos;109321;12;1045;200;186;1431;1975;72.46;72.46;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Isla de Maipo;Municipal;Centro Comunitario de Salud Familiar La Islita;110775;12;137;37;30;204;226;90.27;90.27;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Isla de Maipo;Municipal;Centro Comunitario de Salud Familiar San Vicente de Naltagua;200385;12;64;11;11;86;90;95.56;95.56;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Isla de Maipo;Municipal;Centro de Salud Familiar Isla de Maipo;110375;12;441;84;89;614;878;69.93;69.93;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Isla de Maipo;Municipal;Centro de Salud Familiar La Islita;110425;12;561;117;117;795;694;114.55;114.55;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Isla de Maipo;Municipal;Posta de Salud Rural Gacitúa;110431;12;72;20;17;109;108;100.93;100.93;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Isla de Maipo;Municipal;Posta de Salud Rural Las Mercedes ( Isla de Maipo );110432;12;46;14;19;79;84;94.05;94.05;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Isla de Maipo;Municipal;Posta de Salud Rural San Antonio de Naltagua;110430;12;69;12;18;99;88;112.5;112.5;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;La Cisterna;Municipal;Centro Comunitario de Salud Familiar Eduardo Frei Montalva;200360;12;126;34;13;173;301;57.48;57.48;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;La Cisterna;Municipal;Centro de Salud Familiar Eduardo Frei Montalva;113326;12;1116;218;196;1530;2367;64.64;64.64;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;La Cisterna;Municipal;Centro de Salud Familiar Santa Anselma;113311;12;1378;238;180;1796;2820;63.69;63.69;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Florida;Municipal;Centro Comunitario de Salud Familiar Las Lomas;200475;12;96;4;5;105;0;;;Sin denominador FONASA
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Florida;Municipal;Centro de Salud Familiar Bellavista;114303;12;1392;83;80;1555;2803;55.48;55.48;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Florida;Municipal;Centro de Salud Familiar Dr. Fernando Maffioletti;114316;12;1104;233;231;1568;2240;70.0;70.0;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Florida;Municipal;Centro de Salud Familiar José Alvo;114334;12;877;173;170;1220;2006;60.82;60.82;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Florida;Municipal;Centro de Salud Familiar La Florida;114331;12;1282;198;174;1654;2706;61.12;61.12;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Florida;Municipal;Centro de Salud Familiar Los Castaños;114302;12;1089;76;79;1244;1894;65.68;65.68;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Florida;Municipal;Centro de Salud Familiar Los Quillayes;114305;12;1735;354;382;2471;3182;77.66;77.66;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Florida;Municipal;Centro de Salud Familiar Santa Amalia;114324;12;1229;198;194;1621;2715;59.71;59.71;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Florida;Municipal;Centro de Salud Familiar Trinidad;114330;12;998;223;199;1420;2045;69.44;69.44;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Florida;Municipal;Centro de Salud Familiar Villa O'Higgins;114304;12;1146;198;222;1566;2158;72.57;72.57;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Granja;Municipal;Centro Comunitario de Salud Familiar Millalemu;114706;12;109;9;5;123;12;1025.0;1025.0;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Granja;Municipal;Centro Comunitario de Salud Familiar San Gregorio;114796;12;109;17;12;138;38;363.16;363.16;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Granja;Municipal;Centro de Salud Familiar Granja Sur;114325;12;1244;290;228;1762;2513;70.12;70.12;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Granja;Municipal;Centro de Salud Familiar La Granja;114306;12;1104;202;194;1500;2344;63.99;63.99;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Granja;Municipal;Centro de Salud Familiar Malaquías Concha;114315;12;539;133;88;760;1128;67.38;67.38;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Granja;Municipal;Centro de Salud Familiar Padre Esteban Gumucio Vives;113307;12;0;0;0;0;1389;0.0;0.0;Sin P2 reportado
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Pintana;Municipal;Centro de Salud Familiar El Roble;114319;12;1352;217;222;1791;2269;78.93;78.93;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Pintana;Municipal;Centro de Salud Familiar Flor Fernández;114318;12;400;60;54;514;651;78.96;78.96;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Pintana;Delegado;Centro de Salud Familiar Juan Pablo II Red de Salud UC CHRISTUS;114327;12;650;164;181;995;1365;72.89;72.89;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Pintana;Municipal;Centro de Salud Familiar Pablo de Rokha;114309;12;858;143;171;1172;1814;64.61;64.61;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Pintana;Municipal;Centro de Salud Familiar San Rafael;114308;12;1008;160;138;1306;1823;71.64;71.64;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Pintana;Municipal;Centro de Salud Familiar Santiago de Nueva Extremadura;114311;12;1171;197;262;1630;1960;83.16;83.16;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;La Pintana;Municipal;Centro de Salud Familiar Santo Tomás;114317;12;1013;222;212;1447;1992;72.64;72.64;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;La Reina;Municipal;Centro Comunitario de Salud Familiar Dragones de La Reina;112717;12;0;0;0;0;150;0.0;0.0;Sin P2 reportado
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;La Reina;Municipal;Centro Odontológico La Reina;200080;12;0;0;0;0;4;0.0;0.0;Sin P2 reportado
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;La Reina;Municipal;Centro de Salud Familiar Juan Pablo II ( La Reina);112320;12;417;61;50;528;1098;48.09;48.09;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;La Reina;Municipal;Centro de Salud Familiar Ossandon;112317;12;244;78;78;400;526;76.05;76.05;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Lampa;Municipal;Centro Comunitario de Salud Familiar Batuco;109712;12;394;82;78;554;707;78.36;78.36;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Lampa;Municipal;Centro Comunitario de Salud Familiar Sol de Septiembre;109711;12;447;85;133;665;737;90.23;90.23;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Lampa;Municipal;Centro de Salud Familiar Batuco;109312;12;816;167;190;1173;1464;80.12;80.12;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Lampa;Municipal;Centro de Salud Familiar José Bauza Frau;109311;12;2313;526;456;3295;4724;69.75;69.75;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Lampa;Municipal;Centro de Salud Familiar Juan Pablo II de Lampa;201212;12;591;126;141;858;0;;;Sin denominador FONASA
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Lampa;Municipal;Posta de Salud Rural Juan Pablo II de Lampa;109407;12;0;0;0;0;960;0.0;0.0;Sin P2 reportado
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Las Condes;Municipal;Centro de Salud Familiar Aníbal Ariztía;112306;12;927;199;222;1348;2033;66.31;66.31;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Las Condes;Municipal;Centro de Salud Familiar Apoquindo;112304;12;235;60;64;359;594;60.44;60.44;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Lo Barnechea;Municipal;Centro Comunitario de Salud Familiar Cerro 18;112707;12;0;0;0;0;41;0.0;0.0;Sin P2 reportado
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Lo Barnechea;Municipal;Centro de Salud Familiar Lo Barnechea;112307;12;1358;288;288;1934;2112;91.57;91.57;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Lo Barnechea;Municipal;Posta de Salud Rural de Farellones;112407;12;0;0;0;0;1;0.0;0.0;Sin P2 reportado
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Lo Espejo;Municipal;Centro de Salud Familiar Clara Estrella;113308;12;750;161;149;1060;1683;62.98;62.98;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Lo Espejo;Municipal;Centro de Salud Familiar Dra. Mariela Salgado Zepeda;113310;12;1116;97;83;1296;1690;76.69;76.69;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Lo Espejo;Municipal;Centro de Salud Familiar Julio Acuña Pinzón;113309;12;893;215;86;1194;1820;65.6;65.6;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Lo Espejo;Municipal;Centro de Salud Familiar Pueblo Lo Espejo;113396;12;839;170;177;1186;1709;69.4;69.4;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Lo Prado;Municipal;Centro de Salud Familiar Dr. Carlos Avendaño;110345;12;876;86;140;1102;1839;59.92;59.92;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Lo Prado;Municipal;Centro de Salud Familiar Dr. Raúl Yazigi;110340;12;835;215;191;1241;2097;59.18;59.18;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Lo Prado;Municipal;Centro de Salud Familiar Pablo Neruda;110316;12;851;177;137;1165;1953;59.65;59.65;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Lo Prado;Municipal;Centro de Salud Familiar Santa Anita;110315;12;1145;273;243;1661;2484;66.87;66.87;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Macul;Municipal;Centro de Salud Familiar Félix de Amesti;112312;12;819;129;118;1066;2256;47.25;47.25;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Macul;Municipal;Centro de Salud Familiar Padre Alberto Hurtado;112319;12;739;95;76;910;2058;44.22;44.22;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Macul;Municipal;Centro de Salud Familiar Santa Julia;112313;12;1170;137;138;1445;2550;56.67;56.67;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;Municipal;CESFAM El Abrazo Dr. Salvador Allende Gossens;201674;12;608;82;54;744;0;;;Sin denominador FONASA
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;Municipal;Centro Comunitario de Salud Familiar Bueras;111784;12;77;13;20;110;131;83.97;83.97;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;Municipal;Centro Comunitario de Salud Familiar El Abrazo;111782;12;0;0;0;0;41;0.0;0.0;Sin P2 reportado
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;Servicio de Salud;Centro Comunitario de Salud Familiar Europa;111780;12;44;10;6;60;10;600.0;600.0;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;Servicio de Salud;Centro Comunitario de Salud Familiar Futramapu;111704;12;62;10;13;85;12;708.33;708.33;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;Municipal;Centro Comunitario de Salud Familiar LUMEN;201129;12;242;42;26;310;78;397.44;397.44;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;Municipal;Centro Comunitario de Salud Familiar Lo Errázuriz;111783;12;140;42;28;210;208;100.96;100.96;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;Municipal;Centro Comunitario de Salud Familiar Los Bosquinos;200643;12;226;38;37;301;55;547.27;547.27;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;Servicio de Salud;Centro Comunitario de Salud Familiar Rinconada de Maipú;111400;12;0;0;0;0;1;0.0;0.0;Sin P2 reportado
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;Servicio de Salud;Centro de Referencia de Salud de Maipú;111351;12;0;0;0;0;34;0.0;0.0;Sin P2 reportado
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;Municipal;Centro de Salud Familiar Clotario Blest;111379;12;816;210;151;1177;1893;62.18;62.18;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;Municipal;Centro de Salud Familiar Dr. Carlos Godoy;111380;12;1637;170;233;2040;2133;95.64;95.64;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;Municipal;Centro de Salud Familiar Dr. Iván Insunza;111378;12;824;180;99;1103;1414;78.01;78.01;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;Servicio de Salud;Centro de Salud Familiar Dr. José Eduardo Ahués Salame;111308;12;1320;178;197;1695;1231;137.69;137.69;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;Municipal;Centro de Salud Familiar Dr. Luis Ferrada;111383;12;1173;212;164;1549;1614;95.97;95.97;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;Servicio de Salud;Centro de Salud Familiar Dra. Ana María Juricic;111309;12;1451;265;255;1971;1022;192.86;192.86;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;Servicio de Salud;Centro de Salud Familiar Maipú;111304;12;1115;171;216;1502;1464;102.6;102.6;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Maipú;Municipal;Centro de Salud Familiar Presidenta Michelle Bachelet;111382;12;1303;174;85;1562;2563;60.94;60.94;
+Metropolitana de Santiago;SERVICIO DE SALUD METROPOLITANO CENTRAL;Maipú;Municipal;Cesfam El Abrazo Dr. Salvador Allende;311001;12;0;0;0;0;520;0.0;0.0;Sin P2 reportado
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Maria Pinto;Municipal;Centro de Salud Familiar Adriana Madrid De Costabal;110385;12;316;39;37;392;691;56.73;56.73;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Maria Pinto;Municipal;Posta de Salud Rural Chorombo;110475;12;101;14;14;129;215;60.0;60.0;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Maria Pinto;Municipal;Posta de Salud Rural Las Mercedes ( María Pinto );110470;12;41;9;6;56;62;90.32;90.32;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Maria Pinto;Municipal;Posta de Salud Rural Santa Emilia;110465;12;0;0;0;0;112;0.0;0.0;Sin P2 reportado
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Melipilla;Municipal;Centro Comunitario de Salud Familiar Codigua;110783;12;67;16;17;100;108;92.59;92.59;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Melipilla;Municipal;Centro Comunitario de Salud Familiar Obispo Pablo Lizama;110781;12;175;33;42;250;329;75.99;75.99;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Melipilla;Municipal;Centro Comunitario de Salud Familiar Padre Demetrio Bravo;110778;12;316;44;57;417;619;67.37;67.37;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Melipilla;Municipal;Centro de Salud Familiar Alfarera Rosa Reyes Vilches;110381;12;374;32;29;435;573;75.92;75.92;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Melipilla;Municipal;Centro de Salud Familiar Dr. Edelberto Elgueta;110378;12;1204;162;139;1505;2006;75.02;75.02;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Melipilla;Municipal;Centro de Salud Familiar Dr. Francisco Boris Soler;110379;12;1071;207;160;1438;2593;55.46;55.46;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Melipilla;Municipal;Centro de Salud Familiar Florencia;200965;12;1162;204;194;1560;1936;80.58;80.58;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Melipilla;Municipal;Centro de Salud Familiar San Manuel;110380;12;326;71;66;463;724;63.95;63.95;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Melipilla;Municipal;Posta de Salud Rural Bollenar;110440;12;206;30;36;272;613;44.37;44.37;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Melipilla;Municipal;Posta de Salud Rural Pabellón;110455;12;85;9;6;100;207;48.31;48.31;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Melipilla;Municipal;Posta de Salud Rural Pahuilmo;110445;12;188;34;42;264;336;78.57;78.57;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Padre Hurtado;Municipal;Centro de Salud Familiar Juan Pablo II ( Padre Hurtado);110366;12;2234;240;384;2858;4140;69.03;69.03;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Paine;Municipal;Centro de Salud Familiar Dr. Miguel Ángel Solar (ex CESFAM Paine);113318;12;1923;372;383;2678;3358;79.75;79.75;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Paine;Municipal;Centro de Salud Familiar Dr. Raúl Moya;113319;12;577;128;142;847;1055;80.28;80.28;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Paine;Municipal;Posta de Salud Rural Abrantes;113411;12;84;13;14;111;165;67.27;67.27;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Paine;Municipal;Posta de Salud Rural Chada;113412;12;75;15;20;110;135;81.48;81.48;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Paine;Municipal;Posta de Salud Rural Huelquén;113409;12;280;51;53;384;504;76.19;76.19;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Paine;Municipal;Posta de Salud Rural Pintué;113408;12;81;23;17;121;166;72.89;72.89;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Paine;Municipal;Posta de Salud Rural Rangue;113410;12;49;9;15;73;67;108.96;108.96;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Pedro Aguirre Cerda;Municipal;Centro Comunitario de Salud Familiar Dr. Miguel Enríquez Espinosa;113703;12;171;29;52;252;360;70.0;70.0;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Pedro Aguirre Cerda;Municipal;Centro de Salud Familiar Amador Neghme;113303;12;1034;204;233;1471;1967;74.78;74.78;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Pedro Aguirre Cerda;Municipal;Centro de Salud Familiar Edgardo Enríquez Fröedden;113331;12;712;204;204;1120;1527;73.35;73.35;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Pedro Aguirre Cerda;Municipal;Centro de Salud Familiar Lo Valledor Norte;111303;12;783;163;186;1132;1541;73.46;73.46;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Pedro Aguirre Cerda;Municipal;Centro de Salud Familiar Padre Pierre Dubois (Ex La Feria);113306;12;963;204;260;1427;1637;87.17;87.17;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;Pedro Aguirre Cerda;Municipal;Centro de Salud Familiar Villa Sur;113304;12;0;0;0;0;8;0.0;0.0;Sin P2 reportado
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Peñaflor;Municipal;Centro de Salud Familiar Dr. Fernando Monckeberg;110369;12;1309;197;184;1690;2717;62.2;62.2;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Peñaflor;Municipal;Centro de Salud Familiar Peñaflor;110308;12;1195;160;201;1556;2403;64.75;64.75;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Peñalolén;Municipal;Centro Comunitario de Salud Familiar Esperanza Andina;112716;12;0;0;0;0;8;0.0;0.0;Sin P2 reportado
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Peñalolén;Servicio de Salud;Centro de Referencia de Salud Cordillera Oriente;112300;12;0;0;0;0;1;0.0;0.0;Sin P2 reportado
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Peñalolén;Municipal;Centro de Salud Familiar Cardenal Silva Henríquez;112321;12;822;163;195;1180;1523;77.48;77.48;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Peñalolén;Municipal;Centro de Salud Familiar Carol Urzúa Ibáñez;112316;12;1450;158;277;1885;2301;81.92;81.92;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Peñalolén;Municipal;Centro de Salud Familiar La Faena;112314;12;1159;190;136;1485;2094;70.92;70.92;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Peñalolén;Municipal;Centro de Salud Familiar Las Torres;201112;12;1018;208;192;1418;1948;72.79;72.79;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Peñalolén;Municipal;Centro de Salud Familiar Lo Hermida;112318;12;996;233;218;1447;1872;77.3;77.3;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Peñalolén;Municipal;Centro de Salud Familiar Padre Gerardo Whelan;112322;12;942;184;190;1316;1643;80.1;80.1;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Peñalolén;Municipal;Centro de Salud Familiar San Luis;112315;12;711;140;147;998;1278;78.09;78.09;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;Pirque;Municipal;Centro de Salud Familiar Dr. José Manuel Balmaceda;114310;12;340;71;57;468;714;65.55;65.55;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;Pirque;Municipal;Centro de Salud Rural El Principal;114333;12;355;67;66;488;795;61.38;61.38;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;Pirque;Municipal;Posta de Salud Rural Puntilla;114401;12;34;3;15;52;81;64.2;64.2;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;Pirque;Municipal;Posta de Salud Rural San Vicente;114406;12;12;1;8;21;28;75.0;75.0;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;Pirque;Municipal;Posta de Salud Rural Santa Rita;114403;12;2;0;1;3;5;60.0;60.0;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Providencia;Municipal;Centro Comunitario de Salud Familiar Andacollo;200265;12;0;0;0;0;4;0.0;0.0;Sin P2 reportado
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Providencia;Municipal;Centro Comunitario de Salud Familiar Elena Caffarena;200037;12;0;0;0;0;3;0.0;0.0;Sin P2 reportado
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Providencia;Municipal;Centro de Especialidades Odontológicas Leng;200188;12;0;0;0;0;1;0.0;0.0;Sin P2 reportado
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Providencia;Municipal;Centro de Salud Familiar Aguilucho;112303;12;250;40;56;346;530;65.28;65.28;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Providencia;Municipal;Centro de Salud Familiar Dr. Alfonso Leng;112302;12;260;56;36;352;588;59.86;59.86;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Providencia;Municipal;Centro de Salud Familiar Dr. Hernán Alessandri;112301;12;415;98;89;602;1111;54.19;54.19;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Pudahuel;Municipal;Centro Comunitario de Salud Familiar Concejal Guillermo Flores O.;110750;12;50;9;11;70;28;250.0;250.0;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Pudahuel;Municipal;Centro Comunitario de Salud Familiar Irene Frei Montalva;110410;12;12;7;8;27;82;32.93;32.93;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Pudahuel;Municipal;Centro Comunitario de Salud Familiar Mar Caribe;110756;12;68;12;13;93;63;147.62;147.62;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Pudahuel;Municipal;Centro Comunitario de Salud Familiar Padre Félix Gutiérrez Donoso;110752;12;164;27;43;234;98;238.78;238.78;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Pudahuel;Municipal;Centro Comunitario de Salud Familiar Río Claro;110754;12;147;15;24;186;66;281.82;281.82;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Pudahuel;Municipal;Centro Comunitario de Salud Familiar Santa Corina;110758;12;53;19;16;88;39;225.64;225.64;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Pudahuel;Municipal;Centro Comunitario de Salud Familiar Unión y Esfuerzo Rural;201353;12;39;15;16;70;0;;;Sin denominador FONASA
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Pudahuel;Servicio de Salud;Centro de Referencia de Salud Salvador Allende;110300;12;201;0;0;201;0;;;Sin denominador FONASA
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Pudahuel;Municipal;Centro de Salud Familiar Cardenal Raúl Silva Henríquez;110353;12;1122;216;207;1545;1744;88.59;88.59;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Pudahuel;Municipal;Centro de Salud Familiar Dr. Gustavo Molina;110352;12;1062;234;258;1554;2061;75.4;75.4;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Pudahuel;Municipal;Centro de Salud Familiar Pudahuel Estrella;110350;12;1548;223;269;2040;3402;59.96;59.96;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Pudahuel;Municipal;Centro de Salud Familiar Pudahuel Poniente;110351;12;1462;219;210;1891;2754;68.66;68.66;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Pudahuel;Municipal;Centro de Salud Familiar Violeta Parra;110354;12;1395;181;161;1737;2881;60.29;60.29;
+Metropolitana de Santiago;SEREMI de Salud Metropolitana de Santiago;Pudahuel;Privado;Consultorio Coaniquem;110601;12;0;0;0;0;1;0.0;0.0;Sin P2 reportado
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;Puente Alto;Municipal;Centro de Salud Familiar Bernardo Leighton;114320;12;1201;201;31;1433;3131;45.77;45.77;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;Puente Alto;Municipal;Centro de Salud Familiar Cardenal Silva Henríquez;114321;12;605;40;41;686;2907;23.6;23.6;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;Puente Alto;Municipal;Centro de Salud Familiar Dr. Alejandro del Río;114301;12;1378;295;294;1967;4865;40.43;40.43;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;Puente Alto;Municipal;Centro de Salud Familiar Karol Wojtyla;114326;12;979;217;164;1360;3032;44.85;44.85;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;Puente Alto;Municipal;Centro de Salud Familiar Laurita Vicuña;114332;12;843;168;135;1146;2401;47.73;47.73;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;Puente Alto;Delegado;Centro de Salud Familiar Madre Teresa de Calcuta Red de Salud UC CHRISTUS;114323;12;596;147;145;888;1271;69.87;69.87;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;Puente Alto;Municipal;Centro de Salud Familiar Padre Manuel Villaseca;114322;12;1614;251;45;1910;4402;43.39;43.39;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;Puente Alto;Delegado;Centro de Salud Familiar San Alberto Hurtado Red de Salud UC CHRISTUS;114329;12;584;144;141;869;1354;64.18;64.18;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;Puente Alto;Municipal;Centro de Salud Familiar San Gerónimo;114312;12;853;140;131;1124;3029;37.11;37.11;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;Puente Alto;Municipal;Centro de Salud Familiar Vista Hermosa;114313;12;575;112;58;745;2080;35.82;35.82;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Quilicura;Municipal;Centro Comunitario de Salud Familiar Beato Padre Hurtado;200304;12;199;43;56;298;156;191.03;191.03;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Quilicura;Municipal;Centro Comunitario de Salud Familiar La Foresta;109713;12;130;40;11;181;219;82.65;82.65;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Quilicura;Municipal;Centro Comunitario de Salud Familiar Pucara de Lasana;109715;12;126;18;18;162;357;45.38;45.38;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Quilicura;Municipal;Centro de Salud Familiar Irene Frei de Cid;109313;12;2010;445;490;2945;3346;88.02;88.02;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Quilicura;Municipal;Centro de Salud Familiar Manuel Bustos Huerta;109315;12;1326;277;257;1860;2366;78.61;78.61;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Quilicura;Municipal;Centro de Salud Familiar Marta Ugarte Román;201091;12;1762;283;237;2282;2352;97.02;97.02;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Quilicura;Municipal;Centro de Salud Familiar Presidente Salvador Allende Gossens;109324;12;1864;360;329;2553;4099;62.28;62.28;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Quinta Normal;Municipal;Centro Comunitario de Salud Familiar Antumalal;110725;12;149;17;17;183;1;18300.0;18300.0;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Quinta Normal;Municipal;Centro Comunitario de Salud Familiar Catamarca;110720;12;257;19;12;288;2;14400.0;14400.0;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Quinta Normal;Municipal;Centro Comunitario de Salud Familiar Plaza México;200342;12;173;33;40;246;0;;;Sin denominador FONASA
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Quinta Normal;Servicio de Salud;Centro de Salud Familiar Andes;110310;12;1322;218;98;1638;1849;88.59;88.59;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Quinta Normal;Municipal;Centro de Salud Familiar Garín;110325;12;793;137;106;1036;2100;49.33;49.33;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Quinta Normal;Municipal;Centro de Salud Familiar Lo Franco;110320;12;987;186;145;1318;2555;51.59;51.59;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Recoleta;Otra Institución;Centro de Salud Familiar Cristo Vive (ONG);109390;12;899;146;194;1239;1534;80.77;80.77;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Recoleta;Municipal;Centro de Salud Familiar Dr. Juan Petrinovic (Ex Scroggie);109307;12;819;262;252;1333;1435;92.89;92.89;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Recoleta;Municipal;Centro de Salud Familiar Quinta Bella;109303;12;966;185;226;1377;2544;54.13;54.13;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Recoleta;Municipal;Centro de Salud Familiar Recoleta;109301;12;1763;434;231;2428;3536;68.67;68.67;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Recoleta;Municipal;Centro de Salud Familiar Valdivieso;109304;12;557;97;160;814;508;160.24;160.24;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Renca;Municipal;Centro de Salud Familiar Bicentenario;110361;12;1947;299;366;2612;3432;76.11;76.11;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Renca;Municipal;Centro de Salud Familiar Dr. Hernán Urzúa Merino;110362;12;1092;218;184;1494;2267;65.9;65.9;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Renca;Municipal;Centro de Salud Familiar Huamachuco;110364;12;698;123;90;911;1419;64.2;64.2;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Renca;Municipal;Centro de Salud Familiar Renca;110360;12;2255;446;373;3074;4067;75.58;75.58;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Municipal;Centro Comunitario de Salud Familiar Las Hortensias;200377;12;222;59;36;317;402;78.86;78.86;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Municipal;Centro Comunitario de Salud Familiar Lo Herrera;113728;12;332;52;48;432;514;84.05;84.05;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Municipal;Centro Comunitario de Salud Familiar Rapa Nui;113716;12;199;40;44;283;340;83.24;83.24;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Municipal;Centro Comunitario de Salud Familiar Ribera del Maipo;113713;12;205;43;53;301;334;90.12;90.12;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Servicio de Salud;Centro de Referencia de Salud El Pino;113181;12;0;0;0;0;2;0.0;0.0;Sin P2 reportado
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Municipal;Centro de Salud Familiar Carol Urzúa;113316;12;1043;190;187;1420;2209;64.28;64.28;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Municipal;Centro de Salud Familiar Confraternidad;113315;12;947;203;183;1333;2352;56.68;56.68;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Municipal;Centro de Salud Familiar El Manzano;113394;12;1078;243;246;1567;2219;70.62;70.62;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Municipal;Centro de Salud Familiar Juan Pablo II ( San Bernardo);113332;12;1315;315;275;1905;2185;87.19;87.19;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Municipal;Centro de Salud Familiar Padre Joan Alsina;113328;12;1326;222;297;1845;2069;89.17;89.17;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Municipal;Centro de Salud Familiar Raúl Brañes F.;113330;12;2065;233;315;2613;3110;84.02;84.02;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Bernardo;Municipal;Centro de Salud Familiar Raúl Cuevas (Ex-San Bernardo);113313;12;1106;197;154;1457;2235;65.19;65.19;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Joaquín;Municipal;Centro Comunitario de Salud Familiar Coñimo;200210;12;146;38;19;203;315;64.44;64.44;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Joaquín;Municipal;Centro Comunitario de Salud Familiar Dr. Salvador Allende;113722;12;131;32;30;193;403;47.89;47.89;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Joaquín;Municipal;Centro Comunitario de Salud Familiar Martín Henríquez;200337;12;158;26;26;210;379;55.41;55.41;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Joaquín;Municipal;Centro Comunitario de Salud Familiar Reverendo Javier Peró;113753;12;66;6;17;89;143;62.24;62.24;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Joaquín;Municipal;Centro Comunitario de Salud Familiar Sierra Bella;113702;12;74;25;16;115;188;61.17;61.17;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Joaquín;Municipal;Centro Comunitario de Salud Familiar Yalta;113701;12;263;57;39;359;503;71.37;71.37;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Joaquín;Municipal;Centro de Salud Familiar Arturo Baeza Goñi;113305;12;478;124;114;716;1187;60.32;60.32;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Joaquín;Municipal;Centro de Salud Familiar San Joaquín;113301;12;488;120;109;717;1252;57.27;57.27;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Joaquín;Municipal;Centro de Salud Familiar Santa Teresa de Los Andes;113322;12;608;157;159;924;1319;70.05;70.05;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;San José de Maipo;Servicio de Salud;Hospital San José de Maipo;114102;12;398;76;107;581;20;2905.0;2905.0;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;San José de Maipo;Municipal;Posta de Salud Rural Las Vertientes;114407;12;79;20;12;111;33;336.36;336.36;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;San José de Maipo;Municipal;Posta de Salud Rural San Gabriel;114410;12;8;2;2;12;3;400.0;400.0;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Miguel;Municipal;Centro Comunitario de Salud Familiar Atacama;200361;12;306;69;65;440;764;57.59;57.59;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Miguel;Municipal;Centro de Salud Familiar Barros Luco;113300;12;1586;345;398;2329;3851;60.48;60.48;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur;San Miguel;Municipal;Centro de Salud Familiar Recreo;113302;12;1283;307;275;1865;2618;71.24;71.24;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;San Pedro;Municipal;Centro de Salud Familiar San Pedro;110387;12;360;72;63;495;795;62.26;62.26;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;San Pedro;Municipal;Posta de Salud Rural El Prado;110495;12;106;16;14;136;207;65.7;65.7;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;San Pedro;Municipal;Posta de Salud Rural La Manga;110490;12;24;5;7;36;52;69.23;69.23;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;San Pedro;Municipal;Posta de Salud Rural Loica;110485;12;70;18;8;96;175;54.86;54.86;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;San Pedro;Municipal;Posta de Salud Rural Nihue;110492;12;37;5;6;48;58;82.76;82.76;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;San Ramón;Municipal;Centro Comunitario de Salud Familiar Modelo;114714;12;207;57;74;338;384;88.02;88.02;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;San Ramón;Municipal;Centro de Salud Familiar Dr. Salvador Allende (Ex Consultorio San Ramón);114314;12;598;294;229;1121;1561;71.81;71.81;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;San Ramón;Municipal;Centro de Salud Familiar La Bandera;114307;12;959;186;55;1200;1665;72.07;72.07;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Sur Oriente;San Ramón;Municipal;Centro de Salud Familiar Poetisa Gabriela Mistral;114328;12;756;90;98;944;1664;56.73;56.73;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Santiago;Municipal;Centro de Salud Familiar Arauco;111372;12;702;139;143;984;1625;60.55;60.55;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Santiago;Municipal;Centro de Salud Familiar Ignacio Domeyko;111381;12;2341;521;417;3279;6928;47.33;47.33;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Santiago;Municipal;Centro de Salud Familiar Matta Sur;111376;12;1836;368;319;2523;3483;72.44;72.44;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Santiago;Servicio de Salud;Centro de Salud Familiar N° 1 Dr. Ramón Corbalán Melgarejo;111300;12;2291;293;349;2933;4070;72.06;72.06;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Santiago;Servicio de Salud;Centro de Salud Familiar Nº 5;111301;12;1489;259;204;1952;1576;123.86;123.86;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Central;Santiago;Municipal;Centro de Salud Familiar Padre Orellana;111370;12;1529;275;227;2031;3909;51.96;51.96;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Talagante;Municipal;Centro Comunitario de Salud Familiar Villa Los Presidentes;200365;12;189;50;37;276;115;240.0;240.0;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Talagante;Municipal;Centro de Salud Familiar Dr. Alberto Allende Jones;110390;12;2110;393;394;2897;2566;112.9;112.9;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Occidente;Talagante;Municipal;Posta de Salud Rural Aliro Cárcarmo (Lonquén);110400;12;113;33;33;179;61;293.44;293.44;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Tiltil;Municipal;Centro de Salud Familiar Huertos Familiares;109320;12;138;0;0;138;746;18.5;18.5;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Tiltil;Servicio de Salud;Hospital de Til Til;109104;12;177;22;23;222;0;;;Sin denominador FONASA
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Tiltil;Municipal;Posta de Salud Rural La Capilla de Caleu;109410;12;0;0;0;0;24;0.0;0.0;Sin P2 reportado
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Tiltil;Municipal;Posta de Salud Rural Montenegro;109412;12;0;0;0;0;41;0.0;0.0;Sin P2 reportado
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Tiltil;Municipal;Posta de Salud Rural Polpaico;109414;12;0;0;0;0;439;0.0;0.0;Sin P2 reportado
+Metropolitana de Santiago;Servicio de Salud Metropolitano Norte;Tiltil;Municipal;Posta de Salud Rural Rungue;109413;12;0;0;0;0;49;0.0;0.0;Sin P2 reportado
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Vitacura;Municipal;Centro de Salud Familiar Vitacura;112309;12;212;37;49;298;373;79.89;79.89;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Ñuñoa;Municipal;Centro Comunitario de Salud Familiar Villa Olímpica;200236;12;0;0;0;0;3;0.0;0.0;Sin P2 reportado
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Ñuñoa;Municipal;Centro de Salud Familiar Rosita Renard;112310;12;1423;206;246;1875;2296;81.66;81.66;
+Metropolitana de Santiago;Servicio de Salud Metropolitano Oriente;Ñuñoa;Municipal;Centro de Salud Familiar Salvador Bustos;112311;12;1192;157;191;1540;1871;82.31;82.31;

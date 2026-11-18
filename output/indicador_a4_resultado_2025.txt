@@ -2,10 +2,10 @@ Indicador A4
 
 Porcentaje de controles de salud entregados a diadas dentro de los 10 dias de vida del recien nacido o nacida
 
-Numerador: 60074
-Denominador: 80075
-Porcentaje: 75.02
-Filas filtradas: 19829
+Numerador: 73901
+Denominador: 97280
+Porcentaje: 75.97
+Filas filtradas: 25284
 
 Codigos del numerador:
 - 01110106: Puérpera con recién nacido hasta 10 días de vida - Médico/a

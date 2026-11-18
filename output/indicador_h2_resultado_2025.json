@@ -17,10 +17,10 @@
     "IdEstablecimiento": null
   },
   "resultado": {
-    "numerador": 73885,
-    "denominador": 83449,
-    "porcentaje": 88.54,
-    "filas_filtradas": 4864
+    "numerador": 84394,
+    "denominador": 95096,
+    "porcentaje": 88.75,
+    "filas_filtradas": 5913
   },
   "detalle_codigos": {
     "numerador_partos_vaginales": {

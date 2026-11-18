@@ -2,10 +2,10 @@ Indicador A2
 
 Porcentaje de gestantes que ingresan a educacion grupal presencial o remota en APS de tematicas de autocuidado, preparacion para el parto y apoyo a la crianza
 
-Numerador: 49818
-Denominador: 105737
-Porcentaje: 47.12
-Filas filtradas: 16815
+Numerador: 59335
+Denominador: 127908
+Porcentaje: 46.39
+Filas filtradas: 21348
 
 Detalle numerador:
 - Codigo: 27500110

@@ -17,10 +17,10 @@
     "IdEstablecimiento": null
   },
   "resultado": {
-    "numerador": 49818,
-    "denominador": 105737,
-    "porcentaje": 47.12,
-    "filas_filtradas": 16815
+    "numerador": 59335,
+    "denominador": 127908,
+    "porcentaje": 46.39,
+    "filas_filtradas": 21348
   },
   "detalle_codigos": {
     "numerador": {
